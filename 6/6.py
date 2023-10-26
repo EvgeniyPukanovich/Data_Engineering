@@ -1,15 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 
-# Make a request to the API
 url = "https://rickandmortyapi.com/api/character"
 response = requests.get(url)
 data = response.json()
 
-# Extract the "results" array
 characters = data["results"]
 
-# Create an HTML document with a table
 html_content = """
 <!DOCTYPE html>
 <html lang="en">
@@ -70,7 +67,6 @@ html_content += """
 </html>
 """
 
-# Save the HTML content to a file
 with open("rick_and_morty_characters.html", "w", encoding="utf-8") as file:
     file.write(html_content)
 
