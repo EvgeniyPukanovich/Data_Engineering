@@ -11,7 +11,7 @@ for l in lines:
     nums = l.strip().split(",")
     res = list()
     for i in range(len(nums)):
-        if nums[i] == "NA" or nums[i] == "-1":
+        if nums[i] == "NA":
             num = float((int(nums[i-1]) + int(nums[i+1]))/2)
             if math.sqrt(num) >= 96:
                 res.append(num)
