@@ -1,7 +1,7 @@
 import numpy as np
 import os
 
-matrix = np.load("matrix_46_2.npy")
+matrix = np.load('matrix_46_2.npy')
 
 size = len(matrix)
 
@@ -18,8 +18,8 @@ for i in range(0, size):
             y.append(j)
             z.append(matrix[i][j])
 
-np.savez("points", x=x, y=y, z=z)
-np.savez_compressed("points_zip", x=x, y=y, z=z)
+np.savez('points', x=x, y=y, z=z)
+np.savez_compressed('points_zip', x=x, y=y, z=z)
 
-print(f"non compressed {os.path.getsize('points.npz')}")
-print(f"compressed     {os.path.getsize('points_zip.npz')}")
+print(f'non compressed {os.path.getsize('points.npz')}')
+print(f'compressed     {os.path.getsize('points_zip.npz')}')

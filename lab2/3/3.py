@@ -16,14 +16,14 @@ for item in data:
 results = list()
 
 for name, prices in products.items():
-    results.append( {
-        'name': name,
-        'max': max(prices),
-        'min': min(prices),
-        'avr': sum(prices) / len(prices)
-    })
-
-print(results)
+    results.append(
+        {
+            'name': name,
+            'max': max(prices),
+            'min': min(prices),
+            'avr': sum(prices) / len(prices),
+        }
+    )
 
 with open('products_result.json', 'w') as r_json:
     r_json.write(json.dumps(results))
@@ -31,5 +31,5 @@ with open('products_result.json', 'w') as r_json:
 with open('products_result.msgpack', 'wb') as r_msgpack:
     r_msgpack.write(msgpack.dumps(results))
 
-print(f"json    = {os.path.getsize('products_result.json')}")
-print(f"msgpack = {os.path.getsize('products_result.msgpack')}")
+print(f'json    = {os.path.getsize('products_result.json')}')
+print(f'msgpack = {os.path.getsize('products_result.msgpack')}')
