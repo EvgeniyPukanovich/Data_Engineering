@@ -129,7 +129,7 @@ msrp_avr = msrp_sum / msrp_non_empty
 msrp_dev = get_std_dev(msrp_avr, lambda x: x.msrp)
 
 result = {
-    "cite_freq": dict(
+    "city_freq": dict(
         sorted(city_dict.items(), reverse=True, key=lambda item: item[1])
     ),
     "state_freq": dict(
@@ -180,7 +180,7 @@ with open(filename, newline="\n", encoding="utf-8") as file:
         r_json.write(json.dumps(res))
 
     with open("copy.msgpack", "wb") as r_msgpack:
-        r_msgpack.write(msgpack.dumps(res))
+        r_msgpack.write(msgpack.dumps(res)) # type: ignore
 
     with open("copy.pkl", "wb") as f:
         f.write(pickle.dumps(res))
