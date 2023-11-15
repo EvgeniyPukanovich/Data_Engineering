@@ -1,10 +1,8 @@
 import json
 import zipfile
-import os
 import sys
 from bs4 import BeautifulSoup
 
-# Путь к вашему ZIP-архиву
 zip_file_path = "zip_var_46.zip"
 
 data = list()
@@ -30,21 +28,15 @@ def handle_int_value(
     return max, min, non_empty, sum
 
 
-# Открываем ZIP-архив
 with zipfile.ZipFile(zip_file_path, "r") as zip_ref:
-    # Получаем список файлов в архиве
     file_list = zip_ref.namelist()
 
-    # Перебираем файлы
     for filename in file_list:
-        # Извлекаем текущий файл во временную папку
         with zip_ref.open(filename) as file:
             html_content = file.read()
 
-        # Используем BeautifulSoup для парсинга HTML
         soup = BeautifulSoup(html_content, "html.parser")
 
-        # Получаем необходимые данные
         category = (
             soup.find("div", class_="book-wrapper")
             .find_all_next("div")[0]
@@ -104,7 +96,6 @@ with zipfile.ZipFile(zip_file_path, "r") as zip_ref:
             .strip()
         )
 
-        # Создаем словарь с данными о книге
         book_data = {
             "category": category,
             "title": book_title,
@@ -168,6 +159,7 @@ with open("rating_stats.json", "w") as r_json:
             indent=2,
         )
     )
+
 freq_sorted = dict(sorted(category_freq.items(), key=lambda x: x[1], reverse=True))
 
 with open("category_freq.json", "w", encoding="utf-8") as r_json:
