@@ -4,7 +4,6 @@ import sys
 from bs4 import BeautifulSoup
 import re
 
-# Путь к вашему ZIP-архиву
 zip_file_path = "zip_var_46.zip"
 
 data = list()
@@ -42,24 +41,19 @@ with zipfile.ZipFile(zip_file_path, "r") as zip_ref:
         for product_div in soup.find_all("div", class_="pad"):
             product_data = {}
 
-            # Extract data-id
             product_data["data_id"] = product_div.find("a", class_="add-to-favorite")[
                 "data-id"
             ]
 
-            # Extract name
             product_data["name"] = product_div.find("span").get_text(strip=True)
 
-            # Extract price
             product_data["price"] = int(
                 product_div.find("price").get_text(strip=True).replace(" ", "")[:-1]
             )
 
-            # Extract bonus
             bonus_strong = product_div.find("strong")
             product_data["bonus"] = int(bonus_strong.get_text(strip=True).split()[2])
 
-            # Extract data from ul
             ul_data = {}
             ul = product_div.find("ul")
             if ul:

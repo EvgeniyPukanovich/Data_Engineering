@@ -112,8 +112,6 @@ with zipfile.ZipFile(zip_file_path, "r") as zip_ref:
         data.append(book_data)
 
 
-print(data)
-
 sorted_rating = sorted(data, key=lambda x: x["year"])
 
 filtered_pages = list(filter(lambda x: x["pages"] > 400, sorted_rating))

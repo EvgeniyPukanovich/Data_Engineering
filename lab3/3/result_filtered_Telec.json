@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Вега 4401",
+    "constellation": "Телец",
+    "spectral_class": "Y7X",
+    "radius": 62766492,
+    "rotation": 308.69,
+    "age": 0.24,
+    "distance": 7537887.35,
+    "absolute_magnitude": 9.08
+  },
+  {
+    "name": "Солнце 4757",
+    "constellation": "Телец",
+    "spectral_class": "Y1D",
+    "radius": 972136987,
+    "rotation": 751.74,
+    "age": 0.31,
+    "distance": 7431190.58,
+    "absolute_magnitude": 8.68
+  },
+  {
+    "name": "Вега 6184",
+    "constellation": "Телец",
+    "spectral_class": "U2Q",
+    "radius": 103652113,
+    "rotation": 988.73,
+    "age": 0.45,
+    "distance": 2201980.11,
+    "absolute_magnitude": 1.87
+  },
+  {
+    "name": "Фомальгаут 7564",
+    "constellation": "Телец",
+    "spectral_class": "K7D",
+    "radius": 457303810,
+    "rotation": 955.53,
+    "age": 0.59,
+    "distance": 4891467.13,
+    "absolute_magnitude": 3.03
+  },
+  {
+    "name": "Ригель 3555",
+    "constellation": "Телец",
+    "spectral_class": "V2L",
+    "radius": 610554802,
+    "rotation": 274.68,
+    "age": 0.62,
+    "distance": 8940202.83,
+    "absolute_magnitude": 6.34
+  },
+  {
+    "name": "Солнце 4286",
+    "constellation": "Телец",
+    "spectral_class": "R4T",
+    "radius": 203913494,
+    "rotation": 764.24,
+    "age": 0.78,
+    "distance": 4277411.19,
+    "absolute_magnitude": 9.71
+  },
+  {
+    "name": "Ригель 3800",
+    "constellation": "Телец",
+    "spectral_class": "X3I",
+    "radius": 743195250,
+    "rotation": 334.01,
+    "age": 0.96,
+    "distance": 3579528.51,
+    "absolute_magnitude": 3.46
+  },
+  {
+    "name": "Фомалхаут 4824",
+    "constellation": "Телец",
+    "spectral_class": "L9K",
+    "radius": 38024230,
+    "rotation": 139.39,
+    "age": 1.21,
+    "distance": 1988071.64,
+    "absolute_magnitude": 9.07
+  },
+  {
+    "name": "Хадар 3303",
+    "constellation": "Телец",
+    "spectral_class": "R8Y",
+    "radius": 745940862,
+    "rotation": 126.89,
+    "age": 1.27,
+    "distance": 9417023.4,
+    "absolute_magnitude": 4.16
+  },
+  {
+    "name": "Хадар 9691",
+    "constellation": "Телец",
+    "spectral_class": "W5M",
+    "radius": 689010637,
+    "rotation": 854.0,
+    "age": 1.35,
+    "distance": 8762895.69,
+    "absolute_magnitude": 2.22
+  },
+  {
+    "name": "Акрукс 3156",
+    "constellation": "Телец",
+    "spectral_class": "U6K",
+    "radius": 677547337,
+    "rotation": 300.09,
+    "age": 1.41,
+    "distance": 1107515.72,
+    "absolute_magnitude": 7.88
+  },
+  {
+    "name": "Бетельгейзе 4181",
+    "constellation": "Телец",
+    "spectral_class": "W1L",
+    "radius": 459853468,
+    "rotation": 281.23,
+    "age": 1.56,
+    "distance": 7479847.4,
+    "absolute_magnitude": 4.11
+  },
+  {
+    "name": "Фомалхаут 3338",
+    "constellation": "Телец",
+    "spectral_class": "J7S",
+    "radius": 601808204,
+    "rotation": 312.81,
+    "age": 1.61,
+    "distance": 922156.46,
+    "absolute_magnitude": 5.66
+  },
+  {
+    "name": "Полярная звезда 2127",
+    "constellation": "Телец",
+    "spectral_class": "P1X",
+    "radius": 451225385,
+    "rotation": 232.13,
+    "age": 1.64,
+    "distance": 7326177.18,
+    "absolute_magnitude": 1.12
+  },
+  {
+    "name": "Бетельгейзе 5383",
+    "constellation": "Телец",
+    "spectral_class": "B4P",
+    "radius": 878315343,
+    "rotation": 384.55,
+    "age": 1.7,
+    "distance": 6968359.77,
+    "absolute_magnitude": 8.59
+  },
+  {
+    "name": "Ригель 7409",
+    "constellation": "Телец",
+    "spectral_class": "R0E",
+    "radius": 11787533,
+    "rotation": 628.33,
+    "age": 1.86,
+    "distance": 6557057.03,
+    "absolute_magnitude": 9.76
+  },
+  {
+    "name": "Фомальгаут 4054",
+    "constellation": "Телец",
+    "spectral_class": "K1H",
+    "radius": 746078415,
+    "rotation": 999.66,
+    "age": 1.95,
+    "distance": 8108373.84,
+    "absolute_magnitude": 9.05
+  },
+  {
+    "name": "Вега 2830",
+    "constellation": "Телец",
+    "spectral_class": "M5F",
+    "radius": 484879619,
+    "rotation": 909.61,
+    "age": 2.13,
+    "distance": 2987656.21,
+    "absolute_magnitude": 2.5
+  },
+  {
+    "name": "Полярная звезда 7598",
+    "constellation": "Телец",
+    "spectral_class": "N4A",
+    "radius": 318615508,
+    "rotation": 701.64,
+    "age": 2.3,
+    "distance": 3336331.03,
+    "absolute_magnitude": 3.5
+  },
+  {
+    "name": "Альфа Центавра 6482",
+    "constellation": "Телец",
+    "spectral_class": "W6N",
+    "radius": 205251101,
+    "rotation": 561.06,
+    "age": 2.34,
+    "distance": 9731644.53,
+    "absolute_magnitude": 2.23
+  },
+  {
+    "name": "Бетельгейзе 8455",
+    "constellation": "Телец",
+    "spectral_class": "C9D",
+    "radius": 340947189,
+    "rotation": 743.31,
+    "age": 2.45,
+    "distance": 1774840.14,
+    "absolute_magnitude": 5.64
+  },
+  {
+    "name": "Бетельгейзе 5433",
+    "constellation": "Телец",
+    "spectral_class": "N5O",
+    "radius": 759212482,
+    "rotation": 11.12,
+    "age": 2.47,
+    "distance": 5986151.22,
+    "absolute_magnitude": 5.39
+  },
+  {
+    "name": "Канопус 4472",
+    "constellation": "Телец",
+    "spectral_class": "R8I",
+    "radius": 951535860,
+    "rotation": 322.01,
+    "age": 2.51,
+    "distance": 95810.58,
+    "absolute_magnitude": 5.03
+  },
+  {
+    "name": "Акрукс 3677",
+    "constellation": "Телец",
+    "spectral_class": "B6C",
+    "radius": 471992768,
+    "rotation": 658.75,
+    "age": 2.53,
+    "distance": 8108739.73,
+    "absolute_magnitude": 2.25
+  },
+  {
+    "name": "Акрукс 8238",
+    "constellation": "Телец",
+    "spectral_class": "Z2H",
+    "radius": 660920822,
+    "rotation": 510.41,
+    "age": 2.58,
+    "distance": 3717181.88,
+    "absolute_magnitude": 9.35
+  },
+  {
+    "name": "Хадар 1259",
+    "constellation": "Телец",
+    "spectral_class": "C0P",
+    "radius": 627265726,
+    "rotation": 527.19,
+    "age": 2.59,
+    "distance": 3194494.7,
+    "absolute_magnitude": 4.53
+  },
+  {
+    "name": "Хадар 7741",
+    "constellation": "Телец",
+    "spectral_class": "X5K",
+    "radius": 95883639,
+    "rotation": 617.14,
+    "age": 2.62,
+    "distance": 6373405.02,
+    "absolute_magnitude": 3.72
+  },
+  {
+    "name": "Антарес 7842",
+    "constellation": "Телец",
+    "spectral_class": "Z3W",
+    "radius": 144042294,
+    "rotation": 673.72,
+    "age": 2.77,
+    "distance": 6794899.36,
+    "absolute_magnitude": 2.33
+  },
+  {
+    "name": "Ригель 2141",
+    "constellation": "Телец",
+    "spectral_class": "S4I",
+    "radius": 964695221,
+    "rotation": 194.43,
+    "age": 2.78,
+    "distance": 7991312.86,
+    "absolute_magnitude": 8.64
+  },
+  {
+    "name": "Фомальгаут 9588",
+    "constellation": "Телец",
+    "spectral_class": "K9Q",
+    "radius": 811417405,
+    "rotation": 762.84,
+    "age": 2.79,
+    "distance": 4263186.59,
+    "absolute_magnitude": 9.43
+  },
+  {
+    "name": "Антарес 9693",
+    "constellation": "Телец",
+    "spectral_class": "J4X",
+    "radius": 567916996,
+    "rotation": 743.73,
+    "age": 2.93,
+    "distance": 6471996.4,
+    "absolute_magnitude": 3.59
+  },
+  {
+    "name": "Солнце 4684",
+    "constellation": "Телец",
+    "spectral_class": "J2J",
+    "radius": 488103953,
+    "rotation": 498.37,
+    "age": 3.06,
+    "distance": 5986172.75,
+    "absolute_magnitude": 8.14
+  },
+  {
+    "name": "Фомалхаут 1809",
+    "constellation": "Телец",
+    "spectral_class": "S5X",
+    "radius": 424648367,
+    "rotation": 800.62,
+    "age": 3.1,
+    "distance": 3493793.77,
+    "absolute_magnitude": 3.16
+  },
+  {
+    "name": "Альфа Центавра 6198",
+    "constellation": "Телец",
+    "spectral_class": "Q7W",
+    "radius": 471349011,
+    "rotation": 594.85,
+    "age": 3.43,
+    "distance": 8395109.28,
+    "absolute_magnitude": 6.64
+  },
+  {
+    "name": "Ригель 3544",
+    "constellation": "Телец",
+    "spectral_class": "F0R",
+    "radius": 246336338,
+    "rotation": 173.42,
+    "age": 3.54,
+    "distance": 8172357.36,
+    "absolute_magnitude": 8.54
+  },
+  {
+    "name": "Фомальгаут 1372",
+    "constellation": "Телец",
+    "spectral_class": "L7S",
+    "radius": 387824626,
+    "rotation": 674.2,
+    "age": 3.64,
+    "distance": 2680288.99,
+    "absolute_magnitude": 7.04
+  },
+  {
+    "name": "Альфа Центавра 1492",
+    "constellation": "Телец",
+    "spectral_class": "E8L",
+    "radius": 599086131,
+    "rotation": 44.77,
+    "age": 3.7,
+    "distance": 1727082.68,
+    "absolute_magnitude": 9.69
+  },
+  {
+    "name": "Фомальгаут 3173",
+    "constellation": "Телец",
+    "spectral_class": "T4E",
+    "radius": 593091185,
+    "rotation": 919.28,
+    "age": 4.19,
+    "distance": 9957646.59,
+    "absolute_magnitude": 1.57
+  },
+  {
+    "name": "Солнце 1105",
+    "constellation": "Телец",
+    "spectral_class": "C1X",
+    "radius": 347412973,
+    "rotation": 269.99,
+    "age": 4.24,
+    "distance": 9635785.46,
+    "absolute_magnitude": 7.39
+  },
+  {
+    "name": "Альфа Центавра 2860",
+    "constellation": "Телец",
+    "spectral_class": "V7F",
+    "radius": 457918195,
+    "rotation": 75.68,
+    "age": 4.33,
+    "distance": 7597193.43,
+    "absolute_magnitude": 7.46
+  },
+  {
+    "name": "Фомалхаут 6062",
+    "constellation": "Телец",
+    "spectral_class": "C6X",
+    "radius": 6631648,
+    "rotation": 254.13,
+    "age": 4.37,
+    "distance": 7444971.09,
+    "absolute_magnitude": 5.58
+  },
+  {
+    "name": "Фомалхаут 4289",
+    "constellation": "Телец",
+    "spectral_class": "U9T",
+    "radius": 310002109,
+    "rotation": 280.71,
+    "age": 4.48,
+    "distance": 8832874.03,
+    "absolute_magnitude": 4.79
+  },
+  {
+    "name": "Бетельгейзе 3211",
+    "constellation": "Телец",
+    "spectral_class": "B7X",
+    "radius": 710935154,
+    "rotation": 536.39,
+    "age": 4.51,
+    "distance": 5353772.27,
+    "absolute_magnitude": 9.54
+  },
+  {
+    "name": "Антарес 1622",
+    "constellation": "Телец",
+    "spectral_class": "B3H",
+    "radius": 667814612,
+    "rotation": 459.86,
+    "age": 4.82,
+    "distance": 3132948.89,
+    "absolute_magnitude": 8.29
+  },
+  {
+    "name": "Солнце 5359",
+    "constellation": "Телец",
+    "spectral_class": "H8K",
+    "radius": 838085054,
+    "rotation": 153.46,
+    "age": 4.99,
+    "distance": 3390322.69,
+    "absolute_magnitude": 2.98
+  },
+  {
+    "name": "Вега 8034",
+    "constellation": "Телец",
+    "spectral_class": "I9U",
+    "radius": 155068347,
+    "rotation": 422.91,
+    "age": 5.16,
+    "distance": 6130166.1,
+    "absolute_magnitude": 1.24
+  },
+  {
+    "name": "Солнце 6142",
+    "constellation": "Телец",
+    "spectral_class": "H7U",
+    "radius": 665772140,
+    "rotation": 75.96,
+    "age": 5.18,
+    "distance": 2752824.57,
+    "absolute_magnitude": 3.54
+  },
+  {
+    "name": "Хадар 2539",
+    "constellation": "Телец",
+    "spectral_class": "K0M",
+    "radius": 961974062,
+    "rotation": 878.95,
+    "age": 5.37,
+    "distance": 6389172.7,
+    "absolute_magnitude": 7.21
+  },
+  {
+    "name": "Акрукс 2793",
+    "constellation": "Телец",
+    "spectral_class": "H2G",
+    "radius": 440533926,
+    "rotation": 540.47,
+    "age": 5.43,
+    "distance": 3675023.62,
+    "absolute_magnitude": 4.17
+  },
+  {
+    "name": "Акрукс 4631",
+    "constellation": "Телец",
+    "spectral_class": "G8F",
+    "radius": 976844430,
+    "rotation": 892.47,
+    "age": 5.57,
+    "distance": 7173034.85,
+    "absolute_magnitude": 5.75
+  },
+  {
+    "name": "Фомальгаут 8130",
+    "constellation": "Телец",
+    "spectral_class": "F3T",
+    "radius": 908414818,
+    "rotation": 76.4,
+    "age": 5.84,
+    "distance": 3076706.83,
+    "absolute_magnitude": 2.07
+  },
+  {
+    "name": "Канопус 5049",
+    "constellation": "Телец",
+    "spectral_class": "S9R",
+    "radius": 544434619,
+    "rotation": 687.17,
+    "age": 5.91,
+    "distance": 7814763.36,
+    "absolute_magnitude": 6.26
+  },
+  {
+    "name": "Канопус 5849",
+    "constellation": "Телец",
+    "spectral_class": "N6V",
+    "radius": 682558776,
+    "rotation": 359.97,
+    "age": 5.95,
+    "distance": 4127805.3,
+    "absolute_magnitude": 3.66
+  },
+  {
+    "name": "Хадар 9827",
+    "constellation": "Телец",
+    "spectral_class": "B6S",
+    "radius": 99614360,
+    "rotation": 466.16,
+    "age": 5.96,
+    "distance": 8644092.4,
+    "absolute_magnitude": 7.12
+  }
+]
