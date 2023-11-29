@@ -1,0 +1,23 @@
+[
+  {
+    "category": "cosmetics",
+    "SUM(price)": 1359.2843500835677,
+    "MIN(price)": 9.28,
+    "MAX(price)": 138.6700750104,
+    "AVG(price)": 56.636847920148654
+  },
+  {
+    "category": "fruit",
+    "SUM(price)": 985.1209140125,
+    "MIN(price)": 13.59,
+    "MAX(price)": 171.230121,
+    "AVG(price)": 61.57005712578125
+  },
+  {
+    "category": "tools",
+    "SUM(price)": 1063.273991652232,
+    "MIN(price)": 13.18,
+    "MAX(price)": 97.0,
+    "AVG(price)": 53.163699582611606
+  }
+]

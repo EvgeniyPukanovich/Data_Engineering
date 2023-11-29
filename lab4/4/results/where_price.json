@@ -1,0 +1,35 @@
+[
+  {
+    "id": 15,
+    "name": "nice pineapple",
+    "price": 159.67512750000003,
+    "quantity": 673,
+    "category": "fruit",
+    "fromCity": "Ла-Корунья",
+    "isAvailable": 0,
+    "views": 43554,
+    "changeCount": 4
+  },
+  {
+    "id": 53,
+    "name": "nice face wash",
+    "price": 138.6700750104,
+    "quantity": 593,
+    "category": "cosmetics",
+    "fromCity": "Белград",
+    "isAvailable": 1,
+    "views": 95084,
+    "changeCount": 8
+  },
+  {
+    "id": 143,
+    "name": "exquisite guava",
+    "price": 171.230121,
+    "quantity": 930,
+    "category": "fruit",
+    "fromCity": "Любляна",
+    "isAvailable": 1,
+    "views": 86572,
+    "changeCount": 8
+  }
+]

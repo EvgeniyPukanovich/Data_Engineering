@@ -1,0 +1,3254 @@
+[
+  {
+    "name": "Sinquefield Cup 1976",
+    "min_rating": 2459,
+    "place": 0,
+    "prize": 47000000
+  },
+  {
+    "name": "Sinquefield Cup 1976",
+    "min_rating": 2459,
+    "place": 1,
+    "prize": 23500000
+  },
+  {
+    "name": "Sinquefield Cup 1976",
+    "min_rating": 2459,
+    "place": 2,
+    "prize": 11750000
+  },
+  {
+    "name": "Sinquefield Cup 1976",
+    "min_rating": 2459,
+    "place": 3,
+    "prize": 5875000
+  },
+  {
+    "name": "Sinquefield Cup 1978",
+    "min_rating": 2469,
+    "place": 0,
+    "prize": 50000000
+  },
+  {
+    "name": "Sinquefield Cup 1978",
+    "min_rating": 2469,
+    "place": 1,
+    "prize": 25000000
+  },
+  {
+    "name": "Sinquefield Cup 1978",
+    "min_rating": 2469,
+    "place": 2,
+    "prize": 12500000
+  },
+  {
+    "name": "Sinquefield Cup 1978",
+    "min_rating": 2469,
+    "place": 3,
+    "prize": 6250000
+  },
+  {
+    "name": "Sinquefield Cup 1978",
+    "min_rating": 2469,
+    "place": 4,
+    "prize": 3125000
+  },
+  {
+    "name": "Sinquefield Cup 1978",
+    "min_rating": 2469,
+    "place": 5,
+    "prize": 1562500
+  },
+  {
+    "name": "Sinquefield Cup 1978",
+    "min_rating": 2469,
+    "place": 6,
+    "prize": 781250
+  },
+  {
+    "name": "Sinquefield Cup 1978",
+    "min_rating": 2469,
+    "place": 7,
+    "prize": 390625
+  },
+  {
+    "name": "Sinquefield Cup 2016",
+    "min_rating": 2571,
+    "place": 0,
+    "prize": 18000000
+  },
+  {
+    "name": "Sinquefield Cup 2016",
+    "min_rating": 2571,
+    "place": 1,
+    "prize": 9000000
+  },
+  {
+    "name": "Sinquefield Cup 2016",
+    "min_rating": 2571,
+    "place": 2,
+    "prize": 4500000
+  },
+  {
+    "name": "Sinquefield Cup 2016",
+    "min_rating": 2571,
+    "place": 3,
+    "prize": 2250000
+  },
+  {
+    "name": "Sinquefield Cup 2016",
+    "min_rating": 2571,
+    "place": 4,
+    "prize": 1125000
+  },
+  {
+    "name": "Sinquefield Cup 2016",
+    "min_rating": 2571,
+    "place": 5,
+    "prize": 562500
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 0,
+    "prize": 8000000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 0,
+    "prize": 25000000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 1,
+    "prize": 4000000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 1,
+    "prize": 12500000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 2,
+    "prize": 2000000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 2,
+    "prize": 6250000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 3,
+    "prize": 3125000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 3,
+    "prize": 1000000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 4,
+    "prize": 1562500
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 4,
+    "prize": 500000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 5,
+    "prize": 781250
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 5,
+    "prize": 250000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 6,
+    "prize": 125000
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 6,
+    "prize": 390625
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 7,
+    "prize": 195312
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 7,
+    "prize": 62500
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 8,
+    "prize": 31250
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 9,
+    "prize": 15625
+  },
+  {
+    "name": "Алушта 1979",
+    "min_rating": 2560,
+    "place": 10,
+    "prize": 7812
+  },
+  {
+    "name": "Балтийская цепь 1967",
+    "min_rating": 2501,
+    "place": 0,
+    "prize": 24000000
+  },
+  {
+    "name": "Балтийская цепь 1967",
+    "min_rating": 2501,
+    "place": 1,
+    "prize": 12000000
+  },
+  {
+    "name": "Балтийская цепь 1967",
+    "min_rating": 2501,
+    "place": 2,
+    "prize": 6000000
+  },
+  {
+    "name": "Балтийская цепь 1967",
+    "min_rating": 2501,
+    "place": 3,
+    "prize": 3000000
+  },
+  {
+    "name": "Балтийская цепь 1967",
+    "min_rating": 2501,
+    "place": 4,
+    "prize": 1500000
+  },
+  {
+    "name": "Балтийская цепь 1967",
+    "min_rating": 2501,
+    "place": 5,
+    "prize": 750000
+  },
+  {
+    "name": "Балтийская цепь 1967",
+    "min_rating": 2501,
+    "place": 6,
+    "prize": 375000
+  },
+  {
+    "name": "Балтийская цепь 1967",
+    "min_rating": 2501,
+    "place": 7,
+    "prize": 187500
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 0,
+    "prize": 4000000
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 1,
+    "prize": 2000000
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 2,
+    "prize": 1000000
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 3,
+    "prize": 500000
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 4,
+    "prize": 250000
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 5,
+    "prize": 125000
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 6,
+    "prize": 62500
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 7,
+    "prize": 31250
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 8,
+    "prize": 15625
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 9,
+    "prize": 7812
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 10,
+    "prize": 3906
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 11,
+    "prize": 1953
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 12,
+    "prize": 1000
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 13,
+    "prize": 1000
+  },
+  {
+    "name": "Балтийская цепь 1999",
+    "min_rating": 2460,
+    "place": 14,
+    "prize": 1000
+  },
+  {
+    "name": "Биль 1957",
+    "min_rating": 2479,
+    "place": 0,
+    "prize": 5000000
+  },
+  {
+    "name": "Биль 1957",
+    "min_rating": 2479,
+    "place": 1,
+    "prize": 2500000
+  },
+  {
+    "name": "Биль 1957",
+    "min_rating": 2479,
+    "place": 2,
+    "prize": 1250000
+  },
+  {
+    "name": "Биль 1957",
+    "min_rating": 2479,
+    "place": 3,
+    "prize": 625000
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 0,
+    "prize": 37000000
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 1,
+    "prize": 18500000
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 2,
+    "prize": 9250000
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 3,
+    "prize": 4625000
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 4,
+    "prize": 2312500
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 5,
+    "prize": 1156250
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 6,
+    "prize": 578125
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 7,
+    "prize": 289062
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 8,
+    "prize": 144531
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 9,
+    "prize": 72266
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 10,
+    "prize": 36133
+  },
+  {
+    "name": "Биль 1971",
+    "min_rating": 2494,
+    "place": 11,
+    "prize": 18066
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 0,
+    "prize": 32000000
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 1,
+    "prize": 16000000
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 2,
+    "prize": 8000000
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 3,
+    "prize": 4000000
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 4,
+    "prize": 2000000
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 5,
+    "prize": 1000000
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 6,
+    "prize": 500000
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 7,
+    "prize": 250000
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 8,
+    "prize": 125000
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 9,
+    "prize": 62500
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 10,
+    "prize": 31250
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 11,
+    "prize": 15625
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 12,
+    "prize": 7812
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 13,
+    "prize": 3906
+  },
+  {
+    "name": "Вена 1991",
+    "min_rating": 2636,
+    "place": 14,
+    "prize": 1953
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 0,
+    "prize": 32000000
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 1,
+    "prize": 16000000
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 2,
+    "prize": 8000000
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 3,
+    "prize": 4000000
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 4,
+    "prize": 2000000
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 5,
+    "prize": 1000000
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 6,
+    "prize": 500000
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 7,
+    "prize": 250000
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 8,
+    "prize": 125000
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 9,
+    "prize": 62500
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 10,
+    "prize": 31250
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 11,
+    "prize": 15625
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 12,
+    "prize": 7812
+  },
+  {
+    "name": "Вена 2018",
+    "min_rating": 2505,
+    "place": 13,
+    "prize": 3906
+  },
+  {
+    "name": "Гашиш 1970",
+    "min_rating": 2596,
+    "place": 0,
+    "prize": 46000000
+  },
+  {
+    "name": "Гашиш 1970",
+    "min_rating": 2596,
+    "place": 1,
+    "prize": 23000000
+  },
+  {
+    "name": "Гашиш 1970",
+    "min_rating": 2596,
+    "place": 2,
+    "prize": 11500000
+  },
+  {
+    "name": "Гашиш 1970",
+    "min_rating": 2596,
+    "place": 3,
+    "prize": 5750000
+  },
+  {
+    "name": "Гашиш 1999",
+    "min_rating": 2482,
+    "place": 0,
+    "prize": 39000000
+  },
+  {
+    "name": "Гашиш 1999",
+    "min_rating": 2482,
+    "place": 1,
+    "prize": 19500000
+  },
+  {
+    "name": "Гашиш 1999",
+    "min_rating": 2482,
+    "place": 2,
+    "prize": 9750000
+  },
+  {
+    "name": "Гашиш 1999",
+    "min_rating": 2482,
+    "place": 3,
+    "prize": 4875000
+  },
+  {
+    "name": "Гашиш 1999",
+    "min_rating": 2482,
+    "place": 4,
+    "prize": 2437500
+  },
+  {
+    "name": "Гашиш 1999",
+    "min_rating": 2482,
+    "place": 5,
+    "prize": 1218750
+  },
+  {
+    "name": "Гашиш 1999",
+    "min_rating": 2482,
+    "place": 6,
+    "prize": 609375
+  },
+  {
+    "name": "Гашиш 1999",
+    "min_rating": 2482,
+    "place": 7,
+    "prize": 304688
+  },
+  {
+    "name": "Гашиш 1999",
+    "min_rating": 2482,
+    "place": 8,
+    "prize": 152344
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 0,
+    "prize": 6000000
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 1,
+    "prize": 3000000
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 2,
+    "prize": 1500000
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 3,
+    "prize": 750000
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 4,
+    "prize": 375000
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 5,
+    "prize": 187500
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 6,
+    "prize": 93750
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 7,
+    "prize": 46875
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 8,
+    "prize": 23438
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 9,
+    "prize": 11719
+  },
+  {
+    "name": "Гашиш 2002",
+    "min_rating": 2584,
+    "place": 10,
+    "prize": 5859
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 0,
+    "prize": 16000000
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 1,
+    "prize": 8000000
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 2,
+    "prize": 4000000
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 3,
+    "prize": 2000000
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 4,
+    "prize": 1000000
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 5,
+    "prize": 500000
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 6,
+    "prize": 250000
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 7,
+    "prize": 125000
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 8,
+    "prize": 62500
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 9,
+    "prize": 31250
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 10,
+    "prize": 15625
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 11,
+    "prize": 7812
+  },
+  {
+    "name": "Гашиш 2017",
+    "min_rating": 2636,
+    "place": 12,
+    "prize": 3906
+  },
+  {
+    "name": "Гашиш 2022",
+    "min_rating": 2509,
+    "place": 0,
+    "prize": 46000000
+  },
+  {
+    "name": "Гашиш 2022",
+    "min_rating": 2509,
+    "place": 1,
+    "prize": 23000000
+  },
+  {
+    "name": "Гашиш 2022",
+    "min_rating": 2509,
+    "place": 2,
+    "prize": 11500000
+  },
+  {
+    "name": "Гашиш 2022",
+    "min_rating": 2509,
+    "place": 3,
+    "prize": 5750000
+  },
+  {
+    "name": "Гашиш 2022",
+    "min_rating": 2509,
+    "place": 4,
+    "prize": 2875000
+  },
+  {
+    "name": "Гашиш 2022",
+    "min_rating": 2509,
+    "place": 5,
+    "prize": 1437500
+  },
+  {
+    "name": "Гашиш 2022",
+    "min_rating": 2509,
+    "place": 6,
+    "prize": 718750
+  },
+  {
+    "name": "Гашиш 2022",
+    "min_rating": 2509,
+    "place": 7,
+    "prize": 359375
+  },
+  {
+    "name": "Гашиш 2022",
+    "min_rating": 2509,
+    "place": 8,
+    "prize": 179688
+  },
+  {
+    "name": "Гашиш 2022",
+    "min_rating": 2509,
+    "place": 9,
+    "prize": 89844
+  },
+  {
+    "name": "Гашиш 2024",
+    "min_rating": 2446,
+    "place": 0,
+    "prize": 3000000
+  },
+  {
+    "name": "Гашиш 2024",
+    "min_rating": 2446,
+    "place": 1,
+    "prize": 1500000
+  },
+  {
+    "name": "Гашиш 2024",
+    "min_rating": 2446,
+    "place": 2,
+    "prize": 750000
+  },
+  {
+    "name": "Гашиш 2024",
+    "min_rating": 2446,
+    "place": 3,
+    "prize": 375000
+  },
+  {
+    "name": "Гашиш 2024",
+    "min_rating": 2446,
+    "place": 4,
+    "prize": 187500
+  },
+  {
+    "name": "Гашиш 2024",
+    "min_rating": 2446,
+    "place": 5,
+    "prize": 93750
+  },
+  {
+    "name": "Гашиш 2024",
+    "min_rating": 2446,
+    "place": 6,
+    "prize": 46875
+  },
+  {
+    "name": "Гран-при ФИДЕ 1964",
+    "min_rating": 2401,
+    "place": 0,
+    "prize": 18000000
+  },
+  {
+    "name": "Гран-при ФИДЕ 1964",
+    "min_rating": 2401,
+    "place": 1,
+    "prize": 9000000
+  },
+  {
+    "name": "Гран-при ФИДЕ 1964",
+    "min_rating": 2401,
+    "place": 2,
+    "prize": 4500000
+  },
+  {
+    "name": "Европа 1979",
+    "min_rating": 2451,
+    "place": 0,
+    "prize": 36000000
+  },
+  {
+    "name": "Европа 1979",
+    "min_rating": 2451,
+    "place": 1,
+    "prize": 18000000
+  },
+  {
+    "name": "Европа 1979",
+    "min_rating": 2451,
+    "place": 2,
+    "prize": 9000000
+  },
+  {
+    "name": "Европа 1979",
+    "min_rating": 2451,
+    "place": 3,
+    "prize": 4500000
+  },
+  {
+    "name": "Европа 1988",
+    "min_rating": 2482,
+    "place": 0,
+    "prize": 36000000
+  },
+  {
+    "name": "Европа 1988",
+    "min_rating": 2482,
+    "place": 1,
+    "prize": 18000000
+  },
+  {
+    "name": "Европа 1988",
+    "min_rating": 2482,
+    "place": 2,
+    "prize": 9000000
+  },
+  {
+    "name": "Европа 1988",
+    "min_rating": 2482,
+    "place": 3,
+    "prize": 4500000
+  },
+  {
+    "name": "Европа 1988",
+    "min_rating": 2482,
+    "place": 4,
+    "prize": 2250000
+  },
+  {
+    "name": "Европа 1988",
+    "min_rating": 2482,
+    "place": 5,
+    "prize": 1125000
+  },
+  {
+    "name": "Европа 1988",
+    "min_rating": 2482,
+    "place": 6,
+    "prize": 562500
+  },
+  {
+    "name": "Европа 1988",
+    "min_rating": 2482,
+    "place": 7,
+    "prize": 281250
+  },
+  {
+    "name": "Европа 1988",
+    "min_rating": 2482,
+    "place": 8,
+    "prize": 140625
+  },
+  {
+    "name": "Европа 1988",
+    "min_rating": 2482,
+    "place": 9,
+    "prize": 70312
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 0,
+    "prize": 31000000
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 1,
+    "prize": 15500000
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 2,
+    "prize": 7750000
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 3,
+    "prize": 3875000
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 4,
+    "prize": 1937500
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 5,
+    "prize": 968750
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 6,
+    "prize": 484375
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 7,
+    "prize": 242188
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 8,
+    "prize": 121094
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 9,
+    "prize": 60547
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 10,
+    "prize": 30273
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 11,
+    "prize": 15137
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 12,
+    "prize": 7568
+  },
+  {
+    "name": "Европа 1992",
+    "min_rating": 2510,
+    "place": 13,
+    "prize": 3784
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 0,
+    "prize": 29000000
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 1,
+    "prize": 14500000
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 2,
+    "prize": 7250000
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 3,
+    "prize": 3625000
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 4,
+    "prize": 1812500
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 5,
+    "prize": 906250
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 6,
+    "prize": 453125
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 7,
+    "prize": 226562
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 8,
+    "prize": 113281
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 9,
+    "prize": 56641
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 10,
+    "prize": 28320
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 11,
+    "prize": 14160
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 12,
+    "prize": 7080
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 13,
+    "prize": 3540
+  },
+  {
+    "name": "Европа 2007",
+    "min_rating": 2417,
+    "place": 14,
+    "prize": 2500
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 0,
+    "prize": 13000000
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 1,
+    "prize": 6500000
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 2,
+    "prize": 3250000
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 3,
+    "prize": 1625000
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 4,
+    "prize": 812500
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 5,
+    "prize": 406250
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 6,
+    "prize": 203125
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 7,
+    "prize": 101562
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 8,
+    "prize": 50781
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 9,
+    "prize": 25391
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 10,
+    "prize": 12695
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 11,
+    "prize": 6348
+  },
+  {
+    "name": "Кубок мира 1955",
+    "min_rating": 2494,
+    "place": 12,
+    "prize": 3174
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 0,
+    "prize": 38000000
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 1,
+    "prize": 19000000
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 2,
+    "prize": 9500000
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 3,
+    "prize": 4750000
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 4,
+    "prize": 2375000
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 5,
+    "prize": 1187500
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 6,
+    "prize": 593750
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 7,
+    "prize": 296875
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 8,
+    "prize": 148438
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 9,
+    "prize": 74219
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 10,
+    "prize": 37109
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 11,
+    "prize": 18555
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 12,
+    "prize": 9277
+  },
+  {
+    "name": "Кубок мира 1960",
+    "min_rating": 2515,
+    "place": 13,
+    "prize": 4639
+  },
+  {
+    "name": "Кубок мира 2009",
+    "min_rating": 2489,
+    "place": 0,
+    "prize": 3000000
+  },
+  {
+    "name": "Кубок мира 2009",
+    "min_rating": 2489,
+    "place": 1,
+    "prize": 1500000
+  },
+  {
+    "name": "Кубок мира 2009",
+    "min_rating": 2489,
+    "place": 2,
+    "prize": 750000
+  },
+  {
+    "name": "Кубок мира 2009",
+    "min_rating": 2489,
+    "place": 3,
+    "prize": 375000
+  },
+  {
+    "name": "Линарес 1953",
+    "min_rating": 2599,
+    "place": 0,
+    "prize": 6000000
+  },
+  {
+    "name": "Линарес 1953",
+    "min_rating": 2599,
+    "place": 1,
+    "prize": 3000000
+  },
+  {
+    "name": "Линарес 1953",
+    "min_rating": 2599,
+    "place": 2,
+    "prize": 1500000
+  },
+  {
+    "name": "Линарес 1953",
+    "min_rating": 2599,
+    "place": 3,
+    "prize": 750000
+  },
+  {
+    "name": "Линарес 1953",
+    "min_rating": 2599,
+    "place": 4,
+    "prize": 375000
+  },
+  {
+    "name": "Линарес 1953",
+    "min_rating": 2599,
+    "place": 5,
+    "prize": 187500
+  },
+  {
+    "name": "Линарес 1953",
+    "min_rating": 2599,
+    "place": 6,
+    "prize": 93750
+  },
+  {
+    "name": "Линарес 1953",
+    "min_rating": 2599,
+    "place": 7,
+    "prize": 46875
+  },
+  {
+    "name": "Линарес 1953",
+    "min_rating": 2599,
+    "place": 8,
+    "prize": 23438
+  },
+  {
+    "name": "Линарес 1953",
+    "min_rating": 2599,
+    "place": 9,
+    "prize": 11719
+  },
+  {
+    "name": "Линарес 1975",
+    "min_rating": 2555,
+    "place": 0,
+    "prize": 19000000
+  },
+  {
+    "name": "Линарес 1975",
+    "min_rating": 2555,
+    "place": 1,
+    "prize": 9500000
+  },
+  {
+    "name": "Линарес 1975",
+    "min_rating": 2555,
+    "place": 2,
+    "prize": 4750000
+  },
+  {
+    "name": "Линарес 1975",
+    "min_rating": 2555,
+    "place": 3,
+    "prize": 2375000
+  },
+  {
+    "name": "Линарес 1975",
+    "min_rating": 2555,
+    "place": 4,
+    "prize": 1187500
+  },
+  {
+    "name": "Линарес 1975",
+    "min_rating": 2555,
+    "place": 5,
+    "prize": 593750
+  },
+  {
+    "name": "Линарес 1975",
+    "min_rating": 2555,
+    "place": 6,
+    "prize": 296875
+  },
+  {
+    "name": "Линарес 1975",
+    "min_rating": 2555,
+    "place": 7,
+    "prize": 148438
+  },
+  {
+    "name": "Линарес 1975",
+    "min_rating": 2555,
+    "place": 8,
+    "prize": 74219
+  },
+  {
+    "name": "Линарес 1975",
+    "min_rating": 2555,
+    "place": 9,
+    "prize": 37109
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 0,
+    "prize": 9000000
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 1,
+    "prize": 4500000
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 2,
+    "prize": 2250000
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 3,
+    "prize": 1125000
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 4,
+    "prize": 562500
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 5,
+    "prize": 281250
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 6,
+    "prize": 140625
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 7,
+    "prize": 70312
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 8,
+    "prize": 35156
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 9,
+    "prize": 17578
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 10,
+    "prize": 8789
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 11,
+    "prize": 4395
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 12,
+    "prize": 2197
+  },
+  {
+    "name": "Лондон 1974",
+    "min_rating": 2622,
+    "place": 13,
+    "prize": 1099
+  },
+  {
+    "name": "Макартур 1954",
+    "min_rating": 2493,
+    "place": 0,
+    "prize": 40000000
+  },
+  {
+    "name": "Макартур 1954",
+    "min_rating": 2493,
+    "place": 1,
+    "prize": 20000000
+  },
+  {
+    "name": "Макартур 1954",
+    "min_rating": 2493,
+    "place": 2,
+    "prize": 10000000
+  },
+  {
+    "name": "Макартур 1954",
+    "min_rating": 2493,
+    "place": 3,
+    "prize": 5000000
+  },
+  {
+    "name": "Макартур 1954",
+    "min_rating": 2493,
+    "place": 4,
+    "prize": 2500000
+  },
+  {
+    "name": "Макартур 1954",
+    "min_rating": 2493,
+    "place": 5,
+    "prize": 1250000
+  },
+  {
+    "name": "Макартур 1954",
+    "min_rating": 2493,
+    "place": 6,
+    "prize": 625000
+  },
+  {
+    "name": "Макартур 1954",
+    "min_rating": 2493,
+    "place": 7,
+    "prize": 312500
+  },
+  {
+    "name": "Макартур 1954",
+    "min_rating": 2493,
+    "place": 8,
+    "prize": 156250
+  },
+  {
+    "name": "Макартур 1954",
+    "min_rating": 2493,
+    "place": 9,
+    "prize": 78125
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 0,
+    "prize": 30000000
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 1,
+    "prize": 15000000
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 2,
+    "prize": 7500000
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 3,
+    "prize": 3750000
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 4,
+    "prize": 1875000
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 5,
+    "prize": 937500
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 6,
+    "prize": 468750
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 7,
+    "prize": 234375
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 8,
+    "prize": 117188
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 9,
+    "prize": 58594
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 10,
+    "prize": 29297
+  },
+  {
+    "name": "Мемориал Таля 1963",
+    "min_rating": 2636,
+    "place": 11,
+    "prize": 14648
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 0,
+    "prize": 35000000
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 1,
+    "prize": 17500000
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 2,
+    "prize": 8750000
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 3,
+    "prize": 4375000
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 4,
+    "prize": 2187500
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 5,
+    "prize": 1093750
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 6,
+    "prize": 546875
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 7,
+    "prize": 273438
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 8,
+    "prize": 136719
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 9,
+    "prize": 68359
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 10,
+    "prize": 34180
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 11,
+    "prize": 17090
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 12,
+    "prize": 8545
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 13,
+    "prize": 4272
+  },
+  {
+    "name": "Мемориал Таля 1988",
+    "min_rating": 2628,
+    "place": 14,
+    "prize": 2136
+  },
+  {
+    "name": "Пальма 1998",
+    "min_rating": 2404,
+    "place": 0,
+    "prize": 38000000
+  },
+  {
+    "name": "Пальма 1998",
+    "min_rating": 2404,
+    "place": 1,
+    "prize": 19000000
+  },
+  {
+    "name": "Пальма 1998",
+    "min_rating": 2404,
+    "place": 2,
+    "prize": 9500000
+  },
+  {
+    "name": "Пальма 1998",
+    "min_rating": 2404,
+    "place": 3,
+    "prize": 4750000
+  },
+  {
+    "name": "Пальма 1998",
+    "min_rating": 2404,
+    "place": 4,
+    "prize": 2375000
+  },
+  {
+    "name": "Пальма 1998",
+    "min_rating": 2404,
+    "place": 5,
+    "prize": 1187500
+  },
+  {
+    "name": "Пальма 1998",
+    "min_rating": 2404,
+    "place": 6,
+    "prize": 593750
+  },
+  {
+    "name": "Пальма 1998",
+    "min_rating": 2404,
+    "place": 7,
+    "prize": 296875
+  },
+  {
+    "name": "Пальма 1998",
+    "min_rating": 2404,
+    "place": 8,
+    "prize": 148438
+  },
+  {
+    "name": "Пойковский 2000",
+    "min_rating": 2507,
+    "place": 0,
+    "prize": 2000000
+  },
+  {
+    "name": "Пойковский 2000",
+    "min_rating": 2507,
+    "place": 1,
+    "prize": 1000000
+  },
+  {
+    "name": "Пойковский 2000",
+    "min_rating": 2507,
+    "place": 2,
+    "prize": 500000
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 0,
+    "prize": 1000000
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 1,
+    "prize": 500000
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 2,
+    "prize": 250000
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 3,
+    "prize": 125000
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 4,
+    "prize": 62500
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 5,
+    "prize": 31250
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 6,
+    "prize": 15625
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 7,
+    "prize": 7812
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 8,
+    "prize": 3906
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 9,
+    "prize": 1953
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 10,
+    "prize": 977
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 11,
+    "prize": 500
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 12,
+    "prize": 500
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 13,
+    "prize": 500
+  },
+  {
+    "name": "Пойковский 2009",
+    "min_rating": 2586,
+    "place": 14,
+    "prize": 500
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 0,
+    "prize": 6000000
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 1,
+    "prize": 3000000
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 2,
+    "prize": 1500000
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 3,
+    "prize": 750000
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 4,
+    "prize": 375000
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 5,
+    "prize": 187500
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 6,
+    "prize": 93750
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 7,
+    "prize": 46875
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 8,
+    "prize": 23438
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 9,
+    "prize": 11719
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 10,
+    "prize": 5859
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 11,
+    "prize": 2930
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 12,
+    "prize": 1465
+  },
+  {
+    "name": "Политика 1955",
+    "min_rating": 2486,
+    "place": 13,
+    "prize": 1000
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 0,
+    "prize": 20000000
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 1,
+    "prize": 10000000
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 2,
+    "prize": 5000000
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 3,
+    "prize": 2500000
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 4,
+    "prize": 1250000
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 5,
+    "prize": 625000
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 6,
+    "prize": 312500
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 7,
+    "prize": 156250
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 8,
+    "prize": 78125
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 9,
+    "prize": 39062
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 10,
+    "prize": 19531
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 11,
+    "prize": 9766
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 12,
+    "prize": 4883
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 13,
+    "prize": 2500
+  },
+  {
+    "name": "Политика 1989",
+    "min_rating": 2569,
+    "place": 14,
+    "prize": 2500
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 0,
+    "prize": 38000000
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 1,
+    "prize": 19000000
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 2,
+    "prize": 9500000
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 3,
+    "prize": 4750000
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 4,
+    "prize": 2375000
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 5,
+    "prize": 1187500
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 6,
+    "prize": 593750
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 7,
+    "prize": 296875
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 8,
+    "prize": 148438
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 9,
+    "prize": 74219
+  },
+  {
+    "name": "Политика 1992",
+    "min_rating": 2649,
+    "place": 10,
+    "prize": 37109
+  },
+  {
+    "name": "Сент-Луис 2013",
+    "min_rating": 2470,
+    "place": 0,
+    "prize": 36000000
+  },
+  {
+    "name": "Сент-Луис 2013",
+    "min_rating": 2470,
+    "place": 1,
+    "prize": 18000000
+  },
+  {
+    "name": "Сент-Луис 2013",
+    "min_rating": 2470,
+    "place": 2,
+    "prize": 9000000
+  },
+  {
+    "name": "Сент-Луис 2013",
+    "min_rating": 2470,
+    "place": 3,
+    "prize": 4500000
+  },
+  {
+    "name": "Ставангер 1953",
+    "min_rating": 2418,
+    "place": 0,
+    "prize": 42000000
+  },
+  {
+    "name": "Ставангер 1953",
+    "min_rating": 2418,
+    "place": 1,
+    "prize": 21000000
+  },
+  {
+    "name": "Ставангер 1953",
+    "min_rating": 2418,
+    "place": 2,
+    "prize": 10500000
+  },
+  {
+    "name": "Ставангер 1964",
+    "min_rating": 2586,
+    "place": 0,
+    "prize": 18000000
+  },
+  {
+    "name": "Ставангер 1964",
+    "min_rating": 2586,
+    "place": 1,
+    "prize": 9000000
+  },
+  {
+    "name": "Ставангер 1964",
+    "min_rating": 2586,
+    "place": 2,
+    "prize": 4500000
+  },
+  {
+    "name": "Ставангер 1964",
+    "min_rating": 2586,
+    "place": 3,
+    "prize": 2250000
+  },
+  {
+    "name": "Ставангер 1964",
+    "min_rating": 2586,
+    "place": 4,
+    "prize": 1125000
+  },
+  {
+    "name": "Ставангер 1964",
+    "min_rating": 2586,
+    "place": 5,
+    "prize": 562500
+  },
+  {
+    "name": "Ставангер 1964",
+    "min_rating": 2586,
+    "place": 6,
+    "prize": 281250
+  },
+  {
+    "name": "Ставангер 1964",
+    "min_rating": 2586,
+    "place": 7,
+    "prize": 140625
+  },
+  {
+    "name": "Ставангер 1964",
+    "min_rating": 2586,
+    "place": 8,
+    "prize": 70312
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 0,
+    "prize": 1000000
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 1,
+    "prize": 500000
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 2,
+    "prize": 250000
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 3,
+    "prize": 125000
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 4,
+    "prize": 62500
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 5,
+    "prize": 31250
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 6,
+    "prize": 15625
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 7,
+    "prize": 7812
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 8,
+    "prize": 3906
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 9,
+    "prize": 2000
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 10,
+    "prize": 2000
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 11,
+    "prize": 2000
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 12,
+    "prize": 2000
+  },
+  {
+    "name": "Ставангер 2017",
+    "min_rating": 2468,
+    "place": 13,
+    "prize": 2000
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 0,
+    "prize": 5000000
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 1,
+    "prize": 2500000
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 2,
+    "prize": 1250000
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 3,
+    "prize": 625000
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 4,
+    "prize": 312500
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 5,
+    "prize": 156250
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 6,
+    "prize": 78125
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 7,
+    "prize": 39062
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 8,
+    "prize": 19531
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 9,
+    "prize": 9766
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 10,
+    "prize": 4883
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 11,
+    "prize": 2441
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 12,
+    "prize": 1221
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 13,
+    "prize": 1000
+  },
+  {
+    "name": "Ставангер 2019",
+    "min_rating": 2523,
+    "place": 14,
+    "prize": 1000
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 0,
+    "prize": 18000000
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 1,
+    "prize": 9000000
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 2,
+    "prize": 4500000
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 3,
+    "prize": 2250000
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 4,
+    "prize": 1125000
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 5,
+    "prize": 562500
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 6,
+    "prize": 281250
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 7,
+    "prize": 140625
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 8,
+    "prize": 70312
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 9,
+    "prize": 35156
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 10,
+    "prize": 17578
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 11,
+    "prize": 8789
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 12,
+    "prize": 4395
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 13,
+    "prize": 2197
+  },
+  {
+    "name": "Тилбург 1957",
+    "min_rating": 2567,
+    "place": 14,
+    "prize": 2000
+  },
+  {
+    "name": "Тилбург 2000",
+    "min_rating": 2485,
+    "place": 0,
+    "prize": 42000000
+  },
+  {
+    "name": "Тилбург 2000",
+    "min_rating": 2485,
+    "place": 1,
+    "prize": 21000000
+  },
+  {
+    "name": "Тилбург 2000",
+    "min_rating": 2485,
+    "place": 2,
+    "prize": 10500000
+  },
+  {
+    "name": "Тилбург 2000",
+    "min_rating": 2485,
+    "place": 3,
+    "prize": 5250000
+  },
+  {
+    "name": "Тилбург 2000",
+    "min_rating": 2485,
+    "place": 4,
+    "prize": 2625000
+  },
+  {
+    "name": "Тилбург 2000",
+    "min_rating": 2485,
+    "place": 5,
+    "prize": 1312500
+  },
+  {
+    "name": "Тилбург 2000",
+    "min_rating": 2485,
+    "place": 6,
+    "prize": 656250
+  },
+  {
+    "name": "Тилбург 2000",
+    "min_rating": 2485,
+    "place": 7,
+    "prize": 328125
+  },
+  {
+    "name": "Тилбург 2000",
+    "min_rating": 2485,
+    "place": 8,
+    "prize": 164062
+  },
+  {
+    "name": "Турнир претендентов 1969",
+    "min_rating": 2588,
+    "place": 0,
+    "prize": 21000000
+  },
+  {
+    "name": "Турнир претендентов 1969",
+    "min_rating": 2588,
+    "place": 1,
+    "prize": 10500000
+  },
+  {
+    "name": "Турнир претендентов 1969",
+    "min_rating": 2588,
+    "place": 2,
+    "prize": 5250000
+  },
+  {
+    "name": "Турнир претендентов 1969",
+    "min_rating": 2588,
+    "place": 3,
+    "prize": 2625000
+  },
+  {
+    "name": "Турнир претендентов 1969",
+    "min_rating": 2588,
+    "place": 4,
+    "prize": 1312500
+  },
+  {
+    "name": "Турнир претендентов 1969",
+    "min_rating": 2588,
+    "place": 5,
+    "prize": 656250
+  },
+  {
+    "name": "Турнир претендентов 1969",
+    "min_rating": 2588,
+    "place": 6,
+    "prize": 328125
+  },
+  {
+    "name": "Турнир претендентов 1969",
+    "min_rating": 2588,
+    "place": 7,
+    "prize": 164062
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 0,
+    "prize": 18000000
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 1,
+    "prize": 9000000
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 2,
+    "prize": 4500000
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 3,
+    "prize": 2250000
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 4,
+    "prize": 1125000
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 5,
+    "prize": 562500
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 6,
+    "prize": 281250
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 7,
+    "prize": 140625
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 8,
+    "prize": 70312
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 9,
+    "prize": 35156
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 10,
+    "prize": 17578
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 11,
+    "prize": 8789
+  },
+  {
+    "name": "Турнир претендентов 1979",
+    "min_rating": 2451,
+    "place": 12,
+    "prize": 4395
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 0,
+    "prize": 24000000
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 1,
+    "prize": 12000000
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 2,
+    "prize": 6000000
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 3,
+    "prize": 3000000
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 4,
+    "prize": 1500000
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 5,
+    "prize": 750000
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 6,
+    "prize": 375000
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 7,
+    "prize": 187500
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 8,
+    "prize": 93750
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 9,
+    "prize": 46875
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 10,
+    "prize": 23438
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 11,
+    "prize": 11719
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 12,
+    "prize": 5859
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 13,
+    "prize": 2930
+  },
+  {
+    "name": "Турнир претендентов 2001",
+    "min_rating": 2605,
+    "place": 14,
+    "prize": 1465
+  },
+  {
+    "name": "Турнир претендентов 2008",
+    "min_rating": 2638,
+    "place": 0,
+    "prize": 16000000
+  },
+  {
+    "name": "Турнир претендентов 2008",
+    "min_rating": 2638,
+    "place": 1,
+    "prize": 8000000
+  },
+  {
+    "name": "Турнир претендентов 2008",
+    "min_rating": 2638,
+    "place": 2,
+    "prize": 4000000
+  },
+  {
+    "name": "Турнир претендентов 2008",
+    "min_rating": 2638,
+    "place": 3,
+    "prize": 2000000
+  },
+  {
+    "name": "Турнир претендентов 2008",
+    "min_rating": 2638,
+    "place": 4,
+    "prize": 1000000
+  },
+  {
+    "name": "Цюрих 1972",
+    "min_rating": 2445,
+    "place": 0,
+    "prize": 26000000
+  },
+  {
+    "name": "Цюрих 1972",
+    "min_rating": 2445,
+    "place": 1,
+    "prize": 13000000
+  },
+  {
+    "name": "Цюрих 1972",
+    "min_rating": 2445,
+    "place": 2,
+    "prize": 6500000
+  },
+  {
+    "name": "Цюрих 1972",
+    "min_rating": 2445,
+    "place": 3,
+    "prize": 3250000
+  },
+  {
+    "name": "Цюрих 1972",
+    "min_rating": 2445,
+    "place": 4,
+    "prize": 1625000
+  },
+  {
+    "name": "Цюрих 1972",
+    "min_rating": 2445,
+    "place": 5,
+    "prize": 812500
+  },
+  {
+    "name": "Цюрих 1972",
+    "min_rating": 2445,
+    "place": 6,
+    "prize": 406250
+  },
+  {
+    "name": "Цюрих 1981",
+    "min_rating": 2625,
+    "place": 0,
+    "prize": 19000000
+  },
+  {
+    "name": "Цюрих 1981",
+    "min_rating": 2625,
+    "place": 1,
+    "prize": 9500000
+  },
+  {
+    "name": "Цюрих 1981",
+    "min_rating": 2625,
+    "place": 2,
+    "prize": 4750000
+  },
+  {
+    "name": "Цюрих 1981",
+    "min_rating": 2625,
+    "place": 3,
+    "prize": 2375000
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 0,
+    "prize": 22000000
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 1,
+    "prize": 11000000
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 2,
+    "prize": 5500000
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 3,
+    "prize": 2750000
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 4,
+    "prize": 1375000
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 5,
+    "prize": 687500
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 6,
+    "prize": 343750
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 7,
+    "prize": 171875
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 8,
+    "prize": 85938
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 9,
+    "prize": 42969
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 10,
+    "prize": 21484
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 11,
+    "prize": 10742
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 12,
+    "prize": 5371
+  },
+  {
+    "name": "Цюрих 1985",
+    "min_rating": 2503,
+    "place": 13,
+    "prize": 2686
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 0,
+    "prize": 16000000
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 1,
+    "prize": 8000000
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 2,
+    "prize": 4000000
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 3,
+    "prize": 2000000
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 4,
+    "prize": 1000000
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 5,
+    "prize": 500000
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 6,
+    "prize": 250000
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 7,
+    "prize": 125000
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 8,
+    "prize": 62500
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 9,
+    "prize": 31250
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 10,
+    "prize": 15625
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 11,
+    "prize": 7812
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 12,
+    "prize": 3906
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 13,
+    "prize": 1953
+  },
+  {
+    "name": "Цюрих 1987",
+    "min_rating": 2607,
+    "place": 14,
+    "prize": 1000
+  },
+  {
+    "name": "Чемпионат мира 1996",
+    "min_rating": 2435,
+    "place": 0,
+    "prize": 41000000
+  },
+  {
+    "name": "Чемпионат мира 1996",
+    "min_rating": 2435,
+    "place": 1,
+    "prize": 20500000
+  },
+  {
+    "name": "Чемпионат мира 1996",
+    "min_rating": 2435,
+    "place": 2,
+    "prize": 10250000
+  },
+  {
+    "name": "Чемпионат мира 1996",
+    "min_rating": 2435,
+    "place": 3,
+    "prize": 5125000
+  },
+  {
+    "name": "Чемпионат мира 1996",
+    "min_rating": 2435,
+    "place": 4,
+    "prize": 2562500
+  },
+  {
+    "name": "Чемпионат мира 1996",
+    "min_rating": 2435,
+    "place": 5,
+    "prize": 1281250
+  },
+  {
+    "name": "Чемпионат мира 1996",
+    "min_rating": 2435,
+    "place": 6,
+    "prize": 640625
+  },
+  {
+    "name": "Чемпионат мира 1996",
+    "min_rating": 2435,
+    "place": 7,
+    "prize": 320312
+  },
+  {
+    "name": "Чемпионат мира 1996",
+    "min_rating": 2435,
+    "place": 8,
+    "prize": 160156
+  },
+  {
+    "name": "Шамкович 1961",
+    "min_rating": 2412,
+    "place": 0,
+    "prize": 18000000
+  },
+  {
+    "name": "Шамкович 1961",
+    "min_rating": 2412,
+    "place": 1,
+    "prize": 9000000
+  },
+  {
+    "name": "Шамкович 1961",
+    "min_rating": 2412,
+    "place": 2,
+    "prize": 4500000
+  },
+  {
+    "name": "Шамкович 1961",
+    "min_rating": 2412,
+    "place": 3,
+    "prize": 2250000
+  },
+  {
+    "name": "Шамкович 1961",
+    "min_rating": 2412,
+    "place": 4,
+    "prize": 1125000
+  },
+  {
+    "name": "Шамкович 1961",
+    "min_rating": 2412,
+    "place": 5,
+    "prize": 562500
+  },
+  {
+    "name": "Шамкович 1982",
+    "min_rating": 2414,
+    "place": 0,
+    "prize": 39000000
+  },
+  {
+    "name": "Шамкович 1982",
+    "min_rating": 2414,
+    "place": 1,
+    "prize": 19500000
+  },
+  {
+    "name": "Шамкович 1982",
+    "min_rating": 2414,
+    "place": 2,
+    "prize": 9750000
+  }
+]

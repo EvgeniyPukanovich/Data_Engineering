@@ -1,0 +1,230 @@
+[
+  {
+    "city": "Аликанте",
+    "frequency": 4
+  },
+  {
+    "city": "Артейхо",
+    "frequency": 2
+  },
+  {
+    "city": "Баку",
+    "frequency": 3
+  },
+  {
+    "city": "Барселона",
+    "frequency": 1
+  },
+  {
+    "city": "Белград",
+    "frequency": 1
+  },
+  {
+    "city": "Бишкек",
+    "frequency": 2
+  },
+  {
+    "city": "Бланес",
+    "frequency": 2
+  },
+  {
+    "city": "Будапешт",
+    "frequency": 1
+  },
+  {
+    "city": "Бургос",
+    "frequency": 3
+  },
+  {
+    "city": "Валенсия",
+    "frequency": 2
+  },
+  {
+    "city": "Вальядолид",
+    "frequency": 1
+  },
+  {
+    "city": "Варшава",
+    "frequency": 1
+  },
+  {
+    "city": "Вильнюс",
+    "frequency": 2
+  },
+  {
+    "city": "Вильявисиоса",
+    "frequency": 2
+  },
+  {
+    "city": "Вроцлав",
+    "frequency": 2
+  },
+  {
+    "city": "Душанбе",
+    "frequency": 3
+  },
+  {
+    "city": "Ереван",
+    "frequency": 3
+  },
+  {
+    "city": "Загреб",
+    "frequency": 1
+  },
+  {
+    "city": "Кадакес",
+    "frequency": 1
+  },
+  {
+    "city": "Камбадос",
+    "frequency": 1
+  },
+  {
+    "city": "Касерес",
+    "frequency": 1
+  },
+  {
+    "city": "Кишинев",
+    "frequency": 1
+  },
+  {
+    "city": "Кордова",
+    "frequency": 2
+  },
+  {
+    "city": "Куэнка",
+    "frequency": 3
+  },
+  {
+    "city": "Ла-Корунья",
+    "frequency": 2
+  },
+  {
+    "city": "Лас-Росас",
+    "frequency": 1
+  },
+  {
+    "city": "Луарка",
+    "frequency": 2
+  },
+  {
+    "city": "Луго",
+    "frequency": 1
+  },
+  {
+    "city": "Льейда",
+    "frequency": 2
+  },
+  {
+    "city": "Мадрид",
+    "frequency": 1
+  },
+  {
+    "city": "Малага",
+    "frequency": 1
+  },
+  {
+    "city": "Махадаонда",
+    "frequency": 1
+  },
+  {
+    "city": "Минск",
+    "frequency": 1
+  },
+  {
+    "city": "Монсон",
+    "frequency": 1
+  },
+  {
+    "city": "Москва",
+    "frequency": 3
+  },
+  {
+    "city": "Овьедо",
+    "frequency": 1
+  },
+  {
+    "city": "Осера",
+    "frequency": 5
+  },
+  {
+    "city": "Пласенсия",
+    "frequency": 3
+  },
+  {
+    "city": "Подгорица",
+    "frequency": 1
+  },
+  {
+    "city": "Сан-Себастьян",
+    "frequency": 1
+  },
+  {
+    "city": "Сантьяго-де-Компостела",
+    "frequency": 2
+  },
+  {
+    "city": "Санхенхо",
+    "frequency": 2
+  },
+  {
+    "city": "Сараево",
+    "frequency": 1
+  },
+  {
+    "city": "Севилья",
+    "frequency": 1
+  },
+  {
+    "city": "Сеговия",
+    "frequency": 1
+  },
+  {
+    "city": "Семана",
+    "frequency": 1
+  },
+  {
+    "city": "Скопье",
+    "frequency": 1
+  },
+  {
+    "city": "Сория",
+    "frequency": 1
+  },
+  {
+    "city": "Таллин",
+    "frequency": 1
+  },
+  {
+    "city": "Ташкент",
+    "frequency": 4
+  },
+  {
+    "city": "Тбилиси",
+    "frequency": 2
+  },
+  {
+    "city": "Тирана",
+    "frequency": 1
+  },
+  {
+    "city": "Фигерас",
+    "frequency": 1
+  },
+  {
+    "city": "Хельсинки",
+    "frequency": 1
+  },
+  {
+    "city": "Хихон",
+    "frequency": 2
+  },
+  {
+    "city": "Эль-Пуэрто-де-Санта-Мария",
+    "frequency": 2
+  },
+  {
+    "city": "Эльче",
+    "frequency": 1
+  }
+]
