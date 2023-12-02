@@ -1,0 +1,578 @@
+[
+  [
+    "agribusiness",
+    59.0
+  ],
+  [
+    "agriculture",
+    68.0
+  ],
+  [
+    "airbnb",
+    40.0
+  ],
+  [
+    "alcohol, real estate",
+    78.0
+  ],
+  [
+    "aldi, trader joe's",
+    72.0
+  ],
+  [
+    "amazon",
+    55.5
+  ],
+  [
+    "apple, disney",
+    59.0
+  ],
+  [
+    "auto parts",
+    74.66666666666667
+  ],
+  [
+    "automobiles",
+    59.0
+  ],
+  [
+    "automobiles, batteries",
+    60.0
+  ],
+  [
+    "aviation",
+    63.0
+  ],
+  [
+    "banking",
+    62.0
+  ],
+  [
+    "banking, tobacco",
+    82.0
+  ],
+  [
+    "banks, real estate",
+    70.0
+  ],
+  [
+    "batteries",
+    55.0
+  ],
+  [
+    "batteries, automobiles",
+    57.0
+  ],
+  [
+    "beer, investments",
+    59.0
+  ],
+  [
+    "berkshire hathaway",
+    92.0
+  ],
+  [
+    "beverages, pharmaceuticals",
+    68.0
+  ],
+  [
+    "biotech",
+    60.0
+  ],
+  [
+    "biotech, investments",
+    57.0
+  ],
+  [
+    "biotech, vaccines",
+    50.0
+  ],
+  [
+    "bloomberg lp",
+    81.0
+  ],
+  [
+    "bmw",
+    56.0
+  ],
+  [
+    "bmw, pharmaceuticals",
+    60.0
+  ],
+  [
+    "business software",
+    58.0
+  ],
+  [
+    "candy, pet food",
+    83.0
+  ],
+  [
+    "carnival cruises",
+    69.0
+  ],
+  [
+    "casinos",
+    77.0
+  ],
+  [
+    "cement",
+    91.0
+  ],
+  [
+    "chanel",
+    74.0
+  ],
+  [
+    "cheese",
+    53.5
+  ],
+  [
+    "chemicals",
+    56.333333333333336
+  ],
+  [
+    "coal",
+    62.0
+  ],
+  [
+    "commodities",
+    55.0
+  ],
+  [
+    "construction equipment",
+    77.0
+  ],
+  [
+    "dallas cowboys",
+    80.0
+  ],
+  [
+    "damaged cars",
+    53.0
+  ],
+  [
+    "dell technologies",
+    58.0
+  ],
+  [
+    "discount brokerage",
+    78.0
+  ],
+  [
+    "diversified",
+    65.11111111111111
+  ],
+  [
+    "e-commerce",
+    50.5
+  ],
+  [
+    "ecommerce",
+    47.0
+  ],
+  [
+    "energy",
+    57.0
+  ],
+  [
+    "energy, investments",
+    88.0
+  ],
+  [
+    "energy, sports, entertainment",
+    83.0
+  ],
+  [
+    "engineering",
+    80.0
+  ],
+  [
+    "estee lauder",
+    90.0
+  ],
+  [
+    "eyeglasses",
+    33.0
+  ],
+  [
+    "facebook",
+    38.0
+  ],
+  [
+    "fashion retail",
+    71.5
+  ],
+  [
+    "fasteners",
+    87.0
+  ],
+  [
+    "fertilizers",
+    63.0
+  ],
+  [
+    "fertilizers, coal",
+    51.0
+  ],
+  [
+    "fidelity",
+    61.0
+  ],
+  [
+    "finance",
+    49.0
+  ],
+  [
+    "fintech",
+    51.0
+  ],
+  [
+    "forestry, mining",
+    74.0
+  ],
+  [
+    "gold",
+    57.0
+  ],
+  [
+    "google",
+    57.0
+  ],
+  [
+    "h&m",
+    75.0
+  ],
+  [
+    "healthcare software",
+    79.0
+  ],
+  [
+    "hedge funds",
+    67.28571428571429
+  ],
+  [
+    "heineken",
+    68.0
+  ],
+  [
+    "home appliances",
+    80.0
+  ],
+  [
+    "home depot",
+    80.0
+  ],
+  [
+    "hospitals",
+    70.5
+  ],
+  [
+    "infrastructure, commodities",
+    67.0
+  ],
+  [
+    "internet media",
+    51.0
+  ],
+  [
+    "internet, telecom",
+    65.0
+  ],
+  [
+    "investments",
+    66.33333333333333
+  ],
+  [
+    "jewelry",
+    66.0
+  ],
+  [
+    "koch industries",
+    87.0
+  ],
+  [
+    "l'oréal",
+    69.0
+  ],
+  [
+    "luxury goods",
+    83.66666666666667
+  ],
+  [
+    "lvmh",
+    74.0
+  ],
+  [
+    "manufacturing, new england patriots",
+    81.0
+  ],
+  [
+    "media",
+    79.0
+  ],
+  [
+    "media, automotive",
+    75.0
+  ],
+  [
+    "medical devices",
+    66.0
+  ],
+  [
+    "messaging app",
+    38.0
+  ],
+  [
+    "metals",
+    62.0
+  ],
+  [
+    "microsoft",
+    67.0
+  ],
+  [
+    "mining",
+    69.75
+  ],
+  [
+    "mining, commodities",
+    55.0
+  ],
+  [
+    "money management",
+    75.5
+  ],
+  [
+    "music, chemicals",
+    65.0
+  ],
+  [
+    "new balance",
+    79.0
+  ],
+  [
+    "newspapers, tv network",
+    92.0
+  ],
+  [
+    "nike",
+    85.0
+  ],
+  [
+    "nutella, chocolates",
+    58.0
+  ],
+  [
+    "oil",
+    78.5
+  ],
+  [
+    "oil & gas",
+    77.0
+  ],
+  [
+    "oil, banking, telecom",
+    58.0
+  ],
+  [
+    "oil, investments",
+    80.0
+  ],
+  [
+    "online games",
+    51.0
+  ],
+  [
+    "oracle",
+    78.0
+  ],
+  [
+    "packaging",
+    68.0
+  ],
+  [
+    "paints",
+    95.0
+  ],
+  [
+    "palm oil, shipping, property",
+    99.0
+  ],
+  [
+    "pharmaceuticals",
+    67.0
+  ],
+  [
+    "photovoltaic equipment",
+    54.0
+  ],
+  [
+    "pipelines",
+    59.0
+  ],
+  [
+    "private equity",
+    65.25
+  ],
+  [
+    "quicken loans",
+    61.0
+  ],
+  [
+    "real estate",
+    79.75
+  ],
+  [
+    "real estate, investments",
+    86.0
+  ],
+  [
+    "real estate, shipping",
+    72.0
+  ],
+  [
+    "red bull",
+    30.0
+  ],
+  [
+    "retail",
+    83.0
+  ],
+  [
+    "retail, investments",
+    68.0
+  ],
+  [
+    "scaffolding, cement mixers",
+    75.0
+  ],
+  [
+    "semiconductors",
+    60.0
+  ],
+  [
+    "shipping",
+    70.6
+  ],
+  [
+    "slim-fast",
+    98.0
+  ],
+  [
+    "snacks",
+    75.0
+  ],
+  [
+    "software",
+    52.25
+  ],
+  [
+    "software services",
+    77.0
+  ],
+  [
+    "soy sauce",
+    67.0
+  ],
+  [
+    "sporting goods retail",
+    75.0
+  ],
+  [
+    "sports retailing",
+    58.0
+  ],
+  [
+    "sports shoes",
+    66.0
+  ],
+  [
+    "steel",
+    60.5
+  ],
+  [
+    "steel, coal",
+    56.0
+  ],
+  [
+    "steel, investments",
+    56.5
+  ],
+  [
+    "steel, mining",
+    64.0
+  ],
+  [
+    "steel, telecom, investments",
+    69.0
+  ],
+  [
+    "steel, transport",
+    66.0
+  ],
+  [
+    "supermarkets",
+    0.0
+  ],
+  [
+    "telecom",
+    71.66666666666667
+  ],
+  [
+    "telecom, oil",
+    69.0
+  ],
+  [
+    "tennessee titans",
+    67.0
+  ],
+  [
+    "tequila",
+    54.0
+  ],
+  [
+    "tesla, spacex",
+    51.0
+  ],
+  [
+    "tiktok",
+    39.0
+  ],
+  [
+    "trading, investments",
+    64.5
+  ],
+  [
+    "vaccines",
+    81.0
+  ],
+  [
+    "video surveillance",
+    58.0
+  ],
+  [
+    "vodka",
+    61.0
+  ],
+  [
+    "walmart",
+    65.25
+  ],
+  [
+    "warehouse automation",
+    70.0
+  ],
+  [
+    "whatsapp",
+    51.0
+  ],
+  [
+    "wireless networking",
+    45.0
+  ],
+  [
+    "zara",
+    87.0
+  ]
+]

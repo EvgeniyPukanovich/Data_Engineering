@@ -1,3 +1,4 @@
+-- Миллиардеры, страны и компании из Fortune 500
 CREATE TABLE IF NOT EXISTS Countries (
     country TEXT PRIMARY KEY,
     cpi_country REAL,

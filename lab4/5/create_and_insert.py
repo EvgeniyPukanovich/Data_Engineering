@@ -77,72 +77,94 @@ def insert_data(cursor, table_name, data):
         columns = ", ".join(row.keys())
         placeholders = ", ".join(["?" for _ in row.values()])
         query = f"INSERT INTO {table_name} ({columns}) VALUES ({placeholders})"
-        cursor.execute(query, tuple(row.values()))
+        lower = [
+            str(item).lower() if isinstance(item, str) else item
+            for item in row.values()
+        ]
+        try:
+            cursor.execute(query, tuple(lower))
+        except:
+            pass
 
+def load_csv(file_path):
+    data = []
+    with open(file_path, newline="", encoding="utf-8") as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            data.append(row)
+    return data
 
 
 database_name = "db5.db"
+billionaires_csv_path = "billionaires.csv"
 
+billionaires_data = load_csv(billionaires_csv_path)
 
 with sqlite3.connect(database_name) as conn:
     cursor = conn.cursor()
 
     create_tables(cursor)
 
-    with open("billionaires.csv", "r", encoding="utf-8") as b:
-        billionaires = csv.DictReader(b, delimiter=";")
-        countries_data = [
-            {
-                k: v
-                for k, v in row.items()
-                if k
-                in (
-                    "country",
-                    "cpi_country",
-                    "cpi_change_country",
-                    "gdp_country",
-                    "gross_tertiary_education_enrollment",
-                    "gross_primary_education_enrollment_country",
-                    "life_expectancy_country",
-                    "tax_revenue_country_country",
-                    "total_tax_rate_country",
-                    "population_country",
-                    "latitude_country",
-                    "longitude_country",
-                )
-            }
-            for row in billionaires
-        ]
-        billionaires_data = [
-            {
-                k: v
-                for k, v in row.items()
-                if k
-                not in (
-                    "cpi_country",
-                    "cpi_change_country",
-                    "gdp_country",
-                    "gross_tertiary_education_enrollment",
-                    "gross_primary_education_enrollment_country",
-                    "life_expectancy_country",
-                    "tax_revenue_country_country",
-                    "total_tax_rate_country",
-                    "population_country",
-                    "latitude_country",
-                    "longitude_country",
-                )
-            }
-            for row in billionaires
-        ]
+    countries_data = [
+        {
+            k: v
+            for k, v in row.items()
+            if k
+            in (
+                "country",
+                "cpi_country",
+                "cpi_change_country",
+                "gdp_country",
+                "gross_tertiary_education_enrollment",
+                "gross_primary_education_enrollment_country",
+                "life_expectancy_country",
+                "tax_revenue_country_country",
+                "total_tax_rate_country",
+                "population_country",
+                "latitude_country",
+                "longitude_country",
+            )
+        }
+        for row in billionaires_data
+    ]
+
+    billionaires_data = [
+        {
+            k: v
+            for k, v in row.items()
+            if k
+            not in (
+                "cpi_country",
+                "cpi_change_country",
+                "gdp_country",
+                "gross_tertiary_education_enrollment",
+                "gross_primary_education_enrollment_country",
+                "life_expectancy_country",
+                "tax_revenue_country_country",
+                "total_tax_rate_country",
+                "population_country",
+                "latitude_country",
+                "longitude_country",
+            )
+        }
+        for row in billionaires_data
+    ]
 
     with open("companies.csv", "r", encoding="utf-8") as c:
         companies_data = csv.DictReader(c, delimiter=",")
+        dicts = list()
         for dc in companies_data:
-            dc["market_capitalization"] = float(dc["market_capitalization"].split()[0])*1_000_000_000 if dc["market_capitalization"] else 0
-        insert_data(cursor, "Companies", companies_data)
-
+            dc["market_capitalization"] = (
+                float(dc["market_capitalization"].split()[0]) * 1_000_000_000
+                if dc["market_capitalization"]
+                else 0
+            )
+            dicts.append(dc)
+        for dc in dicts:
+            insert_data(cursor, "Companies", dicts)
+    
+    print(billionaires_data)
     insert_data(cursor, "Countries", countries_data)
-
     insert_data(cursor, "Billionaires", billionaires_data)
 
     conn.commit()
