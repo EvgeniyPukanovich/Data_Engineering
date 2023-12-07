@@ -9,8 +9,15 @@ from database_utils import connect_to_mongo
 with connect_to_mongo("test", "jobs") as collection:
     with open("task_2_item.csv", "r", encoding="utf-8") as csv_file:
         csv_reader = csv.DictReader(csv_file, delimiter=";")
-        data_list = list(csv_reader)
-    # collection.insert_many(data_list)
+        data_list = []
+        for row in csv_reader:
+            row["salary"] = int(row["salary"])
+            row["id"] = int(row["id"])
+            row["year"] = int(row["year"])
+            row["age"] = int(row["age"])
+            data_list.append(row)
+
+    collection.insert_many(data_list)
 
     # вывод минимальной, средней, максимальной salary
     pipeline1 = [

@@ -7,13 +7,12 @@ sys.path.append("..")
 from json_utils import insert_data
 from database_utils import connect_to_mongo
 
-with connect_to_mongo('test', 'jobs') as collection:
-
-    with open("task_1_item.json", "r") as file:
+with connect_to_mongo("test", "jobs") as collection:
+    with open("task_1_item.json", "r", encoding="utf-8") as file:
         data = json.load(file)
 
     collection.insert_many(data)
-    
+
     query1 = {}
     result1 = list(collection.find(query1, limit=15))
 
@@ -35,7 +34,6 @@ with connect_to_mongo('test', 'jobs') as collection:
         ],
     }
     result4 = collection.count_documents(query4)
-
 
     os.makedirs("results", exist_ok=True)
 

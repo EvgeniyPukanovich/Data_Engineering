@@ -11,7 +11,7 @@ class MongoEncoder(json.JSONEncoder):
 
 
 def insert_data(filename, data):
-    with open(filename, "w") as r_json:
+    with open(filename, "w", encoding="utf-8") as r_json:
         json.dump(
             data,
             r_json,
