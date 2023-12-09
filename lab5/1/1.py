@@ -14,7 +14,7 @@ with connect_to_mongo("test", "jobs") as collection:
     collection.insert_many(data)
 
     query1 = {}
-    result1 = list(collection.find(query1, limit=15))
+    result1 = list(collection.find(query1, limit=10).sort("salary", pymongo.DESCENDING))
 
     query2 = {"age": {"$lt": 30}}
     result2 = list(collection.find(query2, limit=15).sort("salary", pymongo.DESCENDING))
@@ -23,7 +23,7 @@ with connect_to_mongo("test", "jobs") as collection:
         "city": "Фигерас",
         "job": {"$in": ["Строитель", "Строитель", "Строитель"]},
     }
-    result3 = list(collection.find(query1).limit(10).sort("age", pymongo.ASCENDING))
+    result3 = list(collection.find(query3, limit=10).sort("age", pymongo.ASCENDING))
 
     query4 = {
         "age": {"$gte": 25, "$lte": 35},

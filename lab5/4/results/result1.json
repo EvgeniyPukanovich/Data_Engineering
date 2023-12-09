@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "65747d468f5036c77303cc5c",
+    "Year of Birth": 2014,
+    "Gender": "FEMALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "Isabella",
+    "Count": 331,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303cdf5",
+    "Year of Birth": 2013,
+    "Gender": "MALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "Jayden",
+    "Count": 352,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303d4d3",
+    "Year of Birth": 2011,
+    "Gender": "FEMALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "ISABELLA",
+    "Count": 331,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303d381",
+    "Year of Birth": 2014,
+    "Gender": "MALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "Joseph",
+    "Count": 300,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303cfbd",
+    "Year of Birth": 2012,
+    "Gender": "MALE",
+    "Ethnicity": "ASIAN AND PACI",
+    "Child's First Name": "RYAN",
+    "Count": 197,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303d48f",
+    "Year of Birth": 2014,
+    "Gender": "FEMALE",
+    "Ethnicity": "ASIAN AND PACIFIC ISLANDER",
+    "Child's First Name": "Olivia",
+    "Count": 141,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303d5a3",
+    "Year of Birth": 2011,
+    "Gender": "MALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "MICHAEL",
+    "Count": 292,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303d553",
+    "Year of Birth": 2018,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK NON HISPANIC",
+    "Child's First Name": "Ava",
+    "Count": 109,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303d15b",
+    "Year of Birth": 2012,
+    "Gender": "FEMALE",
+    "Ethnicity": "BLACK NON HISP",
+    "Child's First Name": "MADISON",
+    "Count": 159,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303cfab",
+    "Year of Birth": 2013,
+    "Gender": "FEMALE",
+    "Ethnicity": "HISPANIC",
+    "Child's First Name": "Isabella",
+    "Count": 326,
+    "Rank": 1
+  }
+]

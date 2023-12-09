@@ -1,12 +1,984 @@
 [
   {
     "_id": {
-      "city": "Подгорица",
+      "city": "Мартоса",
+      "job": "Учитель"
+    },
+    "min_salary": 56696,
+    "avg_salary": 56696.0,
+    "max_salary": 56696
+  },
+  {
+    "_id": {
+      "city": "Картахена",
+      "job": "Продавец"
+    },
+    "min_salary": 50490,
+    "avg_salary": 121973.33333333333,
+    "max_salary": 181087
+  },
+  {
+    "_id": {
+      "city": "Москва",
+      "job": "IT-специалист"
+    },
+    "min_salary": 181303,
+    "avg_salary": 181303.0,
+    "max_salary": 181303
+  },
+  {
+    "_id": {
+      "city": "Ташкент",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 98682,
+    "avg_salary": 98682.0,
+    "max_salary": 98682
+  },
+  {
+    "_id": {
+      "city": "Алма-Ата",
+      "job": "Менеджер"
+    },
+    "min_salary": 63424,
+    "avg_salary": 63424.0,
+    "max_salary": 63424
+  },
+  {
+    "_id": {
+      "city": "Аликанте",
+      "job": "Косметолог"
+    },
+    "min_salary": 142107,
+    "avg_salary": 142107.0,
+    "max_salary": 142107
+  },
+  {
+    "_id": {
+      "city": "Артейхо",
+      "job": "Косметолог"
+    },
+    "min_salary": 186368,
+    "avg_salary": 186368.0,
+    "max_salary": 186368
+  },
+  {
+    "_id": {
+      "city": "Эльче",
+      "job": "IT-специалист"
+    },
+    "min_salary": 152590,
+    "avg_salary": 152590.0,
+    "max_salary": 152590
+  },
+  {
+    "_id": {
+      "city": "Минск",
+      "job": "Водитель"
+    },
+    "min_salary": 57072,
+    "avg_salary": 82329.5,
+    "max_salary": 107587
+  },
+  {
+    "_id": {
+      "city": "Варшава",
+      "job": "Строитель"
+    },
+    "min_salary": 198334,
+    "avg_salary": 198334.0,
+    "max_salary": 198334
+  },
+  {
+    "_id": {
+      "city": "Картахена",
+      "job": "Водитель"
+    },
+    "min_salary": 127709,
+    "avg_salary": 142121.5,
+    "max_salary": 156534
+  },
+  {
+    "_id": {
+      "city": "Картахена",
+      "job": "Медсестра"
+    },
+    "min_salary": 80438,
+    "avg_salary": 80438.0,
+    "max_salary": 80438
+  },
+  {
+    "_id": {
+      "city": "Ла-Корунья",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 153956,
+    "avg_salary": 153956.0,
+    "max_salary": 153956
+  },
+  {
+    "_id": {
+      "city": "Виго",
+      "job": "Психолог"
+    },
+    "min_salary": 181350,
+    "avg_salary": 181350.0,
+    "max_salary": 181350
+  },
+  {
+    "_id": {
+      "city": "Овьедо",
       "job": "Программист"
     },
-    "min_salary": 87975,
-    "avg_salary": 87975.0,
-    "max_salary": 87975
+    "min_salary": 71540,
+    "avg_salary": 71540.0,
+    "max_salary": 71540
+  },
+  {
+    "_id": {
+      "city": "Сараево",
+      "job": "Врач"
+    },
+    "min_salary": 141857,
+    "avg_salary": 160285.5,
+    "max_salary": 178714
+  },
+  {
+    "_id": {
+      "city": "Фигерас",
+      "job": "Учитель"
+    },
+    "min_salary": 160499,
+    "avg_salary": 160499.0,
+    "max_salary": 160499
+  },
+  {
+    "_id": {
+      "city": "Овьедо",
+      "job": "Врач"
+    },
+    "min_salary": 86077,
+    "avg_salary": 86077.0,
+    "max_salary": 86077
+  },
+  {
+    "_id": {
+      "city": "Вальядолид",
+      "job": "Учитель"
+    },
+    "min_salary": 198008,
+    "avg_salary": 198008.0,
+    "max_salary": 198008
+  },
+  {
+    "_id": {
+      "city": "Сеговия",
+      "job": "Инженер"
+    },
+    "min_salary": 197630,
+    "avg_salary": 197630.0,
+    "max_salary": 197630
+  },
+  {
+    "_id": {
+      "city": "Сан-Себастьян",
+      "job": "Учитель"
+    },
+    "min_salary": 79891,
+    "avg_salary": 79891.0,
+    "max_salary": 79891
+  },
+  {
+    "_id": {
+      "city": "Санкт-Петербург",
+      "job": "Инженер"
+    },
+    "min_salary": 146990,
+    "avg_salary": 146990.0,
+    "max_salary": 146990
+  },
+  {
+    "_id": {
+      "city": "Ташкент",
+      "job": "Водитель"
+    },
+    "min_salary": 118330,
+    "avg_salary": 118847.0,
+    "max_salary": 119364
+  },
+  {
+    "_id": {
+      "city": "Виго",
+      "job": "Строитель"
+    },
+    "min_salary": 156602,
+    "avg_salary": 176610.0,
+    "max_salary": 196618
+  },
+  {
+    "_id": {
+      "city": "Будапешт",
+      "job": "Психолог"
+    },
+    "min_salary": 173328,
+    "avg_salary": 173328.0,
+    "max_salary": 173328
+  },
+  {
+    "_id": {
+      "city": "Сан-Себастьян",
+      "job": "Продавец"
+    },
+    "min_salary": 187376,
+    "avg_salary": 187376.0,
+    "max_salary": 187376
+  },
+  {
+    "_id": {
+      "city": "Кадакес",
+      "job": "Косметолог"
+    },
+    "min_salary": 79665,
+    "avg_salary": 79665.0,
+    "max_salary": 79665
+  },
+  {
+    "_id": {
+      "city": "Пласенсия",
+      "job": "Программист"
+    },
+    "min_salary": 122083,
+    "avg_salary": 122083.0,
+    "max_salary": 122083
+  },
+  {
+    "_id": {
+      "city": "Овьедо",
+      "job": "Повар"
+    },
+    "min_salary": 195685,
+    "avg_salary": 195685.0,
+    "max_salary": 195685
+  },
+  {
+    "_id": {
+      "city": "Мадрид",
+      "job": "Косметолог"
+    },
+    "min_salary": 118156,
+    "avg_salary": 118156.0,
+    "max_salary": 118156
+  },
+  {
+    "_id": {
+      "city": "Самора",
+      "job": "Учитель"
+    },
+    "min_salary": 109868,
+    "avg_salary": 109868.0,
+    "max_salary": 109868
+  },
+  {
+    "_id": {
+      "city": "Загреб",
+      "job": "Инженер"
+    },
+    "min_salary": 88265,
+    "avg_salary": 88265.0,
+    "max_salary": 88265
+  },
+  {
+    "_id": {
+      "city": "Вильнюс",
+      "job": "Косметолог"
+    },
+    "min_salary": 107922,
+    "avg_salary": 138289.33333333334,
+    "max_salary": 198381
+  },
+  {
+    "_id": {
+      "city": "Краков",
+      "job": "Архитектор"
+    },
+    "min_salary": 115866,
+    "avg_salary": 115866.0,
+    "max_salary": 115866
+  },
+  {
+    "_id": {
+      "city": "Луго",
+      "job": "Врач"
+    },
+    "min_salary": 103910,
+    "avg_salary": 103910.0,
+    "max_salary": 103910
+  },
+  {
+    "_id": {
+      "city": "Краков",
+      "job": "Косметолог"
+    },
+    "min_salary": 88035,
+    "avg_salary": 88035.0,
+    "max_salary": 88035
+  },
+  {
+    "_id": {
+      "city": "Касерес",
+      "job": "Врач"
+    },
+    "min_salary": 54327,
+    "avg_salary": 54327.0,
+    "max_salary": 54327
+  },
+  {
+    "_id": {
+      "city": "Куэнка",
+      "job": "Продавец"
+    },
+    "min_salary": 89696,
+    "avg_salary": 89696.0,
+    "max_salary": 89696
+  },
+  {
+    "_id": {
+      "city": "Вальядолид",
+      "job": "Психолог"
+    },
+    "min_salary": 84004,
+    "avg_salary": 84004.0,
+    "max_salary": 84004
+  },
+  {
+    "_id": {
+      "city": "Сараево",
+      "job": "Водитель"
+    },
+    "min_salary": 141891,
+    "avg_salary": 152658.5,
+    "max_salary": 163426
+  },
+  {
+    "_id": {
+      "city": "Самора",
+      "job": "Менеджер"
+    },
+    "min_salary": 62491,
+    "avg_salary": 62491.0,
+    "max_salary": 62491
+  },
+  {
+    "_id": {
+      "city": "Ташкент",
+      "job": "Врач"
+    },
+    "min_salary": 143075,
+    "avg_salary": 143075.0,
+    "max_salary": 143075
+  },
+  {
+    "_id": {
+      "city": "Хельсинки",
+      "job": "Строитель"
+    },
+    "min_salary": 193083,
+    "avg_salary": 193083.0,
+    "max_salary": 193083
+  },
+  {
+    "_id": {
+      "city": "Барселона",
+      "job": "Инженер"
+    },
+    "min_salary": 55019,
+    "avg_salary": 55019.0,
+    "max_salary": 55019
+  },
+  {
+    "_id": {
+      "city": "Любляна",
+      "job": "Медсестра"
+    },
+    "min_salary": 151886,
+    "avg_salary": 151886.0,
+    "max_salary": 151886
+  },
+  {
+    "_id": {
+      "city": "Варшава",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 118010,
+    "avg_salary": 118167.5,
+    "max_salary": 118325
+  },
+  {
+    "_id": {
+      "city": "Санхенхо",
+      "job": "Психолог"
+    },
+    "min_salary": 92900,
+    "avg_salary": 119491.5,
+    "max_salary": 146083
+  },
+  {
+    "_id": {
+      "city": "Загреб",
+      "job": "Программист"
+    },
+    "min_salary": 157513,
+    "avg_salary": 157513.0,
+    "max_salary": 157513
+  },
+  {
+    "_id": {
+      "city": "Белград",
+      "job": "Продавец"
+    },
+    "min_salary": 124910,
+    "avg_salary": 124910.0,
+    "max_salary": 124910
+  },
+  {
+    "_id": {
+      "city": "Астана",
+      "job": "Медсестра"
+    },
+    "min_salary": 117845,
+    "avg_salary": 117845.0,
+    "max_salary": 117845
+  },
+  {
+    "_id": {
+      "city": "Осера",
+      "job": "Водитель"
+    },
+    "min_salary": 104050,
+    "avg_salary": 104050.0,
+    "max_salary": 104050
+  },
+  {
+    "_id": {
+      "city": "Санкт-Петербург",
+      "job": "Косметолог"
+    },
+    "min_salary": 171541,
+    "avg_salary": 171541.0,
+    "max_salary": 171541
+  },
+  {
+    "_id": {
+      "city": "Загреб",
+      "job": "Медсестра"
+    },
+    "min_salary": 76378,
+    "avg_salary": 133783.5,
+    "max_salary": 191189
+  },
+  {
+    "_id": {
+      "city": "Сория",
+      "job": "Врач"
+    },
+    "min_salary": 115469,
+    "avg_salary": 143233.0,
+    "max_salary": 170997
+  },
+  {
+    "_id": {
+      "city": "Алма-Ата",
+      "job": "Продавец"
+    },
+    "min_salary": 108626,
+    "avg_salary": 108626.0,
+    "max_salary": 108626
+  },
+  {
+    "_id": {
+      "city": "Ереван",
+      "job": "Врач"
+    },
+    "min_salary": 93455,
+    "avg_salary": 93455.0,
+    "max_salary": 93455
+  },
+  {
+    "_id": {
+      "city": "Загреб",
+      "job": "Водитель"
+    },
+    "min_salary": 139353,
+    "avg_salary": 139353.0,
+    "max_salary": 139353
+  },
+  {
+    "_id": {
+      "city": "Гранада",
+      "job": "Менеджер"
+    },
+    "min_salary": 118724,
+    "avg_salary": 118724.0,
+    "max_salary": 118724
+  },
+  {
+    "_id": {
+      "city": "Овьедо",
+      "job": "Водитель"
+    },
+    "min_salary": 72377,
+    "avg_salary": 72377.0,
+    "max_salary": 72377
+  },
+  {
+    "_id": {
+      "city": "Кишинев",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 136390,
+    "avg_salary": 136390.0,
+    "max_salary": 136390
+  },
+  {
+    "_id": {
+      "city": "Самора",
+      "job": "Строитель"
+    },
+    "min_salary": 177473,
+    "avg_salary": 177473.0,
+    "max_salary": 177473
+  },
+  {
+    "_id": {
+      "city": "Бильбао",
+      "job": "Повар"
+    },
+    "min_salary": 114051,
+    "avg_salary": 114051.0,
+    "max_salary": 114051
+  },
+  {
+    "_id": {
+      "city": "Овьедо",
+      "job": "Учитель"
+    },
+    "min_salary": 84056,
+    "avg_salary": 141921.0,
+    "max_salary": 199786
+  },
+  {
+    "_id": {
+      "city": "Эль-Пуэрто-де-Санта-Мария",
+      "job": "Инженер"
+    },
+    "min_salary": 124544,
+    "avg_salary": 124544.0,
+    "max_salary": 124544
+  },
+  {
+    "_id": {
+      "city": "Алькала-де-Энарес",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 58119,
+    "avg_salary": 58119.0,
+    "max_salary": 58119
+  },
+  {
+    "_id": {
+      "city": "Сьюдад-Реаль",
+      "job": "Психолог"
+    },
+    "min_salary": 64031,
+    "avg_salary": 64031.0,
+    "max_salary": 64031
+  },
+  {
+    "_id": {
+      "city": "Прага",
+      "job": "Повар"
+    },
+    "min_salary": 148801,
+    "avg_salary": 148801.0,
+    "max_salary": 148801
+  },
+  {
+    "_id": {
+      "city": "Эль-Пуэрто-де-Санта-Мария",
+      "job": "Водитель"
+    },
+    "min_salary": 81526,
+    "avg_salary": 81526.0,
+    "max_salary": 81526
+  },
+  {
+    "_id": {
+      "city": "Монсон",
+      "job": "Строитель"
+    },
+    "min_salary": 51549,
+    "avg_salary": 51549.0,
+    "max_salary": 51549
+  },
+  {
+    "_id": {
+      "city": "Кишинев",
+      "job": "IT-специалист"
+    },
+    "min_salary": 99100,
+    "avg_salary": 99100.0,
+    "max_salary": 99100
+  },
+  {
+    "_id": {
+      "city": "Афины",
+      "job": "Менеджер"
+    },
+    "min_salary": 128747,
+    "avg_salary": 151628.0,
+    "max_salary": 168617
+  },
+  {
+    "_id": {
+      "city": "Камбадос",
+      "job": "Медсестра"
+    },
+    "min_salary": 153152,
+    "avg_salary": 153152.0,
+    "max_salary": 153152
+  },
+  {
+    "_id": {
+      "city": "Вальядолид",
+      "job": "Менеджер"
+    },
+    "min_salary": 167099,
+    "avg_salary": 167099.0,
+    "max_salary": 167099
+  },
+  {
+    "_id": {
+      "city": "Хихон",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 74526,
+    "avg_salary": 74526.0,
+    "max_salary": 74526
+  },
+  {
+    "_id": {
+      "city": "Мурсия",
+      "job": "Строитель"
+    },
+    "min_salary": 75971,
+    "avg_salary": 75971.0,
+    "max_salary": 75971
+  },
+  {
+    "_id": {
+      "city": "Вроцлав",
+      "job": "Врач"
+    },
+    "min_salary": 175313,
+    "avg_salary": 175313.0,
+    "max_salary": 175313
+  },
+  {
+    "_id": {
+      "city": "Овьедо",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 144224,
+    "avg_salary": 169270.5,
+    "max_salary": 194317
+  },
+  {
+    "_id": {
+      "city": "Душанбе",
+      "job": "Водитель"
+    },
+    "min_salary": 103951,
+    "avg_salary": 147881.0,
+    "max_salary": 191811
+  },
+  {
+    "_id": {
+      "city": "Сантьяго-де-Компостела",
+      "job": "Менеджер"
+    },
+    "min_salary": 121276,
+    "avg_salary": 121276.0,
+    "max_salary": 121276
+  },
+  {
+    "_id": {
+      "city": "Осера",
+      "job": "Строитель"
+    },
+    "min_salary": 112877,
+    "avg_salary": 142656.33333333334,
+    "max_salary": 185689
+  },
+  {
+    "_id": {
+      "city": "Варшава",
+      "job": "Психолог"
+    },
+    "min_salary": 108415,
+    "avg_salary": 108415.0,
+    "max_salary": 108415
+  },
+  {
+    "_id": {
+      "city": "Севилья",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 69806,
+    "avg_salary": 91382.0,
+    "max_salary": 112958
+  },
+  {
+    "_id": {
+      "city": "Луарка",
+      "job": "Медсестра"
+    },
+    "min_salary": 131878,
+    "avg_salary": 131878.0,
+    "max_salary": 131878
+  },
+  {
+    "_id": {
+      "city": "Тудела",
+      "job": "Программист"
+    },
+    "min_salary": 134872,
+    "avg_salary": 134872.0,
+    "max_salary": 134872
+  },
+  {
+    "_id": {
+      "city": "Сараево",
+      "job": "Строитель"
+    },
+    "min_salary": 155425,
+    "avg_salary": 155425.0,
+    "max_salary": 155425
+  },
+  {
+    "_id": {
+      "city": "Луго",
+      "job": "Программист"
+    },
+    "min_salary": 175128,
+    "avg_salary": 175128.0,
+    "max_salary": 175128
+  },
+  {
+    "_id": {
+      "city": "Валенсия",
+      "job": "Программист"
+    },
+    "min_salary": 92071,
+    "avg_salary": 92071.0,
+    "max_salary": 92071
+  },
+  {
+    "_id": {
+      "city": "Виго",
+      "job": "Медсестра"
+    },
+    "min_salary": 95340,
+    "avg_salary": 95340.0,
+    "max_salary": 95340
+  },
+  {
+    "_id": {
+      "city": "Авилес",
+      "job": "Повар"
+    },
+    "min_salary": 70520,
+    "avg_salary": 70520.0,
+    "max_salary": 70520
+  },
+  {
+    "_id": {
+      "city": "Скопье",
+      "job": "Строитель"
+    },
+    "min_salary": 120215,
+    "avg_salary": 120215.0,
+    "max_salary": 120215
+  },
+  {
+    "_id": {
+      "city": "Санхенхо",
+      "job": "Строитель"
+    },
+    "min_salary": 64953,
+    "avg_salary": 64953.0,
+    "max_salary": 64953
+  },
+  {
+    "_id": {
+      "city": "Пласенсия",
+      "job": "Инженер"
+    },
+    "min_salary": 78953,
+    "avg_salary": 116003.0,
+    "max_salary": 153053
+  },
+  {
+    "_id": {
+      "city": "Осера",
+      "job": "Учитель"
+    },
+    "min_salary": 51418,
+    "avg_salary": 51418.0,
+    "max_salary": 51418
+  },
+  {
+    "_id": {
+      "city": "Трухильо",
+      "job": "Менеджер"
+    },
+    "min_salary": 50007,
+    "avg_salary": 50007.0,
+    "max_salary": 50007
+  },
+  {
+    "_id": {
+      "city": "Ла-Корунья",
+      "job": "Программист"
+    },
+    "min_salary": 69472,
+    "avg_salary": 69472.0,
+    "max_salary": 69472
+  },
+  {
+    "_id": {
+      "city": "Осера",
+      "job": "Врач"
+    },
+    "min_salary": 73052,
+    "avg_salary": 95943.5,
+    "max_salary": 118835
+  },
+  {
+    "_id": {
+      "city": "Касерес",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 79308,
+    "avg_salary": 79308.0,
+    "max_salary": 79308
+  },
+  {
+    "_id": {
+      "city": "Камбадос",
+      "job": "Программист"
+    },
+    "min_salary": 89087,
+    "avg_salary": 89087.0,
+    "max_salary": 89087
+  },
+  {
+    "_id": {
+      "city": "Лас-Росас",
+      "job": "IT-специалист"
+    },
+    "min_salary": 66661,
+    "avg_salary": 96187.0,
+    "max_salary": 125713
+  },
+  {
+    "_id": {
+      "city": "Малага",
+      "job": "Продавец"
+    },
+    "min_salary": 121798,
+    "avg_salary": 121798.0,
+    "max_salary": 121798
+  },
+  {
+    "_id": {
+      "city": "Самора",
+      "job": "Психолог"
+    },
+    "min_salary": 106160,
+    "avg_salary": 106160.0,
+    "max_salary": 106160
+  },
+  {
+    "_id": {
+      "city": "Санхенхо",
+      "job": "Врач"
+    },
+    "min_salary": 109862,
+    "avg_salary": 109862.0,
+    "max_salary": 109862
+  },
+  {
+    "_id": {
+      "city": "Санхенхо",
+      "job": "Инженер"
+    },
+    "min_salary": 132576,
+    "avg_salary": 132576.0,
+    "max_salary": 132576
+  },
+  {
+    "_id": {
+      "city": "Хельсинки",
+      "job": "Инженер"
+    },
+    "min_salary": 50974,
+    "avg_salary": 95229.0,
+    "max_salary": 139484
+  },
+  {
+    "_id": {
+      "city": "Валенсия",
+      "job": "IT-специалист"
+    },
+    "min_salary": 108939,
+    "avg_salary": 108939.0,
+    "max_salary": 108939
+  },
+  {
+    "_id": {
+      "city": "Куэнка",
+      "job": "IT-специалист"
+    },
+    "min_salary": 107894,
+    "avg_salary": 134678.0,
+    "max_salary": 161462
+  },
+  {
+    "_id": {
+      "city": "Краков",
+      "job": "Программист"
+    },
+    "min_salary": 107324,
+    "avg_salary": 107324.0,
+    "max_salary": 107324
+  },
+  {
+    "_id": {
+      "city": "Ташкент",
+      "job": "Повар"
+    },
+    "min_salary": 186053,
+    "avg_salary": 186053.0,
+    "max_salary": 186053
+  },
+  {
+    "_id": {
+      "city": "Монсон",
+      "job": "Врач"
+    },
+    "min_salary": 80633,
+    "avg_salary": 80633.0,
+    "max_salary": 80633
   },
   {
     "_id": {
@@ -19,777 +991,948 @@
   },
   {
     "_id": {
-      "city": "Севилья",
-      "job": "Продавец"
-    },
-    "min_salary": 136544,
-    "avg_salary": 136544.0,
-    "max_salary": 136544
-  },
-  {
-    "_id": {
-      "city": "Санкт-Петербург",
-      "job": "Строитель"
-    },
-    "min_salary": 69550,
-    "avg_salary": 69550.0,
-    "max_salary": 69550
-  },
-  {
-    "_id": {
-      "city": "Вальядолид",
-      "job": "Программист"
-    },
-    "min_salary": 87284,
-    "avg_salary": 87284.0,
-    "max_salary": 87284
-  },
-  {
-    "_id": {
-      "city": "Баку",
+      "city": "Малага",
       "job": "Врач"
     },
-    "min_salary": 97548,
-    "avg_salary": 139120.0,
-    "max_salary": 180692
-  },
-  {
-    "_id": {
-      "city": "Баку",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 57428,
-    "avg_salary": 57428.0,
-    "max_salary": 57428
-  },
-  {
-    "_id": {
-      "city": "Кадакес",
-      "job": "Психолог"
-    },
-    "min_salary": 152572,
-    "avg_salary": 152572.0,
-    "max_salary": 152572
-  },
-  {
-    "_id": {
-      "city": "Артейхо",
-      "job": "Учитель"
-    },
-    "min_salary": 171474,
-    "avg_salary": 171474.0,
-    "max_salary": 171474
-  },
-  {
-    "_id": {
-      "city": "Навалькарнеро",
-      "job": "Косметолог"
-    },
-    "min_salary": 193340,
-    "avg_salary": 193340.0,
-    "max_salary": 193340
-  },
-  {
-    "_id": {
-      "city": "Бланес",
-      "job": "Учитель"
-    },
-    "min_salary": 70581,
-    "avg_salary": 70581.0,
-    "max_salary": 70581
-  },
-  {
-    "_id": {
-      "city": "Сан-Себастьян",
-      "job": "Инженер"
-    },
-    "min_salary": 70557,
-    "avg_salary": 70557.0,
-    "max_salary": 70557
-  },
-  {
-    "_id": {
-      "city": "Москва",
-      "job": "Учитель"
-    },
-    "min_salary": 147464,
-    "avg_salary": 159543.0,
-    "max_salary": 171622
-  },
-  {
-    "_id": {
-      "city": "София",
-      "job": "Учитель"
-    },
-    "min_salary": 177648,
-    "avg_salary": 177648.0,
-    "max_salary": 177648
-  },
-  {
-    "_id": {
-      "city": "Алькала-де-Энарес",
-      "job": "Психолог"
-    },
-    "min_salary": 160301,
-    "avg_salary": 160301.0,
-    "max_salary": 160301
-  },
-  {
-    "_id": {
-      "city": "Тбилиси",
-      "job": "Повар"
-    },
-    "min_salary": 104046,
-    "avg_salary": 104046.0,
-    "max_salary": 104046
-  },
-  {
-    "_id": {
-      "city": "Луго",
-      "job": "IT-специалист"
-    },
-    "min_salary": 138500,
-    "avg_salary": 138500.0,
-    "max_salary": 138500
-  },
-  {
-    "_id": {
-      "city": "Таллин",
-      "job": "Повар"
-    },
-    "min_salary": 99808,
-    "avg_salary": 99808.0,
-    "max_salary": 99808
-  },
-  {
-    "_id": {
-      "city": "Баку",
-      "job": "Строитель"
-    },
-    "min_salary": 86025,
-    "avg_salary": 130948.5,
-    "max_salary": 175872
-  },
-  {
-    "_id": {
-      "city": "Вроцлав",
-      "job": "Архитектор"
-    },
-    "min_salary": 64256,
-    "avg_salary": 71679.5,
-    "max_salary": 79103
-  },
-  {
-    "_id": {
-      "city": "Махадаонда",
-      "job": "Инженер"
-    },
-    "min_salary": 71931,
-    "avg_salary": 71931.0,
-    "max_salary": 71931
-  },
-  {
-    "_id": {
-      "city": "Астана",
-      "job": "Менеджер"
-    },
-    "min_salary": 155257,
-    "avg_salary": 155257.0,
-    "max_salary": 155257
-  },
-  {
-    "_id": {
-      "city": "Душанбе",
-      "job": "Инженер"
-    },
-    "min_salary": 92125,
-    "avg_salary": 92125.0,
-    "max_salary": 92125
-  },
-  {
-    "_id": {
-      "city": "Лас-Росас",
-      "job": "Строитель"
-    },
-    "min_salary": 58200,
-    "avg_salary": 58200.0,
-    "max_salary": 58200
-  },
-  {
-    "_id": {
-      "city": "Кордова",
-      "job": "Медсестра"
-    },
-    "min_salary": 195446,
-    "avg_salary": 195446.0,
-    "max_salary": 195446
-  },
-  {
-    "_id": {
-      "city": "Самора",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 177859,
-    "avg_salary": 177859.0,
-    "max_salary": 177859
-  },
-  {
-    "_id": {
-      "city": "Аликанте",
-      "job": "Повар"
-    },
-    "min_salary": 122988,
-    "avg_salary": 122988.0,
-    "max_salary": 122988
-  },
-  {
-    "_id": {
-      "city": "Алькала-де-Энарес",
-      "job": "Строитель"
-    },
-    "min_salary": 50291,
-    "avg_salary": 50291.0,
-    "max_salary": 50291
-  },
-  {
-    "_id": {
-      "city": "Кордова",
-      "job": "IT-специалист"
-    },
-    "min_salary": 135886,
-    "avg_salary": 162872.5,
-    "max_salary": 189859
-  },
-  {
-    "_id": {
-      "city": "Бланес",
-      "job": "Продавец"
-    },
-    "min_salary": 116515,
-    "avg_salary": 119968.5,
-    "max_salary": 123422
-  },
-  {
-    "_id": {
-      "city": "Мурсия",
-      "job": "Архитектор"
-    },
-    "min_salary": 53521,
-    "avg_salary": 116216.5,
-    "max_salary": 178912
-  },
-  {
-    "_id": {
-      "city": "Хихон",
-      "job": "Медсестра"
-    },
-    "min_salary": 110102,
-    "avg_salary": 110102.0,
-    "max_salary": 110102
-  },
-  {
-    "_id": {
-      "city": "Таллин",
-      "job": "Инженер"
-    },
-    "min_salary": 62942,
-    "avg_salary": 126587.66666666667,
-    "max_salary": 159789
-  },
-  {
-    "_id": {
-      "city": "Сеговия",
-      "job": "Продавец"
-    },
-    "min_salary": 170170,
-    "avg_salary": 170170.0,
-    "max_salary": 170170
-  },
-  {
-    "_id": {
-      "city": "Монсон",
-      "job": "Инженер"
-    },
-    "min_salary": 85445,
-    "avg_salary": 85445.0,
-    "max_salary": 85445
-  },
-  {
-    "_id": {
-      "city": "Кадакес",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 68287,
-    "avg_salary": 68287.0,
-    "max_salary": 68287
-  },
-  {
-    "_id": {
-      "city": "Куэнка",
-      "job": "Медсестра"
-    },
-    "min_salary": 110627,
-    "avg_salary": 110627.0,
-    "max_salary": 110627
-  },
-  {
-    "_id": {
-      "city": "Льейда",
-      "job": "Строитель"
-    },
-    "min_salary": 71497,
-    "avg_salary": 71497.0,
-    "max_salary": 71497
-  },
-  {
-    "_id": {
-      "city": "Прага",
-      "job": "Продавец"
-    },
-    "min_salary": 77739,
-    "avg_salary": 106437.5,
-    "max_salary": 135136
-  },
-  {
-    "_id": {
-      "city": "Сеговия",
-      "job": "Менеджер"
-    },
-    "min_salary": 75533,
-    "avg_salary": 75533.0,
-    "max_salary": 75533
-  },
-  {
-    "_id": {
-      "city": "Хельсинки",
-      "job": "Архитектор"
-    },
-    "min_salary": 118273,
-    "avg_salary": 118273.0,
-    "max_salary": 118273
-  },
-  {
-    "_id": {
-      "city": "Касерес",
-      "job": "Повар"
-    },
-    "min_salary": 86272,
-    "avg_salary": 86272.0,
-    "max_salary": 86272
-  },
-  {
-    "_id": {
-      "city": "Тарраса",
-      "job": "Менеджер"
-    },
-    "min_salary": 146738,
-    "avg_salary": 146738.0,
-    "max_salary": 146738
-  },
-  {
-    "_id": {
-      "city": "Кишинев",
-      "job": "Водитель"
-    },
-    "min_salary": 163864,
-    "avg_salary": 163864.0,
-    "max_salary": 163864
-  },
-  {
-    "_id": {
-      "city": "Кордова",
-      "job": "Архитектор"
-    },
-    "min_salary": 198347,
-    "avg_salary": 198347.0,
-    "max_salary": 198347
-  },
-  {
-    "_id": {
-      "city": "Санкт-Петербург",
-      "job": "Продавец"
-    },
-    "min_salary": 136517,
-    "avg_salary": 136517.0,
-    "max_salary": 136517
-  },
-  {
-    "_id": {
-      "city": "Сараево",
-      "job": "Косметолог"
-    },
-    "min_salary": 111186,
-    "avg_salary": 111186.0,
-    "max_salary": 111186
-  },
-  {
-    "_id": {
-      "city": "Авилес",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 146220,
-    "avg_salary": 146220.0,
-    "max_salary": 146220
-  },
-  {
-    "_id": {
-      "city": "Алькала-де-Энарес",
-      "job": "Врач"
-    },
-    "min_salary": 120272,
-    "avg_salary": 151559.0,
-    "max_salary": 182846
-  },
-  {
-    "_id": {
-      "city": "Касерес",
-      "job": "Инженер"
-    },
-    "min_salary": 79102,
-    "avg_salary": 79102.0,
-    "max_salary": 79102
-  },
-  {
-    "_id": {
-      "city": "Эльче",
-      "job": "Продавец"
-    },
-    "min_salary": 135742,
-    "avg_salary": 135742.0,
-    "max_salary": 135742
-  },
-  {
-    "_id": {
-      "city": "Мадрид",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 120927,
-    "avg_salary": 120927.0,
-    "max_salary": 120927
-  },
-  {
-    "_id": {
-      "city": "Монсон",
-      "job": "IT-специалист"
-    },
-    "min_salary": 178507,
-    "avg_salary": 178507.0,
-    "max_salary": 178507
-  },
-  {
-    "_id": {
-      "city": "Семана",
-      "job": "Программист"
-    },
-    "min_salary": 53161,
-    "avg_salary": 53161.0,
-    "max_salary": 53161
-  },
-  {
-    "_id": {
-      "city": "Сан-Себастьян",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 63467,
-    "avg_salary": 63467.0,
-    "max_salary": 63467
-  },
-  {
-    "_id": {
-      "city": "Подгорица",
-      "job": "Врач"
-    },
-    "min_salary": 193862,
-    "avg_salary": 193862.0,
-    "max_salary": 193862
-  },
-  {
-    "_id": {
-      "city": "Санхенхо",
-      "job": "IT-специалист"
-    },
-    "min_salary": 193227,
-    "avg_salary": 193227.0,
-    "max_salary": 193227
-  },
-  {
-    "_id": {
-      "city": "Вальядолид",
-      "job": "Архитектор"
-    },
-    "min_salary": 162832,
-    "avg_salary": 162832.0,
-    "max_salary": 162832
-  },
-  {
-    "_id": {
-      "city": "Мартоса",
-      "job": "Врач"
-    },
-    "min_salary": 55645,
-    "avg_salary": 107471.5,
-    "max_salary": 159298
-  },
-  {
-    "_id": {
-      "city": "Махадаонда",
-      "job": "Программист"
-    },
-    "min_salary": 86840,
-    "avg_salary": 86840.0,
-    "max_salary": 86840
-  },
-  {
-    "_id": {
-      "city": "Гранада",
-      "job": "Инженер"
-    },
-    "min_salary": 65113,
-    "avg_salary": 65113.0,
-    "max_salary": 65113
-  },
-  {
-    "_id": {
-      "city": "Ереван",
-      "job": "Инженер"
-    },
-    "min_salary": 142283,
-    "avg_salary": 142283.0,
-    "max_salary": 142283
-  },
-  {
-    "_id": {
-      "city": "Ла-Корунья",
-      "job": "Психолог"
-    },
-    "min_salary": 177495,
-    "avg_salary": 177495.0,
-    "max_salary": 177495
-  },
-  {
-    "_id": {
-      "city": "Пласенсия",
-      "job": "Продавец"
-    },
-    "min_salary": 51626,
-    "avg_salary": 51626.0,
-    "max_salary": 51626
-  },
-  {
-    "_id": {
-      "city": "Аликанте",
-      "job": "Психолог"
-    },
-    "min_salary": 175828,
-    "avg_salary": 175828.0,
-    "max_salary": 175828
-  },
-  {
-    "_id": {
-      "city": "Краков",
-      "job": "Водитель"
-    },
-    "min_salary": 154896,
-    "avg_salary": 154896.0,
-    "max_salary": 154896
-  },
-  {
-    "_id": {
-      "city": "Хихон",
-      "job": "Менеджер"
-    },
-    "min_salary": 60318,
-    "avg_salary": 60318.0,
-    "max_salary": 60318
-  },
-  {
-    "_id": {
-      "city": "Баку",
-      "job": "Повар"
-    },
-    "min_salary": 150090,
-    "avg_salary": 150090.0,
-    "max_salary": 150090
-  },
-  {
-    "_id": {
-      "city": "Артейхо",
-      "job": "Медсестра"
-    },
-    "min_salary": 165008,
-    "avg_salary": 165008.0,
-    "max_salary": 165008
-  },
-  {
-    "_id": {
-      "city": "Вильявисиоса",
-      "job": "Инженер"
-    },
-    "min_salary": 139264,
-    "avg_salary": 141223.0,
-    "max_salary": 143182
-  },
-  {
-    "_id": {
-      "city": "Афины",
-      "job": "IT-специалист"
-    },
-    "min_salary": 101586,
-    "avg_salary": 101586.0,
-    "max_salary": 101586
-  },
-  {
-    "_id": {
-      "city": "Куэнка",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 74034,
-    "avg_salary": 74034.0,
-    "max_salary": 74034
+    "min_salary": 80403,
+    "avg_salary": 136222.33333333334,
+    "max_salary": 164967
   },
   {
     "_id": {
       "city": "Вильнюс",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 92931,
-    "avg_salary": 92931.0,
-    "max_salary": 92931
-  },
-  {
-    "_id": {
-      "city": "Кишинев",
-      "job": "Медсестра"
-    },
-    "min_salary": 147234,
-    "avg_salary": 147234.0,
-    "max_salary": 147234
-  },
-  {
-    "_id": {
-      "city": "Мурсия",
-      "job": "Косметолог"
-    },
-    "min_salary": 125688,
-    "avg_salary": 125688.0,
-    "max_salary": 125688
-  },
-  {
-    "_id": {
-      "city": "Виго",
-      "job": "IT-специалист"
-    },
-    "min_salary": 163044,
-    "avg_salary": 163044.0,
-    "max_salary": 163044
-  },
-  {
-    "_id": {
-      "city": "Рига",
-      "job": "Строитель"
-    },
-    "min_salary": 196114,
-    "avg_salary": 196114.0,
-    "max_salary": 196114
-  },
-  {
-    "_id": {
-      "city": "Хихон",
-      "job": "Продавец"
-    },
-    "min_salary": 145255,
-    "avg_salary": 169725.5,
-    "max_salary": 194196
-  },
-  {
-    "_id": {
-      "city": "Рига",
-      "job": "Психолог"
-    },
-    "min_salary": 137641,
-    "avg_salary": 137641.0,
-    "max_salary": 137641
-  },
-  {
-    "_id": {
-      "city": "Лас-Росас",
-      "job": "Инженер"
-    },
-    "min_salary": 74729,
-    "avg_salary": 74729.0,
-    "max_salary": 74729
-  },
-  {
-    "_id": {
-      "city": "Мартоса",
-      "job": "Медсестра"
-    },
-    "min_salary": 165177,
-    "avg_salary": 165177.0,
-    "max_salary": 165177
-  },
-  {
-    "_id": {
-      "city": "Тирана",
-      "job": "Учитель"
-    },
-    "min_salary": 94616,
-    "avg_salary": 94616.0,
-    "max_salary": 94616
-  },
-  {
-    "_id": {
-      "city": "Аликанте",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 88051,
-    "avg_salary": 88051.0,
-    "max_salary": 88051
-  },
-  {
-    "_id": {
-      "city": "Подгорица",
       "job": "Водитель"
     },
-    "min_salary": 62114,
-    "avg_salary": 62114.0,
-    "max_salary": 62114
+    "min_salary": 132212,
+    "avg_salary": 136076.0,
+    "max_salary": 139940
   },
   {
     "_id": {
-      "city": "Эльче",
-      "job": "Медсестра"
+      "city": "София",
+      "job": "Косметолог"
     },
-    "min_salary": 134491,
-    "avg_salary": 134491.0,
-    "max_salary": 134491
+    "min_salary": 185442,
+    "avg_salary": 185442.0,
+    "max_salary": 185442
   },
   {
     "_id": {
-      "city": "Севилья",
+      "city": "Сьюдад-Реаль",
       "job": "Менеджер"
     },
-    "min_salary": 115533,
-    "avg_salary": 142736.5,
-    "max_salary": 169940
+    "min_salary": 55745,
+    "avg_salary": 55745.0,
+    "max_salary": 55745
+  },
+  {
+    "_id": {
+      "city": "Тарраса",
+      "job": "Косметолог"
+    },
+    "min_salary": 193041,
+    "avg_salary": 193041.0,
+    "max_salary": 193041
+  },
+  {
+    "_id": {
+      "city": "Трухильо",
+      "job": "Строитель"
+    },
+    "min_salary": 155481,
+    "avg_salary": 155481.0,
+    "max_salary": 155481
+  },
+  {
+    "_id": {
+      "city": "Хельсинки",
+      "job": "Повар"
+    },
+    "min_salary": 120880,
+    "avg_salary": 120880.0,
+    "max_salary": 120880
+  },
+  {
+    "_id": {
+      "city": "Сараево",
+      "job": "Инженер"
+    },
+    "min_salary": 109727,
+    "avg_salary": 109727.0,
+    "max_salary": 109727
+  },
+  {
+    "_id": {
+      "city": "Льейда",
+      "job": "IT-специалист"
+    },
+    "min_salary": 186300,
+    "avg_salary": 186300.0,
+    "max_salary": 186300
+  },
+  {
+    "_id": {
+      "city": "Валенсия",
+      "job": "Косметолог"
+    },
+    "min_salary": 92743,
+    "avg_salary": 92743.0,
+    "max_salary": 92743
   },
   {
     "_id": {
       "city": "Картахена",
-      "job": "Менеджер"
+      "job": "Психолог"
     },
-    "min_salary": 116997,
-    "avg_salary": 116997.0,
-    "max_salary": 116997
+    "min_salary": 84050,
+    "avg_salary": 84050.0,
+    "max_salary": 84050
   },
   {
     "_id": {
-      "city": "Тудела",
+      "city": "Белград",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 104571,
+    "avg_salary": 104571.0,
+    "max_salary": 104571
+  },
+  {
+    "_id": {
+      "city": "Мерида",
+      "job": "Продавец"
+    },
+    "min_salary": 181659,
+    "avg_salary": 187823.5,
+    "max_salary": 193988
+  },
+  {
+    "_id": {
+      "city": "Камбадос",
+      "job": "Продавец"
+    },
+    "min_salary": 57738,
+    "avg_salary": 57738.0,
+    "max_salary": 57738
+  },
+  {
+    "_id": {
+      "city": "Бишкек",
+      "job": "Учитель"
+    },
+    "min_salary": 111589,
+    "avg_salary": 111589.0,
+    "max_salary": 111589
+  },
+  {
+    "_id": {
+      "city": "Картахена",
+      "job": "Строитель"
+    },
+    "min_salary": 98710,
+    "avg_salary": 98710.0,
+    "max_salary": 98710
+  },
+  {
+    "_id": {
+      "city": "Махадаонда",
+      "job": "Врач"
+    },
+    "min_salary": 65467,
+    "avg_salary": 65467.0,
+    "max_salary": 65467
+  },
+  {
+    "_id": {
+      "city": "Эль-Пуэрто-де-Санта-Мария",
+      "job": "Архитектор"
+    },
+    "min_salary": 151439,
+    "avg_salary": 151439.0,
+    "max_salary": 151439
+  },
+  {
+    "_id": {
+      "city": "Виго",
+      "job": "Продавец"
+    },
+    "min_salary": 183599,
+    "avg_salary": 183599.0,
+    "max_salary": 183599
+  },
+  {
+    "_id": {
+      "city": "Любляна",
+      "job": "Косметолог"
+    },
+    "min_salary": 130977,
+    "avg_salary": 146361.5,
+    "max_salary": 161746
+  },
+  {
+    "_id": {
+      "city": "Бургос",
+      "job": "Водитель"
+    },
+    "min_salary": 143161,
+    "avg_salary": 143161.0,
+    "max_salary": 143161
+  },
+  {
+    "_id": {
+      "city": "Лас-Росас",
+      "job": "Косметолог"
+    },
+    "min_salary": 61288,
+    "avg_salary": 91321.5,
+    "max_salary": 121355
+  },
+  {
+    "_id": {
+      "city": "Астана",
+      "job": "Программист"
+    },
+    "min_salary": 80968,
+    "avg_salary": 80968.0,
+    "max_salary": 80968
+  },
+  {
+    "_id": {
+      "city": "Тбилиси",
+      "job": "Строитель"
+    },
+    "min_salary": 128264,
+    "avg_salary": 128264.0,
+    "max_salary": 128264
+  },
+  {
+    "_id": {
+      "city": "Мартоса",
+      "job": "Повар"
+    },
+    "min_salary": 59532,
+    "avg_salary": 59532.0,
+    "max_salary": 59532
+  },
+  {
+    "_id": {
+      "city": "Тарраса",
+      "job": "Инженер"
+    },
+    "min_salary": 99839,
+    "avg_salary": 99839.0,
+    "max_salary": 99839
+  },
+  {
+    "_id": {
+      "city": "Рига",
+      "job": "Программист"
+    },
+    "min_salary": 58674,
+    "avg_salary": 82043.0,
+    "max_salary": 105412
+  },
+  {
+    "_id": {
+      "city": "Минск",
+      "job": "Менеджер"
+    },
+    "min_salary": 162415,
+    "avg_salary": 162415.0,
+    "max_salary": 162415
+  },
+  {
+    "_id": {
+      "city": "Рига",
+      "job": "Менеджер"
+    },
+    "min_salary": 171406,
+    "avg_salary": 171406.0,
+    "max_salary": 171406
+  },
+  {
+    "_id": {
+      "city": "Таллин",
+      "job": "Учитель"
+    },
+    "min_salary": 57286,
+    "avg_salary": 112035.0,
+    "max_salary": 166784
+  },
+  {
+    "_id": {
+      "city": "Малага",
+      "job": "Учитель"
+    },
+    "min_salary": 190975,
+    "avg_salary": 190975.0,
+    "max_salary": 190975
+  },
+  {
+    "_id": {
+      "city": "Луго",
+      "job": "Косметолог"
+    },
+    "min_salary": 145176,
+    "avg_salary": 145176.0,
+    "max_salary": 145176
+  },
+  {
+    "_id": {
+      "city": "Вальядолид",
+      "job": "Продавец"
+    },
+    "min_salary": 188612,
+    "avg_salary": 188612.0,
+    "max_salary": 188612
+  },
+  {
+    "_id": {
+      "city": "Семана",
+      "job": "Строитель"
+    },
+    "min_salary": 139564,
+    "avg_salary": 139564.0,
+    "max_salary": 139564
+  },
+  {
+    "_id": {
+      "city": "Алма-Ата",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 157488,
+    "avg_salary": 157488.0,
+    "max_salary": 157488
+  },
+  {
+    "_id": {
+      "city": "Баку",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 134450,
+    "avg_salary": 134450.0,
+    "max_salary": 134450
+  },
+  {
+    "_id": {
+      "city": "Овьедо",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 145695,
+    "avg_salary": 149205.0,
+    "max_salary": 152715
+  },
+  {
+    "_id": {
+      "city": "Кордова",
+      "job": "Психолог"
+    },
+    "min_salary": 106499,
+    "avg_salary": 106499.0,
+    "max_salary": 106499
+  },
+  {
+    "_id": {
+      "city": "Вильявисиоса",
+      "job": "Врач"
+    },
+    "min_salary": 108463,
+    "avg_salary": 108463.0,
+    "max_salary": 108463
+  },
+  {
+    "_id": {
+      "city": "Подгорица",
+      "job": "Инженер"
+    },
+    "min_salary": 184009,
+    "avg_salary": 184009.0,
+    "max_salary": 184009
+  },
+  {
+    "_id": {
+      "city": "Скопье",
+      "job": "Повар"
+    },
+    "min_salary": 80824,
+    "avg_salary": 142144.33333333334,
+    "max_salary": 187915
+  },
+  {
+    "_id": {
+      "city": "Луго",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 187353,
+    "avg_salary": 187353.0,
+    "max_salary": 187353
+  },
+  {
+    "_id": {
+      "city": "Семана",
+      "job": "Учитель"
+    },
+    "min_salary": 116292,
+    "avg_salary": 116292.0,
+    "max_salary": 116292
+  },
+  {
+    "_id": {
+      "city": "Монсон",
+      "job": "Продавец"
+    },
+    "min_salary": 98294,
+    "avg_salary": 108673.0,
+    "max_salary": 119052
+  },
+  {
+    "_id": {
+      "city": "Афины",
+      "job": "Продавец"
+    },
+    "min_salary": 172072,
+    "avg_salary": 172072.0,
+    "max_salary": 172072
+  },
+  {
+    "_id": {
+      "city": "Бланес",
+      "job": "Психолог"
+    },
+    "min_salary": 54140,
+    "avg_salary": 64803.5,
+    "max_salary": 75467
+  },
+  {
+    "_id": {
+      "city": "Авилес",
+      "job": "Врач"
+    },
+    "min_salary": 120246,
+    "avg_salary": 120246.0,
+    "max_salary": 120246
+  },
+  {
+    "_id": {
+      "city": "Камбадос",
+      "job": "Учитель"
+    },
+    "min_salary": 147294,
+    "avg_salary": 147294.0,
+    "max_salary": 147294
+  },
+  {
+    "_id": {
+      "city": "Ташкент",
+      "job": "Инженер"
+    },
+    "min_salary": 143366,
+    "avg_salary": 143366.0,
+    "max_salary": 143366
+  },
+  {
+    "_id": {
+      "city": "Ташкент",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 88385,
+    "avg_salary": 88385.0,
+    "max_salary": 88385
+  },
+  {
+    "_id": {
+      "city": "Сан-Себастьян",
+      "job": "IT-специалист"
+    },
+    "min_salary": 93571,
+    "avg_salary": 93571.0,
+    "max_salary": 93571
+  },
+  {
+    "_id": {
+      "city": "Тирана",
+      "job": "Инженер"
+    },
+    "min_salary": 51507,
+    "avg_salary": 106127.0,
+    "max_salary": 160747
+  },
+  {
+    "_id": {
+      "city": "Рига",
       "job": "Медсестра"
     },
-    "min_salary": 135615,
-    "avg_salary": 150164.0,
-    "max_salary": 170140
+    "min_salary": 90465,
+    "avg_salary": 90465.0,
+    "max_salary": 90465
+  },
+  {
+    "_id": {
+      "city": "Мерида",
+      "job": "Инженер"
+    },
+    "min_salary": 59448,
+    "avg_salary": 59448.0,
+    "max_salary": 59448
+  },
+  {
+    "_id": {
+      "city": "Льейда",
+      "job": "Продавец"
+    },
+    "min_salary": 143729,
+    "avg_salary": 143729.0,
+    "max_salary": 143729
+  },
+  {
+    "_id": {
+      "city": "Любляна",
+      "job": "IT-специалист"
+    },
+    "min_salary": 95413,
+    "avg_salary": 95413.0,
+    "max_salary": 95413
+  },
+  {
+    "_id": {
+      "city": "Сеговия",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 157880,
+    "avg_salary": 157880.0,
+    "max_salary": 157880
+  },
+  {
+    "_id": {
+      "city": "Тбилиси",
+      "job": "Психолог"
+    },
+    "min_salary": 191462,
+    "avg_salary": 191462.0,
+    "max_salary": 191462
+  },
+  {
+    "_id": {
+      "city": "Таллин",
+      "job": "Программист"
+    },
+    "min_salary": 75773,
+    "avg_salary": 75773.0,
+    "max_salary": 75773
+  },
+  {
+    "_id": {
+      "city": "Куэнка",
+      "job": "Психолог"
+    },
+    "min_salary": 137198,
+    "avg_salary": 137198.0,
+    "max_salary": 137198
+  },
+  {
+    "_id": {
+      "city": "Хихон",
+      "job": "Повар"
+    },
+    "min_salary": 186871,
+    "avg_salary": 191674.5,
+    "max_salary": 196478
+  },
+  {
+    "_id": {
+      "city": "Бургос",
+      "job": "Врач"
+    },
+    "min_salary": 188092,
+    "avg_salary": 188092.0,
+    "max_salary": 188092
+  },
+  {
+    "_id": {
+      "city": "Куэнка",
+      "job": "Врач"
+    },
+    "min_salary": 119178,
+    "avg_salary": 138553.0,
+    "max_salary": 157928
+  },
+  {
+    "_id": {
+      "city": "Минск",
+      "job": "Инженер"
+    },
+    "min_salary": 147317,
+    "avg_salary": 147317.0,
+    "max_salary": 147317
+  },
+  {
+    "_id": {
+      "city": "Луарка",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 93088,
+    "avg_salary": 93088.0,
+    "max_salary": 93088
+  },
+  {
+    "_id": {
+      "city": "Загреб",
+      "job": "Повар"
+    },
+    "min_salary": 179353,
+    "avg_salary": 179353.0,
+    "max_salary": 179353
+  },
+  {
+    "_id": {
+      "city": "Эль-Пуэрто-де-Санта-Мария",
+      "job": "IT-специалист"
+    },
+    "min_salary": 51014,
+    "avg_salary": 51014.0,
+    "max_salary": 51014
+  },
+  {
+    "_id": {
+      "city": "Валенсия",
+      "job": "Повар"
+    },
+    "min_salary": 74453,
+    "avg_salary": 74453.0,
+    "max_salary": 74453
+  },
+  {
+    "_id": {
+      "city": "Касерес",
+      "job": "Медсестра"
+    },
+    "min_salary": 176169,
+    "avg_salary": 176169.0,
+    "max_salary": 176169
+  },
+  {
+    "_id": {
+      "city": "Касерес",
+      "job": "Программист"
+    },
+    "min_salary": 139885,
+    "avg_salary": 139885.0,
+    "max_salary": 139885
+  },
+  {
+    "_id": {
+      "city": "Эль-Пуэрто-де-Санта-Мария",
+      "job": "Менеджер"
+    },
+    "min_salary": 68517,
+    "avg_salary": 87010.5,
+    "max_salary": 105504
+  },
+  {
+    "_id": {
+      "city": "Камбадос",
+      "job": "Водитель"
+    },
+    "min_salary": 91345,
+    "avg_salary": 91345.0,
+    "max_salary": 91345
+  },
+  {
+    "_id": {
+      "city": "Сьюдад-Реаль",
+      "job": "Учитель"
+    },
+    "min_salary": 64542,
+    "avg_salary": 64542.0,
+    "max_salary": 64542
+  },
+  {
+    "_id": {
+      "city": "Камбадос",
+      "job": "Психолог"
+    },
+    "min_salary": 153617,
+    "avg_salary": 153617.0,
+    "max_salary": 153617
+  },
+  {
+    "_id": {
+      "city": "Барселона",
+      "job": "Врач"
+    },
+    "min_salary": 156020,
+    "avg_salary": 156020.0,
+    "max_salary": 156020
+  },
+  {
+    "_id": {
+      "city": "Мурсия",
+      "job": "Продавец"
+    },
+    "min_salary": 114572,
+    "avg_salary": 114572.0,
+    "max_salary": 114572
+  },
+  {
+    "_id": {
+      "city": "Баку",
+      "job": "Косметолог"
+    },
+    "min_salary": 136425,
+    "avg_salary": 136425.0,
+    "max_salary": 136425
+  },
+  {
+    "_id": {
+      "city": "Камбадос",
+      "job": "Врач"
+    },
+    "min_salary": 93178,
+    "avg_salary": 133173.5,
+    "max_salary": 173169
+  },
+  {
+    "_id": {
+      "city": "Москва",
+      "job": "Психолог"
+    },
+    "min_salary": 90010,
+    "avg_salary": 90010.0,
+    "max_salary": 90010
+  },
+  {
+    "_id": {
+      "city": "Будапешт",
+      "job": "Архитектор"
+    },
+    "min_salary": 85434,
+    "avg_salary": 139336.5,
+    "max_salary": 193239
+  },
+  {
+    "_id": {
+      "city": "Афины",
+      "job": "Архитектор"
+    },
+    "min_salary": 131306,
+    "avg_salary": 131306.0,
+    "max_salary": 131306
+  },
+  {
+    "_id": {
+      "city": "Бишкек",
+      "job": "IT-специалист"
+    },
+    "min_salary": 148990,
+    "avg_salary": 148990.0,
+    "max_salary": 148990
+  },
+  {
+    "_id": {
+      "city": "Гранада",
+      "job": "Учитель"
+    },
+    "min_salary": 80327,
+    "avg_salary": 80327.0,
+    "max_salary": 80327
+  },
+  {
+    "_id": {
+      "city": "Белград",
+      "job": "Строитель"
+    },
+    "min_salary": 97073,
+    "avg_salary": 97073.0,
+    "max_salary": 97073
+  },
+  {
+    "_id": {
+      "city": "Вильнюс",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 89626,
+    "avg_salary": 142567.0,
+    "max_salary": 195508
+  },
+  {
+    "_id": {
+      "city": "Мурсия",
+      "job": "Программист"
+    },
+    "min_salary": 69275,
+    "avg_salary": 90063.5,
+    "max_salary": 110852
+  },
+  {
+    "_id": {
+      "city": "Хихон",
+      "job": "Архитектор"
+    },
+    "min_salary": 101490,
+    "avg_salary": 101490.0,
+    "max_salary": 101490
+  },
+  {
+    "_id": {
+      "city": "Фигерас",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 81985,
+    "avg_salary": 89907.5,
+    "max_salary": 97830
+  },
+  {
+    "_id": {
+      "city": "Гранада",
+      "job": "Строитель"
+    },
+    "min_salary": 89051,
+    "avg_salary": 114098.5,
+    "max_salary": 139146
+  },
+  {
+    "_id": {
+      "city": "Махадаонда",
+      "job": "Косметолог"
+    },
+    "min_salary": 87989,
+    "avg_salary": 87989.0,
+    "max_salary": 87989
+  },
+  {
+    "_id": {
+      "city": "Малага",
+      "job": "Водитель"
+    },
+    "min_salary": 106721,
+    "avg_salary": 106721.0,
+    "max_salary": 106721
+  },
+  {
+    "_id": {
+      "city": "Кордова",
+      "job": "Учитель"
+    },
+    "min_salary": 168091,
+    "avg_salary": 168091.0,
+    "max_salary": 168091
+  },
+  {
+    "_id": {
+      "city": "Мадрид",
+      "job": "IT-специалист"
+    },
+    "min_salary": 169183,
+    "avg_salary": 169183.0,
+    "max_salary": 169183
+  },
+  {
+    "_id": {
+      "city": "Сьюдад-Реаль",
+      "job": "Водитель"
+    },
+    "min_salary": 154146,
+    "avg_salary": 154146.0,
+    "max_salary": 154146
+  },
+  {
+    "_id": {
+      "city": "Сан-Себастьян",
+      "job": "Медсестра"
+    },
+    "min_salary": 121059,
+    "avg_salary": 121059.0,
+    "max_salary": 121059
+  },
+  {
+    "_id": {
+      "city": "Трухильо",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 111062,
+    "avg_salary": 111062.0,
+    "max_salary": 111062
+  },
+  {
+    "_id": {
+      "city": "Астана",
+      "job": "Повар"
+    },
+    "min_salary": 145087,
+    "avg_salary": 145087.0,
+    "max_salary": 145087
+  },
+  {
+    "_id": {
+      "city": "Барселона",
+      "job": "Строитель"
+    },
+    "min_salary": 160594,
+    "avg_salary": 160594.0,
+    "max_salary": 160594
+  },
+  {
+    "_id": {
+      "city": "Белград",
+      "job": "IT-специалист"
+    },
+    "min_salary": 121984,
+    "avg_salary": 123204.5,
+    "max_salary": 124425
+  },
+  {
+    "_id": {
+      "city": "Вильявисиоса",
+      "job": "Программист"
+    },
+    "min_salary": 84303,
+    "avg_salary": 84303.0,
+    "max_salary": 84303
+  },
+  {
+    "_id": {
+      "city": "Скопье",
+      "job": "Архитектор"
+    },
+    "min_salary": 159633,
+    "avg_salary": 159633.0,
+    "max_salary": 159633
+  },
+  {
+    "_id": {
+      "city": "Тбилиси",
+      "job": "Программист"
+    },
+    "min_salary": 158548,
+    "avg_salary": 158548.0,
+    "max_salary": 158548
+  },
+  {
+    "_id": {
+      "city": "Малага",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 132209,
+    "avg_salary": 132209.0,
+    "max_salary": 132209
+  },
+  {
+    "_id": {
+      "city": "Алькала-де-Энарес",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 93054,
+    "avg_salary": 129218.5,
+    "max_salary": 165383
+  },
+  {
+    "_id": {
+      "city": "София",
+      "job": "Продавец"
+    },
+    "min_salary": 54047,
+    "avg_salary": 54047.0,
+    "max_salary": 54047
   },
   {
     "_id": {
@@ -838,33 +1981,6 @@
   },
   {
     "_id": {
-      "city": "Малага",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 132209,
-    "avg_salary": 132209.0,
-    "max_salary": 132209
-  },
-  {
-    "_id": {
-      "city": "Алькала-де-Энарес",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 93054,
-    "avg_salary": 129218.5,
-    "max_salary": 165383
-  },
-  {
-    "_id": {
-      "city": "София",
-      "job": "Продавец"
-    },
-    "min_salary": 54047,
-    "avg_salary": 54047.0,
-    "max_salary": 54047
-  },
-  {
-    "_id": {
       "city": "Кадакес",
       "job": "Учитель"
     },
@@ -874,813 +1990,849 @@
   },
   {
     "_id": {
-      "city": "Белград",
-      "job": "IT-специалист"
-    },
-    "min_salary": 121984,
-    "avg_salary": 123204.5,
-    "max_salary": 124425
-  },
-  {
-    "_id": {
-      "city": "Вильявисиоса",
-      "job": "Программист"
-    },
-    "min_salary": 84303,
-    "avg_salary": 84303.0,
-    "max_salary": 84303
-  },
-  {
-    "_id": {
-      "city": "Скопье",
-      "job": "Архитектор"
-    },
-    "min_salary": 159633,
-    "avg_salary": 159633.0,
-    "max_salary": 159633
-  },
-  {
-    "_id": {
-      "city": "Сеговия",
-      "job": "Строитель"
-    },
-    "min_salary": 155921,
-    "avg_salary": 155921.0,
-    "max_salary": 155921
-  },
-  {
-    "_id": {
-      "city": "Вальядолид",
-      "job": "Водитель"
-    },
-    "min_salary": 99482,
-    "avg_salary": 99482.0,
-    "max_salary": 99482
-  },
-  {
-    "_id": {
-      "city": "Прага",
+      "city": "Севилья",
       "job": "Менеджер"
     },
-    "min_salary": 197579,
-    "avg_salary": 197579.0,
-    "max_salary": 197579
-  },
-  {
-    "_id": {
-      "city": "Мартоса",
-      "job": "Учитель"
-    },
-    "min_salary": 56696,
-    "avg_salary": 56696.0,
-    "max_salary": 56696
-  },
-  {
-    "_id": {
-      "city": "Вильнюс",
-      "job": "Продавец"
-    },
-    "min_salary": 140601,
-    "avg_salary": 140601.0,
-    "max_salary": 140601
-  },
-  {
-    "_id": {
-      "city": "Сьюдад-Реаль",
-      "job": "Косметолог"
-    },
-    "min_salary": 121983,
-    "avg_salary": 121983.0,
-    "max_salary": 121983
-  },
-  {
-    "_id": {
-      "city": "Любляна",
-      "job": "Водитель"
-    },
-    "min_salary": 69665,
-    "avg_salary": 69665.0,
-    "max_salary": 69665
-  },
-  {
-    "_id": {
-      "city": "Сантьяго-де-Компостела",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 123573,
-    "avg_salary": 123573.0,
-    "max_salary": 123573
-  },
-  {
-    "_id": {
-      "city": "Санхенхо",
-      "job": "Менеджер"
-    },
-    "min_salary": 184273,
-    "avg_salary": 191410.5,
-    "max_salary": 198548
+    "min_salary": 115533,
+    "avg_salary": 142736.5,
+    "max_salary": 169940
   },
   {
     "_id": {
       "city": "Картахена",
-      "job": "Программист"
-    },
-    "min_salary": 183975,
-    "avg_salary": 183975.0,
-    "max_salary": 183975
-  },
-  {
-    "_id": {
-      "city": "Картахена",
-      "job": "Продавец"
-    },
-    "min_salary": 50490,
-    "avg_salary": 121973.33333333333,
-    "max_salary": 181087
-  },
-  {
-    "_id": {
-      "city": "Тбилиси",
-      "job": "Программист"
-    },
-    "min_salary": 158548,
-    "avg_salary": 158548.0,
-    "max_salary": 158548
-  },
-  {
-    "_id": {
-      "city": "Кадакес",
-      "job": "Архитектор"
-    },
-    "min_salary": 78528,
-    "avg_salary": 78528.0,
-    "max_salary": 78528
-  },
-  {
-    "_id": {
-      "city": "Ташкент",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 98682,
-    "avg_salary": 98682.0,
-    "max_salary": 98682
-  },
-  {
-    "_id": {
-      "city": "Махадаонда",
       "job": "Менеджер"
     },
-    "min_salary": 62411,
-    "avg_salary": 62411.0,
-    "max_salary": 62411
-  },
-  {
-    "_id": {
-      "city": "Сантьяго-де-Компостела",
-      "job": "Врач"
-    },
-    "min_salary": 109737,
-    "avg_salary": 109737.0,
-    "max_salary": 109737
-  },
-  {
-    "_id": {
-      "city": "Сараево",
-      "job": "Архитектор"
-    },
-    "min_salary": 79103,
-    "avg_salary": 79103.0,
-    "max_salary": 79103
-  },
-  {
-    "_id": {
-      "city": "Тбилиси",
-      "job": "Архитектор"
-    },
-    "min_salary": 63632,
-    "avg_salary": 63632.0,
-    "max_salary": 63632
-  },
-  {
-    "_id": {
-      "city": "Вильнюс",
-      "job": "Учитель"
-    },
-    "min_salary": 159789,
-    "avg_salary": 160762.5,
-    "max_salary": 161736
-  },
-  {
-    "_id": {
-      "city": "Скопье",
-      "job": "Менеджер"
-    },
-    "min_salary": 90957,
-    "avg_salary": 90957.0,
-    "max_salary": 90957
-  },
-  {
-    "_id": {
-      "city": "Ереван",
-      "job": "Учитель"
-    },
-    "min_salary": 174254,
-    "avg_salary": 174254.0,
-    "max_salary": 174254
-  },
-  {
-    "_id": {
-      "city": "Санкт-Петербург",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 124938,
-    "avg_salary": 135946.5,
-    "max_salary": 146955
-  },
-  {
-    "_id": {
-      "city": "Овьедо",
-      "job": "Менеджер"
-    },
-    "min_salary": 136327,
-    "avg_salary": 136327.0,
-    "max_salary": 136327
-  },
-  {
-    "_id": {
-      "city": "Хихон",
-      "job": "Инженер"
-    },
-    "min_salary": 61950,
-    "avg_salary": 61950.0,
-    "max_salary": 61950
-  },
-  {
-    "_id": {
-      "city": "Сьюдад-Реаль",
-      "job": "Повар"
-    },
-    "min_salary": 164516,
-    "avg_salary": 164516.0,
-    "max_salary": 164516
-  },
-  {
-    "_id": {
-      "city": "Кадакес",
-      "job": "IT-специалист"
-    },
-    "min_salary": 130778,
-    "avg_salary": 130778.0,
-    "max_salary": 130778
-  },
-  {
-    "_id": {
-      "city": "Навалькарнеро",
-      "job": "Менеджер"
-    },
-    "min_salary": 195089,
-    "avg_salary": 195089.0,
-    "max_salary": 195089
-  },
-  {
-    "_id": {
-      "city": "Осера",
-      "job": "IT-специалист"
-    },
-    "min_salary": 87442,
-    "avg_salary": 92577.0,
-    "max_salary": 99608
-  },
-  {
-    "_id": {
-      "city": "Трухильо",
-      "job": "Программист"
-    },
-    "min_salary": 160621,
-    "avg_salary": 160621.0,
-    "max_salary": 160621
-  },
-  {
-    "_id": {
-      "city": "Мадрид",
-      "job": "Психолог"
-    },
-    "min_salary": 97036,
-    "avg_salary": 97036.0,
-    "max_salary": 97036
-  },
-  {
-    "_id": {
-      "city": "Эльче",
-      "job": "Архитектор"
-    },
-    "min_salary": 168331,
-    "avg_salary": 168331.0,
-    "max_salary": 168331
-  },
-  {
-    "_id": {
-      "city": "Сьюдад-Реаль",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 50152,
-    "avg_salary": 76242.5,
-    "max_salary": 102333
-  },
-  {
-    "_id": {
-      "city": "Астана",
-      "job": "Строитель"
-    },
-    "min_salary": 57650,
-    "avg_salary": 69755.0,
-    "max_salary": 81860
-  },
-  {
-    "_id": {
-      "city": "Астана",
-      "job": "Инженер"
-    },
-    "min_salary": 180287,
-    "avg_salary": 180287.0,
-    "max_salary": 180287
+    "min_salary": 116997,
+    "avg_salary": 116997.0,
+    "max_salary": 116997
   },
   {
     "_id": {
       "city": "Тудела",
-      "job": "Оператор call-центра"
+      "job": "Медсестра"
     },
-    "min_salary": 158403,
-    "avg_salary": 158403.0,
-    "max_salary": 158403
+    "min_salary": 135615,
+    "avg_salary": 150164.0,
+    "max_salary": 170140
   },
   {
     "_id": {
       "city": "Аликанте",
-      "job": "Врач"
-    },
-    "min_salary": 129655,
-    "avg_salary": 129655.0,
-    "max_salary": 129655
-  },
-  {
-    "_id": {
-      "city": "Любляна",
-      "job": "Инженер"
-    },
-    "min_salary": 199190,
-    "avg_salary": 199190.0,
-    "max_salary": 199190
-  },
-  {
-    "_id": {
-      "city": "Лас-Росас",
-      "job": "Учитель"
-    },
-    "min_salary": 75498,
-    "avg_salary": 75498.0,
-    "max_salary": 75498
-  },
-  {
-    "_id": {
-      "city": "Барселона",
-      "job": "Архитектор"
-    },
-    "min_salary": 51271,
-    "avg_salary": 51271.0,
-    "max_salary": 51271
-  },
-  {
-    "_id": {
-      "city": "Любляна",
-      "job": "Строитель"
-    },
-    "min_salary": 153670,
-    "avg_salary": 153670.0,
-    "max_salary": 153670
-  },
-  {
-    "_id": {
-      "city": "Пласенсия",
-      "job": "Врач"
-    },
-    "min_salary": 61037,
-    "avg_salary": 61037.0,
-    "max_salary": 61037
-  },
-  {
-    "_id": {
-      "city": "Самора",
-      "job": "Инженер"
-    },
-    "min_salary": 178717,
-    "avg_salary": 178717.0,
-    "max_salary": 178717
-  },
-  {
-    "_id": {
-      "city": "Малага",
-      "job": "Косметолог"
-    },
-    "min_salary": 167299,
-    "avg_salary": 167299.0,
-    "max_salary": 167299
-  },
-  {
-    "_id": {
-      "city": "Мадрид",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 60041,
-    "avg_salary": 60041.0,
-    "max_salary": 60041
-  },
-  {
-    "_id": {
-      "city": "Севилья",
-      "job": "Инженер"
-    },
-    "min_salary": 196469,
-    "avg_salary": 196469.0,
-    "max_salary": 196469
-  },
-  {
-    "_id": {
-      "city": "Фигерас",
-      "job": "IT-специалист"
-    },
-    "min_salary": 131697,
-    "avg_salary": 131697.0,
-    "max_salary": 131697
-  },
-  {
-    "_id": {
-      "city": "Камбадос",
       "job": "Оператор call-центра"
     },
-    "min_salary": 138339,
-    "avg_salary": 138339.0,
-    "max_salary": 138339
+    "min_salary": 88051,
+    "avg_salary": 88051.0,
+    "max_salary": 88051
   },
   {
     "_id": {
-      "city": "Самора",
-      "job": "Архитектор"
-    },
-    "min_salary": 128172,
-    "avg_salary": 142007.5,
-    "max_salary": 155843
-  },
-  {
-    "_id": {
-      "city": "Фигерас",
-      "job": "Медсестра"
-    },
-    "min_salary": 112129,
-    "avg_salary": 112129.0,
-    "max_salary": 112129
-  },
-  {
-    "_id": {
-      "city": "Вильнюс",
-      "job": "Инженер"
-    },
-    "min_salary": 147800,
-    "avg_salary": 147800.0,
-    "max_salary": 147800
-  },
-  {
-    "_id": {
-      "city": "Астана",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 115017,
-    "avg_salary": 115017.0,
-    "max_salary": 115017
-  },
-  {
-    "_id": {
-      "city": "Прага",
-      "job": "Медсестра"
-    },
-    "min_salary": 58069,
-    "avg_salary": 58069.0,
-    "max_salary": 58069
-  },
-  {
-    "_id": {
-      "city": "Виго",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 199320,
-    "avg_salary": 199320.0,
-    "max_salary": 199320
-  },
-  {
-    "_id": {
-      "city": "Мурсия",
+      "city": "Подгорица",
       "job": "Водитель"
     },
-    "min_salary": 186542,
-    "avg_salary": 186542.0,
-    "max_salary": 186542
+    "min_salary": 62114,
+    "avg_salary": 62114.0,
+    "max_salary": 62114
   },
   {
     "_id": {
-      "city": "Хихон",
-      "job": "Психолог"
+      "city": "Эльче",
+      "job": "Медсестра"
     },
-    "min_salary": 162316,
-    "avg_salary": 162316.0,
-    "max_salary": 162316
-  },
-  {
-    "_id": {
-      "city": "Фигерас",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 70482,
-    "avg_salary": 133200.5,
-    "max_salary": 195919
+    "min_salary": 134491,
+    "avg_salary": 134491.0,
+    "max_salary": 134491
   },
   {
     "_id": {
       "city": "Мартоса",
-      "job": "Инженер"
+      "job": "Медсестра"
     },
-    "min_salary": 77942,
-    "avg_salary": 77942.0,
-    "max_salary": 77942
+    "min_salary": 165177,
+    "avg_salary": 165177.0,
+    "max_salary": 165177
   },
   {
     "_id": {
-      "city": "Белград",
-      "job": "Оператор call-центра"
+      "city": "Тирана",
+      "job": "Учитель"
     },
-    "min_salary": 173454,
-    "avg_salary": 173454.0,
-    "max_salary": 173454
-  },
-  {
-    "_id": {
-      "city": "София",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 195072,
-    "avg_salary": 195072.0,
-    "max_salary": 195072
-  },
-  {
-    "_id": {
-      "city": "Сьюдад-Реаль",
-      "job": "Врач"
-    },
-    "min_salary": 123515,
-    "avg_salary": 123515.0,
-    "max_salary": 123515
-  },
-  {
-    "_id": {
-      "city": "Душанбе",
-      "job": "Продавец"
-    },
-    "min_salary": 81855,
-    "avg_salary": 88044.0,
-    "max_salary": 94233
-  },
-  {
-    "_id": {
-      "city": "Осера",
-      "job": "Программист"
-    },
-    "min_salary": 123181,
-    "avg_salary": 126764.5,
-    "max_salary": 130348
+    "min_salary": 94616,
+    "avg_salary": 94616.0,
+    "max_salary": 94616
   },
   {
     "_id": {
       "city": "Хихон",
-      "job": "Строитель"
+      "job": "Продавец"
     },
-    "min_salary": 177558,
-    "avg_salary": 177558.0,
-    "max_salary": 177558
+    "min_salary": 145255,
+    "avg_salary": 169725.5,
+    "max_salary": 194196
   },
   {
     "_id": {
-      "city": "Сория",
-      "job": "Строитель"
-    },
-    "min_salary": 129878,
-    "avg_salary": 129878.0,
-    "max_salary": 129878
-  },
-  {
-    "_id": {
-      "city": "Льейда",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 59768,
-    "avg_salary": 59768.0,
-    "max_salary": 59768
-  },
-  {
-    "_id": {
-      "city": "София",
-      "job": "Медсестра"
-    },
-    "min_salary": 171657,
-    "avg_salary": 171657.0,
-    "max_salary": 171657
-  },
-  {
-    "_id": {
-      "city": "Сория",
+      "city": "Рига",
       "job": "Психолог"
     },
-    "min_salary": 99211,
-    "avg_salary": 144099.0,
-    "max_salary": 188987
+    "min_salary": 137641,
+    "avg_salary": 137641.0,
+    "max_salary": 137641
   },
   {
     "_id": {
-      "city": "Тбилиси",
+      "city": "Лас-Росас",
+      "job": "Инженер"
+    },
+    "min_salary": 74729,
+    "avg_salary": 74729.0,
+    "max_salary": 74729
+  },
+  {
+    "_id": {
+      "city": "Виго",
       "job": "IT-специалист"
     },
-    "min_salary": 59593,
-    "avg_salary": 59593.0,
-    "max_salary": 59593
+    "min_salary": 163044,
+    "avg_salary": 163044.0,
+    "max_salary": 163044
+  },
+  {
+    "_id": {
+      "city": "Мурсия",
+      "job": "Косметолог"
+    },
+    "min_salary": 125688,
+    "avg_salary": 125688.0,
+    "max_salary": 125688
+  },
+  {
+    "_id": {
+      "city": "Рига",
+      "job": "Строитель"
+    },
+    "min_salary": 196114,
+    "avg_salary": 196114.0,
+    "max_salary": 196114
+  },
+  {
+    "_id": {
+      "city": "Вильявисиоса",
+      "job": "Инженер"
+    },
+    "min_salary": 139264,
+    "avg_salary": 141223.0,
+    "max_salary": 143182
+  },
+  {
+    "_id": {
+      "city": "Афины",
+      "job": "IT-специалист"
+    },
+    "min_salary": 101586,
+    "avg_salary": 101586.0,
+    "max_salary": 101586
   },
   {
     "_id": {
       "city": "Куэнка",
-      "job": "Косметолог"
+      "job": "Бухгалтер"
     },
-    "min_salary": 126163,
-    "avg_salary": 126163.0,
-    "max_salary": 126163
+    "min_salary": 74034,
+    "avg_salary": 74034.0,
+    "max_salary": 74034
+  },
+  {
+    "_id": {
+      "city": "Вильнюс",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 92931,
+    "avg_salary": 92931.0,
+    "max_salary": 92931
+  },
+  {
+    "_id": {
+      "city": "Кишинев",
+      "job": "Медсестра"
+    },
+    "min_salary": 147234,
+    "avg_salary": 147234.0,
+    "max_salary": 147234
+  },
+  {
+    "_id": {
+      "city": "Баку",
+      "job": "Повар"
+    },
+    "min_salary": 150090,
+    "avg_salary": 150090.0,
+    "max_salary": 150090
   },
   {
     "_id": {
       "city": "Артейхо",
-      "job": "Повар"
-    },
-    "min_salary": 117512,
-    "avg_salary": 117512.0,
-    "max_salary": 117512
-  },
-  {
-    "_id": {
-      "city": "Москва",
-      "job": "Повар"
-    },
-    "min_salary": 156772,
-    "avg_salary": 156772.0,
-    "max_salary": 156772
-  },
-  {
-    "_id": {
-      "city": "Санхенхо",
-      "job": "Программист"
-    },
-    "min_salary": 57831,
-    "avg_salary": 88660.5,
-    "max_salary": 119490
-  },
-  {
-    "_id": {
-      "city": "Бланес",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 93252,
-    "avg_salary": 100002.5,
-    "max_salary": 106753
-  },
-  {
-    "_id": {
-      "city": "Алькала-де-Энарес",
       "job": "Медсестра"
     },
-    "min_salary": 141329,
-    "avg_salary": 141329.0,
-    "max_salary": 141329
+    "min_salary": 165008,
+    "avg_salary": 165008.0,
+    "max_salary": 165008
   },
   {
     "_id": {
-      "city": "Барселона",
-      "job": "Учитель"
-    },
-    "min_salary": 172475,
-    "avg_salary": 172475.0,
-    "max_salary": 172475
-  },
-  {
-    "_id": {
-      "city": "Тудела",
-      "job": "IT-специалист"
-    },
-    "min_salary": 144773,
-    "avg_salary": 144773.0,
-    "max_salary": 144773
-  },
-  {
-    "_id": {
-      "city": "Луарка",
-      "job": "Учитель"
-    },
-    "min_salary": 198315,
-    "avg_salary": 198315.0,
-    "max_salary": 198315
-  },
-  {
-    "_id": {
-      "city": "Осера",
+      "city": "Пласенсия",
       "job": "Продавец"
     },
-    "min_salary": 186137,
-    "avg_salary": 187750.5,
-    "max_salary": 189364
+    "min_salary": 51626,
+    "avg_salary": 51626.0,
+    "max_salary": 51626
+  },
+  {
+    "_id": {
+      "city": "Аликанте",
+      "job": "Психолог"
+    },
+    "min_salary": 175828,
+    "avg_salary": 175828.0,
+    "max_salary": 175828
+  },
+  {
+    "_id": {
+      "city": "Краков",
+      "job": "Водитель"
+    },
+    "min_salary": 154896,
+    "avg_salary": 154896.0,
+    "max_salary": 154896
+  },
+  {
+    "_id": {
+      "city": "Хихон",
+      "job": "Менеджер"
+    },
+    "min_salary": 60318,
+    "avg_salary": 60318.0,
+    "max_salary": 60318
+  },
+  {
+    "_id": {
+      "city": "Гранада",
+      "job": "Инженер"
+    },
+    "min_salary": 65113,
+    "avg_salary": 65113.0,
+    "max_salary": 65113
+  },
+  {
+    "_id": {
+      "city": "Ереван",
+      "job": "Инженер"
+    },
+    "min_salary": 142283,
+    "avg_salary": 142283.0,
+    "max_salary": 142283
+  },
+  {
+    "_id": {
+      "city": "Ла-Корунья",
+      "job": "Психолог"
+    },
+    "min_salary": 177495,
+    "avg_salary": 177495.0,
+    "max_salary": 177495
+  },
+  {
+    "_id": {
+      "city": "Вальядолид",
+      "job": "Архитектор"
+    },
+    "min_salary": 162832,
+    "avg_salary": 162832.0,
+    "max_salary": 162832
+  },
+  {
+    "_id": {
+      "city": "Мартоса",
+      "job": "Врач"
+    },
+    "min_salary": 55645,
+    "avg_salary": 107471.5,
+    "max_salary": 159298
+  },
+  {
+    "_id": {
+      "city": "Мадрид",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 120927,
+    "avg_salary": 120927.0,
+    "max_salary": 120927
+  },
+  {
+    "_id": {
+      "city": "Монсон",
+      "job": "IT-специалист"
+    },
+    "min_salary": 178507,
+    "avg_salary": 178507.0,
+    "max_salary": 178507
   },
   {
     "_id": {
       "city": "Семана",
+      "job": "Программист"
+    },
+    "min_salary": 53161,
+    "avg_salary": 53161.0,
+    "max_salary": 53161
+  },
+  {
+    "_id": {
+      "city": "Сан-Себастьян",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 63467,
+    "avg_salary": 63467.0,
+    "max_salary": 63467
+  },
+  {
+    "_id": {
+      "city": "Авилес",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 146220,
+    "avg_salary": 146220.0,
+    "max_salary": 146220
+  },
+  {
+    "_id": {
+      "city": "Алькала-де-Энарес",
+      "job": "Врач"
+    },
+    "min_salary": 120272,
+    "avg_salary": 151559.0,
+    "max_salary": 182846
+  },
+  {
+    "_id": {
+      "city": "Подгорица",
+      "job": "Врач"
+    },
+    "min_salary": 193862,
+    "avg_salary": 193862.0,
+    "max_salary": 193862
+  },
+  {
+    "_id": {
+      "city": "Касерес",
+      "job": "Инженер"
+    },
+    "min_salary": 79102,
+    "avg_salary": 79102.0,
+    "max_salary": 79102
+  },
+  {
+    "_id": {
+      "city": "Кишинев",
+      "job": "Водитель"
+    },
+    "min_salary": 163864,
+    "avg_salary": 163864.0,
+    "max_salary": 163864
+  },
+  {
+    "_id": {
+      "city": "Кордова",
       "job": "Архитектор"
     },
-    "min_salary": 88048,
-    "avg_salary": 125471.66666666667,
-    "max_salary": 169875
-  },
-  {
-    "_id": {
-      "city": "Мерида",
-      "job": "Повар"
-    },
-    "min_salary": 83212,
-    "avg_salary": 83212.0,
-    "max_salary": 83212
-  },
-  {
-    "_id": {
-      "city": "Минск",
-      "job": "Косметолог"
-    },
-    "min_salary": 143752,
-    "avg_salary": 143752.0,
-    "max_salary": 143752
+    "min_salary": 198347,
+    "avg_salary": 198347.0,
+    "max_salary": 198347
   },
   {
     "_id": {
       "city": "Санкт-Петербург",
-      "job": "Водитель"
-    },
-    "min_salary": 143799,
-    "avg_salary": 143799.0,
-    "max_salary": 143799
-  },
-  {
-    "_id": {
-      "city": "Эль-Пуэрто-де-Санта-Мария",
-      "job": "Строитель"
-    },
-    "min_salary": 105641,
-    "avg_salary": 105641.0,
-    "max_salary": 105641
-  },
-  {
-    "_id": {
-      "city": "Севилья",
-      "job": "Строитель"
-    },
-    "min_salary": 73201,
-    "avg_salary": 73201.0,
-    "max_salary": 73201
-  },
-  {
-    "_id": {
-      "city": "Будапешт",
       "job": "Продавец"
     },
-    "min_salary": 70421,
-    "avg_salary": 70421.0,
-    "max_salary": 70421
+    "min_salary": 136517,
+    "avg_salary": 136517.0,
+    "max_salary": 136517
   },
   {
     "_id": {
-      "city": "Малага",
+      "city": "Сараево",
+      "job": "Косметолог"
+    },
+    "min_salary": 111186,
+    "avg_salary": 111186.0,
+    "max_salary": 111186
+  },
+  {
+    "_id": {
+      "city": "Санхенхо",
       "job": "IT-специалист"
     },
-    "min_salary": 194842,
-    "avg_salary": 194842.0,
-    "max_salary": 194842
+    "min_salary": 193227,
+    "avg_salary": 193227.0,
+    "max_salary": 193227
+  },
+  {
+    "_id": {
+      "city": "Кадакес",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 68287,
+    "avg_salary": 68287.0,
+    "max_salary": 68287
+  },
+  {
+    "_id": {
+      "city": "Куэнка",
+      "job": "Медсестра"
+    },
+    "min_salary": 110627,
+    "avg_salary": 110627.0,
+    "max_salary": 110627
+  },
+  {
+    "_id": {
+      "city": "Льейда",
+      "job": "Строитель"
+    },
+    "min_salary": 71497,
+    "avg_salary": 71497.0,
+    "max_salary": 71497
+  },
+  {
+    "_id": {
+      "city": "Прага",
+      "job": "Продавец"
+    },
+    "min_salary": 77739,
+    "avg_salary": 106437.5,
+    "max_salary": 135136
+  },
+  {
+    "_id": {
+      "city": "Сеговия",
+      "job": "Менеджер"
+    },
+    "min_salary": 75533,
+    "avg_salary": 75533.0,
+    "max_salary": 75533
+  },
+  {
+    "_id": {
+      "city": "Таллин",
+      "job": "Инженер"
+    },
+    "min_salary": 62942,
+    "avg_salary": 126587.66666666667,
+    "max_salary": 159789
+  },
+  {
+    "_id": {
+      "city": "Касерес",
+      "job": "Повар"
+    },
+    "min_salary": 86272,
+    "avg_salary": 86272.0,
+    "max_salary": 86272
+  },
+  {
+    "_id": {
+      "city": "Монсон",
+      "job": "Инженер"
+    },
+    "min_salary": 85445,
+    "avg_salary": 85445.0,
+    "max_salary": 85445
+  },
+  {
+    "_id": {
+      "city": "Алькала-де-Энарес",
+      "job": "Строитель"
+    },
+    "min_salary": 50291,
+    "avg_salary": 50291.0,
+    "max_salary": 50291
+  },
+  {
+    "_id": {
+      "city": "Бланес",
+      "job": "Продавец"
+    },
+    "min_salary": 116515,
+    "avg_salary": 119968.5,
+    "max_salary": 123422
+  },
+  {
+    "_id": {
+      "city": "Кордова",
+      "job": "IT-специалист"
+    },
+    "min_salary": 135886,
+    "avg_salary": 162872.5,
+    "max_salary": 189859
+  },
+  {
+    "_id": {
+      "city": "Мурсия",
+      "job": "Архитектор"
+    },
+    "min_salary": 53521,
+    "avg_salary": 116216.5,
+    "max_salary": 178912
+  },
+  {
+    "_id": {
+      "city": "Хихон",
+      "job": "Медсестра"
+    },
+    "min_salary": 110102,
+    "avg_salary": 110102.0,
+    "max_salary": 110102
+  },
+  {
+    "_id": {
+      "city": "Кордова",
+      "job": "Медсестра"
+    },
+    "min_salary": 195446,
+    "avg_salary": 195446.0,
+    "max_salary": 195446
+  },
+  {
+    "_id": {
+      "city": "Хельсинки",
+      "job": "Архитектор"
+    },
+    "min_salary": 118273,
+    "avg_salary": 118273.0,
+    "max_salary": 118273
+  },
+  {
+    "_id": {
+      "city": "Аликанте",
+      "job": "Повар"
+    },
+    "min_salary": 122988,
+    "avg_salary": 122988.0,
+    "max_salary": 122988
+  },
+  {
+    "_id": {
+      "city": "Астана",
+      "job": "Менеджер"
+    },
+    "min_salary": 155257,
+    "avg_salary": 155257.0,
+    "max_salary": 155257
+  },
+  {
+    "_id": {
+      "city": "Самора",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 177859,
+    "avg_salary": 177859.0,
+    "max_salary": 177859
+  },
+  {
+    "_id": {
+      "city": "Душанбе",
+      "job": "Инженер"
+    },
+    "min_salary": 92125,
+    "avg_salary": 92125.0,
+    "max_salary": 92125
+  },
+  {
+    "_id": {
+      "city": "Лас-Росас",
+      "job": "Строитель"
+    },
+    "min_salary": 58200,
+    "avg_salary": 58200.0,
+    "max_salary": 58200
+  },
+  {
+    "_id": {
+      "city": "Сеговия",
+      "job": "Продавец"
+    },
+    "min_salary": 170170,
+    "avg_salary": 170170.0,
+    "max_salary": 170170
+  },
+  {
+    "_id": {
+      "city": "Баку",
+      "job": "Строитель"
+    },
+    "min_salary": 86025,
+    "avg_salary": 130948.5,
+    "max_salary": 175872
+  },
+  {
+    "_id": {
+      "city": "Махадаонда",
+      "job": "Инженер"
+    },
+    "min_salary": 71931,
+    "avg_salary": 71931.0,
+    "max_salary": 71931
+  },
+  {
+    "_id": {
+      "city": "Вроцлав",
+      "job": "Архитектор"
+    },
+    "min_salary": 64256,
+    "avg_salary": 71679.5,
+    "max_salary": 79103
+  },
+  {
+    "_id": {
+      "city": "Тарраса",
+      "job": "Менеджер"
+    },
+    "min_salary": 146738,
+    "avg_salary": 146738.0,
+    "max_salary": 146738
+  },
+  {
+    "_id": {
+      "city": "Тбилиси",
+      "job": "Повар"
+    },
+    "min_salary": 104046,
+    "avg_salary": 104046.0,
+    "max_salary": 104046
+  },
+  {
+    "_id": {
+      "city": "Луго",
+      "job": "IT-специалист"
+    },
+    "min_salary": 138500,
+    "avg_salary": 138500.0,
+    "max_salary": 138500
+  },
+  {
+    "_id": {
+      "city": "Таллин",
+      "job": "Повар"
+    },
+    "min_salary": 99808,
+    "avg_salary": 99808.0,
+    "max_salary": 99808
+  },
+  {
+    "_id": {
+      "city": "Москва",
+      "job": "Учитель"
+    },
+    "min_salary": 147464,
+    "avg_salary": 159543.0,
+    "max_salary": 171622
+  },
+  {
+    "_id": {
+      "city": "Эльче",
+      "job": "Продавец"
+    },
+    "min_salary": 135742,
+    "avg_salary": 135742.0,
+    "max_salary": 135742
+  },
+  {
+    "_id": {
+      "city": "Алькала-де-Энарес",
+      "job": "Психолог"
+    },
+    "min_salary": 160301,
+    "avg_salary": 160301.0,
+    "max_salary": 160301
   },
   {
     "_id": {
       "city": "Артейхо",
+      "job": "Учитель"
+    },
+    "min_salary": 171474,
+    "avg_salary": 171474.0,
+    "max_salary": 171474
+  },
+  {
+    "_id": {
+      "city": "Навалькарнеро",
+      "job": "Косметолог"
+    },
+    "min_salary": 193340,
+    "avg_salary": 193340.0,
+    "max_salary": 193340
+  },
+  {
+    "_id": {
+      "city": "Бланес",
+      "job": "Учитель"
+    },
+    "min_salary": 70581,
+    "avg_salary": 70581.0,
+    "max_salary": 70581
+  },
+  {
+    "_id": {
+      "city": "Сан-Себастьян",
+      "job": "Инженер"
+    },
+    "min_salary": 70557,
+    "avg_salary": 70557.0,
+    "max_salary": 70557
+  },
+  {
+    "_id": {
+      "city": "София",
+      "job": "Учитель"
+    },
+    "min_salary": 177648,
+    "avg_salary": 177648.0,
+    "max_salary": 177648
+  },
+  {
+    "_id": {
+      "city": "Кадакес",
+      "job": "Психолог"
+    },
+    "min_salary": 152572,
+    "avg_salary": 152572.0,
+    "max_salary": 152572
+  },
+  {
+    "_id": {
+      "city": "Махадаонда",
+      "job": "Программист"
+    },
+    "min_salary": 86840,
+    "avg_salary": 86840.0,
+    "max_salary": 86840
+  },
+  {
+    "_id": {
+      "city": "Баку",
+      "job": "Врач"
+    },
+    "min_salary": 97548,
+    "avg_salary": 139120.0,
+    "max_salary": 180692
+  },
+  {
+    "_id": {
+      "city": "Баку",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 57428,
+    "avg_salary": 57428.0,
+    "max_salary": 57428
+  },
+  {
+    "_id": {
+      "city": "Санкт-Петербург",
+      "job": "Строитель"
+    },
+    "min_salary": 69550,
+    "avg_salary": 69550.0,
+    "max_salary": 69550
+  },
+  {
+    "_id": {
+      "city": "Вальядолид",
+      "job": "Программист"
+    },
+    "min_salary": 87284,
+    "avg_salary": 87284.0,
+    "max_salary": 87284
+  },
+  {
+    "_id": {
+      "city": "Подгорица",
+      "job": "Программист"
+    },
+    "min_salary": 87975,
+    "avg_salary": 87975.0,
+    "max_salary": 87975
+  },
+  {
+    "_id": {
+      "city": "Севилья",
+      "job": "Продавец"
+    },
+    "min_salary": 136544,
+    "avg_salary": 136544.0,
+    "max_salary": 136544
+  },
+  {
+    "_id": {
+      "city": "Тарраса",
       "job": "Оператор call-центра"
     },
-    "min_salary": 131198,
-    "avg_salary": 131198.0,
-    "max_salary": 131198
+    "min_salary": 71462,
+    "avg_salary": 71462.0,
+    "max_salary": 71462
+  },
+  {
+    "_id": {
+      "city": "Барселона",
+      "job": "Продавец"
+    },
+    "min_salary": 72592,
+    "avg_salary": 72592.0,
+    "max_salary": 72592
+  },
+  {
+    "_id": {
+      "city": "Мартоса",
+      "job": "Программист"
+    },
+    "min_salary": 87911,
+    "avg_salary": 87911.0,
+    "max_salary": 87911
+  },
+  {
+    "_id": {
+      "city": "Таллин",
+      "job": "Косметолог"
+    },
+    "min_salary": 102178,
+    "avg_salary": 102178.0,
+    "max_salary": 102178
+  },
+  {
+    "_id": {
+      "city": "Трухильо",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 157094,
+    "avg_salary": 157094.0,
+    "max_salary": 157094
+  },
+  {
+    "_id": {
+      "city": "Прага",
+      "job": "IT-специалист"
+    },
+    "min_salary": 109621,
+    "avg_salary": 109621.0,
+    "max_salary": 109621
+  },
+  {
+    "_id": {
+      "city": "Алма-Ата",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 161782,
+    "avg_salary": 161782.0,
+    "max_salary": 161782
   },
   {
     "_id": {
@@ -1729,12 +2881,30 @@
   },
   {
     "_id": {
-      "city": "Прага",
+      "city": "Будапешт",
+      "job": "Продавец"
+    },
+    "min_salary": 70421,
+    "avg_salary": 70421.0,
+    "max_salary": 70421
+  },
+  {
+    "_id": {
+      "city": "Малага",
       "job": "IT-специалист"
     },
-    "min_salary": 109621,
-    "avg_salary": 109621.0,
-    "max_salary": 109621
+    "min_salary": 194842,
+    "avg_salary": 194842.0,
+    "max_salary": 194842
+  },
+  {
+    "_id": {
+      "city": "Артейхо",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 131198,
+    "avg_salary": 131198.0,
+    "max_salary": 131198
   },
   {
     "_id": {
@@ -1756,12 +2926,12 @@
   },
   {
     "_id": {
-      "city": "Алма-Ата",
-      "job": "Оператор call-центра"
+      "city": "Севилья",
+      "job": "Строитель"
     },
-    "min_salary": 161782,
-    "avg_salary": 161782.0,
-    "max_salary": 161782
+    "min_salary": 73201,
+    "avg_salary": 73201.0,
+    "max_salary": 73201
   },
   {
     "_id": {
@@ -1774,1883 +2944,713 @@
   },
   {
     "_id": {
-      "city": "Таллин",
-      "job": "Косметолог"
-    },
-    "min_salary": 102178,
-    "avg_salary": 102178.0,
-    "max_salary": 102178
-  },
-  {
-    "_id": {
-      "city": "Трухильо",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 157094,
-    "avg_salary": 157094.0,
-    "max_salary": 157094
-  },
-  {
-    "_id": {
-      "city": "Тарраса",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 71462,
-    "avg_salary": 71462.0,
-    "max_salary": 71462
-  },
-  {
-    "_id": {
-      "city": "Барселона",
+      "city": "Осера",
       "job": "Продавец"
     },
-    "min_salary": 72592,
-    "avg_salary": 72592.0,
-    "max_salary": 72592
+    "min_salary": 186137,
+    "avg_salary": 187750.5,
+    "max_salary": 189364
   },
   {
     "_id": {
-      "city": "Мартоса",
-      "job": "Программист"
+      "city": "Семана",
+      "job": "Архитектор"
     },
-    "min_salary": 87911,
-    "avg_salary": 87911.0,
-    "max_salary": 87911
+    "min_salary": 88048,
+    "avg_salary": 125471.66666666667,
+    "max_salary": 169875
   },
   {
     "_id": {
-      "city": "Санхенхо",
-      "job": "Инженер"
-    },
-    "min_salary": 132576,
-    "avg_salary": 132576.0,
-    "max_salary": 132576
-  },
-  {
-    "_id": {
-      "city": "Хельсинки",
-      "job": "Инженер"
-    },
-    "min_salary": 50974,
-    "avg_salary": 95229.0,
-    "max_salary": 139484
-  },
-  {
-    "_id": {
-      "city": "Куэнка",
-      "job": "IT-специалист"
-    },
-    "min_salary": 107894,
-    "avg_salary": 134678.0,
-    "max_salary": 161462
-  },
-  {
-    "_id": {
-      "city": "Краков",
-      "job": "Программист"
-    },
-    "min_salary": 107324,
-    "avg_salary": 107324.0,
-    "max_salary": 107324
-  },
-  {
-    "_id": {
-      "city": "Валенсия",
-      "job": "IT-специалист"
-    },
-    "min_salary": 108939,
-    "avg_salary": 108939.0,
-    "max_salary": 108939
-  },
-  {
-    "_id": {
-      "city": "Лас-Росас",
-      "job": "IT-специалист"
-    },
-    "min_salary": 66661,
-    "avg_salary": 96187.0,
-    "max_salary": 125713
-  },
-  {
-    "_id": {
-      "city": "Самора",
-      "job": "Психолог"
-    },
-    "min_salary": 106160,
-    "avg_salary": 106160.0,
-    "max_salary": 106160
-  },
-  {
-    "_id": {
-      "city": "Санхенхо",
-      "job": "Врач"
-    },
-    "min_salary": 109862,
-    "avg_salary": 109862.0,
-    "max_salary": 109862
-  },
-  {
-    "_id": {
-      "city": "Ла-Корунья",
-      "job": "Программист"
-    },
-    "min_salary": 69472,
-    "avg_salary": 69472.0,
-    "max_salary": 69472
-  },
-  {
-    "_id": {
-      "city": "Осера",
-      "job": "Врач"
-    },
-    "min_salary": 73052,
-    "avg_salary": 95943.5,
-    "max_salary": 118835
-  },
-  {
-    "_id": {
-      "city": "Ташкент",
-      "job": "Повар"
-    },
-    "min_salary": 186053,
-    "avg_salary": 186053.0,
-    "max_salary": 186053
-  },
-  {
-    "_id": {
-      "city": "Тарраса",
+      "city": "Минск",
       "job": "Косметолог"
     },
-    "min_salary": 193041,
-    "avg_salary": 193041.0,
-    "max_salary": 193041
-  },
-  {
-    "_id": {
-      "city": "Санхенхо",
-      "job": "Строитель"
-    },
-    "min_salary": 64953,
-    "avg_salary": 64953.0,
-    "max_salary": 64953
-  },
-  {
-    "_id": {
-      "city": "Пласенсия",
-      "job": "Инженер"
-    },
-    "min_salary": 78953,
-    "avg_salary": 116003.0,
-    "max_salary": 153053
-  },
-  {
-    "_id": {
-      "city": "Осера",
-      "job": "Учитель"
-    },
-    "min_salary": 51418,
-    "avg_salary": 51418.0,
-    "max_salary": 51418
-  },
-  {
-    "_id": {
-      "city": "Трухильо",
-      "job": "Менеджер"
-    },
-    "min_salary": 50007,
-    "avg_salary": 50007.0,
-    "max_salary": 50007
-  },
-  {
-    "_id": {
-      "city": "Касерес",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 79308,
-    "avg_salary": 79308.0,
-    "max_salary": 79308
-  },
-  {
-    "_id": {
-      "city": "Тарраса",
-      "job": "Инженер"
-    },
-    "min_salary": 99839,
-    "avg_salary": 99839.0,
-    "max_salary": 99839
-  },
-  {
-    "_id": {
-      "city": "Авилес",
-      "job": "Повар"
-    },
-    "min_salary": 70520,
-    "avg_salary": 70520.0,
-    "max_salary": 70520
-  },
-  {
-    "_id": {
-      "city": "Скопье",
-      "job": "Строитель"
-    },
-    "min_salary": 120215,
-    "avg_salary": 120215.0,
-    "max_salary": 120215
-  },
-  {
-    "_id": {
-      "city": "Луарка",
-      "job": "Медсестра"
-    },
-    "min_salary": 131878,
-    "avg_salary": 131878.0,
-    "max_salary": 131878
+    "min_salary": 143752,
+    "avg_salary": 143752.0,
+    "max_salary": 143752
   },
   {
     "_id": {
       "city": "Тудела",
-      "job": "Программист"
+      "job": "IT-специалист"
     },
-    "min_salary": 134872,
-    "avg_salary": 134872.0,
-    "max_salary": 134872
+    "min_salary": 144773,
+    "avg_salary": 144773.0,
+    "max_salary": 144773
   },
   {
     "_id": {
-      "city": "Луго",
-      "job": "Программист"
-    },
-    "min_salary": 175128,
-    "avg_salary": 175128.0,
-    "max_salary": 175128
-  },
-  {
-    "_id": {
-      "city": "Виго",
-      "job": "Медсестра"
-    },
-    "min_salary": 95340,
-    "avg_salary": 95340.0,
-    "max_salary": 95340
-  },
-  {
-    "_id": {
-      "city": "Махадаонда",
-      "job": "Врач"
-    },
-    "min_salary": 65467,
-    "avg_salary": 65467.0,
-    "max_salary": 65467
-  },
-  {
-    "_id": {
-      "city": "Осера",
-      "job": "Строитель"
-    },
-    "min_salary": 112877,
-    "avg_salary": 142656.33333333334,
-    "max_salary": 185689
-  },
-  {
-    "_id": {
-      "city": "Сараево",
-      "job": "Строитель"
-    },
-    "min_salary": 155425,
-    "avg_salary": 155425.0,
-    "max_salary": 155425
-  },
-  {
-    "_id": {
-      "city": "Севилья",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 69806,
-    "avg_salary": 91382.0,
-    "max_salary": 112958
-  },
-  {
-    "_id": {
-      "city": "Мурсия",
-      "job": "Строитель"
-    },
-    "min_salary": 75971,
-    "avg_salary": 75971.0,
-    "max_salary": 75971
-  },
-  {
-    "_id": {
-      "city": "Валенсия",
-      "job": "Программист"
-    },
-    "min_salary": 92071,
-    "avg_salary": 92071.0,
-    "max_salary": 92071
-  },
-  {
-    "_id": {
-      "city": "Овьедо",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 144224,
-    "avg_salary": 169270.5,
-    "max_salary": 194317
-  },
-  {
-    "_id": {
-      "city": "Душанбе",
-      "job": "Водитель"
-    },
-    "min_salary": 103951,
-    "avg_salary": 147881.0,
-    "max_salary": 191811
-  },
-  {
-    "_id": {
-      "city": "Афины",
-      "job": "Менеджер"
-    },
-    "min_salary": 128747,
-    "avg_salary": 151628.0,
-    "max_salary": 168617
-  },
-  {
-    "_id": {
-      "city": "Камбадос",
-      "job": "Медсестра"
-    },
-    "min_salary": 153152,
-    "avg_salary": 153152.0,
-    "max_salary": 153152
-  },
-  {
-    "_id": {
-      "city": "Вальядолид",
-      "job": "Менеджер"
-    },
-    "min_salary": 167099,
-    "avg_salary": 167099.0,
-    "max_salary": 167099
-  },
-  {
-    "_id": {
-      "city": "Сантьяго-де-Компостела",
-      "job": "Менеджер"
-    },
-    "min_salary": 121276,
-    "avg_salary": 121276.0,
-    "max_salary": 121276
-  },
-  {
-    "_id": {
-      "city": "Прага",
+      "city": "Москва",
       "job": "Повар"
     },
-    "min_salary": 148801,
-    "avg_salary": 148801.0,
-    "max_salary": 148801
-  },
-  {
-    "_id": {
-      "city": "Эль-Пуэрто-де-Санта-Мария",
-      "job": "Водитель"
-    },
-    "min_salary": 81526,
-    "avg_salary": 81526.0,
-    "max_salary": 81526
-  },
-  {
-    "_id": {
-      "city": "Монсон",
-      "job": "Строитель"
-    },
-    "min_salary": 51549,
-    "avg_salary": 51549.0,
-    "max_salary": 51549
-  },
-  {
-    "_id": {
-      "city": "Варшава",
-      "job": "Психолог"
-    },
-    "min_salary": 108415,
-    "avg_salary": 108415.0,
-    "max_salary": 108415
-  },
-  {
-    "_id": {
-      "city": "Камбадос",
-      "job": "Программист"
-    },
-    "min_salary": 89087,
-    "avg_salary": 89087.0,
-    "max_salary": 89087
-  },
-  {
-    "_id": {
-      "city": "Малага",
-      "job": "Продавец"
-    },
-    "min_salary": 121798,
-    "avg_salary": 121798.0,
-    "max_salary": 121798
-  },
-  {
-    "_id": {
-      "city": "Бишкек",
-      "job": "Учитель"
-    },
-    "min_salary": 111589,
-    "avg_salary": 111589.0,
-    "max_salary": 111589
-  },
-  {
-    "_id": {
-      "city": "Сьюдад-Реаль",
-      "job": "Психолог"
-    },
-    "min_salary": 64031,
-    "avg_salary": 64031.0,
-    "max_salary": 64031
-  },
-  {
-    "_id": {
-      "city": "Кишинев",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 136390,
-    "avg_salary": 136390.0,
-    "max_salary": 136390
-  },
-  {
-    "_id": {
-      "city": "Овьедо",
-      "job": "Учитель"
-    },
-    "min_salary": 84056,
-    "avg_salary": 141921.0,
-    "max_salary": 199786
-  },
-  {
-    "_id": {
-      "city": "Бильбао",
-      "job": "Повар"
-    },
-    "min_salary": 114051,
-    "avg_salary": 114051.0,
-    "max_salary": 114051
-  },
-  {
-    "_id": {
-      "city": "Монсон",
-      "job": "Врач"
-    },
-    "min_salary": 80633,
-    "avg_salary": 80633.0,
-    "max_salary": 80633
-  },
-  {
-    "_id": {
-      "city": "Ереван",
-      "job": "Врач"
-    },
-    "min_salary": 93455,
-    "avg_salary": 93455.0,
-    "max_salary": 93455
-  },
-  {
-    "_id": {
-      "city": "Загреб",
-      "job": "Водитель"
-    },
-    "min_salary": 139353,
-    "avg_salary": 139353.0,
-    "max_salary": 139353
-  },
-  {
-    "_id": {
-      "city": "Гранада",
-      "job": "Менеджер"
-    },
-    "min_salary": 118724,
-    "avg_salary": 118724.0,
-    "max_salary": 118724
-  },
-  {
-    "_id": {
-      "city": "Осера",
-      "job": "Водитель"
-    },
-    "min_salary": 104050,
-    "avg_salary": 104050.0,
-    "max_salary": 104050
-  },
-  {
-    "_id": {
-      "city": "Овьедо",
-      "job": "Водитель"
-    },
-    "min_salary": 72377,
-    "avg_salary": 72377.0,
-    "max_salary": 72377
-  },
-  {
-    "_id": {
-      "city": "Санкт-Петербург",
-      "job": "Косметолог"
-    },
-    "min_salary": 171541,
-    "avg_salary": 171541.0,
-    "max_salary": 171541
-  },
-  {
-    "_id": {
-      "city": "Сория",
-      "job": "Врач"
-    },
-    "min_salary": 115469,
-    "avg_salary": 143233.0,
-    "max_salary": 170997
+    "min_salary": 156772,
+    "avg_salary": 156772.0,
+    "max_salary": 156772
   },
   {
     "_id": {
       "city": "Санхенхо",
-      "job": "Психолог"
-    },
-    "min_salary": 92900,
-    "avg_salary": 119491.5,
-    "max_salary": 146083
-  },
-  {
-    "_id": {
-      "city": "Загреб",
       "job": "Программист"
     },
-    "min_salary": 157513,
-    "avg_salary": 157513.0,
-    "max_salary": 157513
-  },
-  {
-    "_id": {
-      "city": "Белград",
-      "job": "Продавец"
-    },
-    "min_salary": 124910,
-    "avg_salary": 124910.0,
-    "max_salary": 124910
-  },
-  {
-    "_id": {
-      "city": "Астана",
-      "job": "Медсестра"
-    },
-    "min_salary": 117845,
-    "avg_salary": 117845.0,
-    "max_salary": 117845
-  },
-  {
-    "_id": {
-      "city": "Барселона",
-      "job": "Инженер"
-    },
-    "min_salary": 55019,
-    "avg_salary": 55019.0,
-    "max_salary": 55019
-  },
-  {
-    "_id": {
-      "city": "Загреб",
-      "job": "Медсестра"
-    },
-    "min_salary": 76378,
-    "avg_salary": 133783.5,
-    "max_salary": 191189
-  },
-  {
-    "_id": {
-      "city": "Любляна",
-      "job": "Медсестра"
-    },
-    "min_salary": 151886,
-    "avg_salary": 151886.0,
-    "max_salary": 151886
-  },
-  {
-    "_id": {
-      "city": "Самора",
-      "job": "Строитель"
-    },
-    "min_salary": 177473,
-    "avg_salary": 177473.0,
-    "max_salary": 177473
-  },
-  {
-    "_id": {
-      "city": "Сараево",
-      "job": "Водитель"
-    },
-    "min_salary": 141891,
-    "avg_salary": 152658.5,
-    "max_salary": 163426
-  },
-  {
-    "_id": {
-      "city": "Самора",
-      "job": "Менеджер"
-    },
-    "min_salary": 62491,
-    "avg_salary": 62491.0,
-    "max_salary": 62491
-  },
-  {
-    "_id": {
-      "city": "Ташкент",
-      "job": "Врач"
-    },
-    "min_salary": 143075,
-    "avg_salary": 143075.0,
-    "max_salary": 143075
-  },
-  {
-    "_id": {
-      "city": "Алма-Ата",
-      "job": "Продавец"
-    },
-    "min_salary": 108626,
-    "avg_salary": 108626.0,
-    "max_salary": 108626
-  },
-  {
-    "_id": {
-      "city": "Эль-Пуэрто-де-Санта-Мария",
-      "job": "Инженер"
-    },
-    "min_salary": 124544,
-    "avg_salary": 124544.0,
-    "max_salary": 124544
-  },
-  {
-    "_id": {
-      "city": "Касерес",
-      "job": "Врач"
-    },
-    "min_salary": 54327,
-    "avg_salary": 54327.0,
-    "max_salary": 54327
-  },
-  {
-    "_id": {
-      "city": "Куэнка",
-      "job": "Продавец"
-    },
-    "min_salary": 89696,
-    "avg_salary": 89696.0,
-    "max_salary": 89696
-  },
-  {
-    "_id": {
-      "city": "Вальядолид",
-      "job": "Психолог"
-    },
-    "min_salary": 84004,
-    "avg_salary": 84004.0,
-    "max_salary": 84004
-  },
-  {
-    "_id": {
-      "city": "Варшава",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 118010,
-    "avg_salary": 118167.5,
-    "max_salary": 118325
-  },
-  {
-    "_id": {
-      "city": "Вильнюс",
-      "job": "Косметолог"
-    },
-    "min_salary": 107922,
-    "avg_salary": 138289.33333333334,
-    "max_salary": 198381
-  },
-  {
-    "_id": {
-      "city": "Краков",
-      "job": "Архитектор"
-    },
-    "min_salary": 115866,
-    "avg_salary": 115866.0,
-    "max_salary": 115866
-  },
-  {
-    "_id": {
-      "city": "Луго",
-      "job": "Врач"
-    },
-    "min_salary": 103910,
-    "avg_salary": 103910.0,
-    "max_salary": 103910
-  },
-  {
-    "_id": {
-      "city": "Кишинев",
-      "job": "IT-специалист"
-    },
-    "min_salary": 99100,
-    "avg_salary": 99100.0,
-    "max_salary": 99100
-  },
-  {
-    "_id": {
-      "city": "Краков",
-      "job": "Косметолог"
-    },
-    "min_salary": 88035,
-    "avg_salary": 88035.0,
-    "max_salary": 88035
+    "min_salary": 57831,
+    "avg_salary": 88660.5,
+    "max_salary": 119490
   },
   {
     "_id": {
       "city": "Алькала-де-Энарес",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 58119,
-    "avg_salary": 58119.0,
-    "max_salary": 58119
-  },
-  {
-    "_id": {
-      "city": "Загреб",
-      "job": "Инженер"
-    },
-    "min_salary": 88265,
-    "avg_salary": 88265.0,
-    "max_salary": 88265
-  },
-  {
-    "_id": {
-      "city": "Хихон",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 74526,
-    "avg_salary": 74526.0,
-    "max_salary": 74526
-  },
-  {
-    "_id": {
-      "city": "Пласенсия",
-      "job": "Программист"
-    },
-    "min_salary": 122083,
-    "avg_salary": 122083.0,
-    "max_salary": 122083
-  },
-  {
-    "_id": {
-      "city": "Вроцлав",
-      "job": "Врач"
-    },
-    "min_salary": 175313,
-    "avg_salary": 175313.0,
-    "max_salary": 175313
-  },
-  {
-    "_id": {
-      "city": "Овьедо",
-      "job": "Повар"
-    },
-    "min_salary": 195685,
-    "avg_salary": 195685.0,
-    "max_salary": 195685
-  },
-  {
-    "_id": {
-      "city": "Самора",
-      "job": "Учитель"
-    },
-    "min_salary": 109868,
-    "avg_salary": 109868.0,
-    "max_salary": 109868
-  },
-  {
-    "_id": {
-      "city": "Мадрид",
-      "job": "Косметолог"
-    },
-    "min_salary": 118156,
-    "avg_salary": 118156.0,
-    "max_salary": 118156
-  },
-  {
-    "_id": {
-      "city": "Кадакес",
-      "job": "Косметолог"
-    },
-    "min_salary": 79665,
-    "avg_salary": 79665.0,
-    "max_salary": 79665
-  },
-  {
-    "_id": {
-      "city": "Хельсинки",
-      "job": "Строитель"
-    },
-    "min_salary": 193083,
-    "avg_salary": 193083.0,
-    "max_salary": 193083
-  },
-  {
-    "_id": {
-      "city": "Будапешт",
-      "job": "Психолог"
-    },
-    "min_salary": 173328,
-    "avg_salary": 173328.0,
-    "max_salary": 173328
-  },
-  {
-    "_id": {
-      "city": "Сан-Себастьян",
-      "job": "Продавец"
-    },
-    "min_salary": 187376,
-    "avg_salary": 187376.0,
-    "max_salary": 187376
-  },
-  {
-    "_id": {
-      "city": "Виго",
-      "job": "Строитель"
-    },
-    "min_salary": 156602,
-    "avg_salary": 176610.0,
-    "max_salary": 196618
-  },
-  {
-    "_id": {
-      "city": "Ташкент",
-      "job": "Водитель"
-    },
-    "min_salary": 118330,
-    "avg_salary": 118847.0,
-    "max_salary": 119364
-  },
-  {
-    "_id": {
-      "city": "Сеговия",
-      "job": "Инженер"
-    },
-    "min_salary": 197630,
-    "avg_salary": 197630.0,
-    "max_salary": 197630
-  },
-  {
-    "_id": {
-      "city": "Санкт-Петербург",
-      "job": "Инженер"
-    },
-    "min_salary": 146990,
-    "avg_salary": 146990.0,
-    "max_salary": 146990
-  },
-  {
-    "_id": {
-      "city": "Фигерас",
-      "job": "Учитель"
-    },
-    "min_salary": 160499,
-    "avg_salary": 160499.0,
-    "max_salary": 160499
-  },
-  {
-    "_id": {
-      "city": "Овьедо",
-      "job": "Врач"
-    },
-    "min_salary": 86077,
-    "avg_salary": 86077.0,
-    "max_salary": 86077
-  },
-  {
-    "_id": {
-      "city": "Сан-Себастьян",
-      "job": "Учитель"
-    },
-    "min_salary": 79891,
-    "avg_salary": 79891.0,
-    "max_salary": 79891
-  },
-  {
-    "_id": {
-      "city": "Вальядолид",
-      "job": "Учитель"
-    },
-    "min_salary": 198008,
-    "avg_salary": 198008.0,
-    "max_salary": 198008
-  },
-  {
-    "_id": {
-      "city": "Овьедо",
-      "job": "Программист"
-    },
-    "min_salary": 71540,
-    "avg_salary": 71540.0,
-    "max_salary": 71540
-  },
-  {
-    "_id": {
-      "city": "Сараево",
-      "job": "Врач"
-    },
-    "min_salary": 141857,
-    "avg_salary": 160285.5,
-    "max_salary": 178714
-  },
-  {
-    "_id": {
-      "city": "Виго",
-      "job": "Психолог"
-    },
-    "min_salary": 181350,
-    "avg_salary": 181350.0,
-    "max_salary": 181350
-  },
-  {
-    "_id": {
-      "city": "Варшава",
-      "job": "Строитель"
-    },
-    "min_salary": 198334,
-    "avg_salary": 198334.0,
-    "max_salary": 198334
-  },
-  {
-    "_id": {
-      "city": "Картахена",
-      "job": "Водитель"
-    },
-    "min_salary": 127709,
-    "avg_salary": 142121.5,
-    "max_salary": 156534
-  },
-  {
-    "_id": {
-      "city": "Эльче",
-      "job": "IT-специалист"
-    },
-    "min_salary": 152590,
-    "avg_salary": 152590.0,
-    "max_salary": 152590
-  },
-  {
-    "_id": {
-      "city": "Минск",
-      "job": "Водитель"
-    },
-    "min_salary": 57072,
-    "avg_salary": 82329.5,
-    "max_salary": 107587
-  },
-  {
-    "_id": {
-      "city": "Алма-Ата",
-      "job": "Менеджер"
-    },
-    "min_salary": 63424,
-    "avg_salary": 63424.0,
-    "max_salary": 63424
-  },
-  {
-    "_id": {
-      "city": "Картахена",
       "job": "Медсестра"
     },
-    "min_salary": 80438,
-    "avg_salary": 80438.0,
-    "max_salary": 80438
+    "min_salary": 141329,
+    "avg_salary": 141329.0,
+    "max_salary": 141329
   },
   {
     "_id": {
-      "city": "Ла-Корунья",
-      "job": "Бухгалтер"
+      "city": "Сория",
+      "job": "Психолог"
     },
-    "min_salary": 153956,
-    "avg_salary": 153956.0,
-    "max_salary": 153956
+    "min_salary": 99211,
+    "avg_salary": 144099.0,
+    "max_salary": 188987
+  },
+  {
+    "_id": {
+      "city": "Тбилиси",
+      "job": "IT-специалист"
+    },
+    "min_salary": 59593,
+    "avg_salary": 59593.0,
+    "max_salary": 59593
+  },
+  {
+    "_id": {
+      "city": "Куэнка",
+      "job": "Косметолог"
+    },
+    "min_salary": 126163,
+    "avg_salary": 126163.0,
+    "max_salary": 126163
   },
   {
     "_id": {
       "city": "Артейхо",
-      "job": "Косметолог"
-    },
-    "min_salary": 186368,
-    "avg_salary": 186368.0,
-    "max_salary": 186368
-  },
-  {
-    "_id": {
-      "city": "Аликанте",
-      "job": "Косметолог"
-    },
-    "min_salary": 142107,
-    "avg_salary": 142107.0,
-    "max_salary": 142107
-  },
-  {
-    "_id": {
-      "city": "Москва",
-      "job": "IT-специалист"
-    },
-    "min_salary": 181303,
-    "avg_salary": 181303.0,
-    "max_salary": 181303
-  },
-  {
-    "_id": {
-      "city": "Астана",
       "job": "Повар"
     },
-    "min_salary": 145087,
-    "avg_salary": 145087.0,
-    "max_salary": 145087
-  },
-  {
-    "_id": {
-      "city": "Барселона",
-      "job": "Строитель"
-    },
-    "min_salary": 160594,
-    "avg_salary": 160594.0,
-    "max_salary": 160594
-  },
-  {
-    "_id": {
-      "city": "Сьюдад-Реаль",
-      "job": "Водитель"
-    },
-    "min_salary": 154146,
-    "avg_salary": 154146.0,
-    "max_salary": 154146
-  },
-  {
-    "_id": {
-      "city": "Сан-Себастьян",
-      "job": "Медсестра"
-    },
-    "min_salary": 121059,
-    "avg_salary": 121059.0,
-    "max_salary": 121059
-  },
-  {
-    "_id": {
-      "city": "Трухильо",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 111062,
-    "avg_salary": 111062.0,
-    "max_salary": 111062
-  },
-  {
-    "_id": {
-      "city": "Кордова",
-      "job": "Учитель"
-    },
-    "min_salary": 168091,
-    "avg_salary": 168091.0,
-    "max_salary": 168091
-  },
-  {
-    "_id": {
-      "city": "Мадрид",
-      "job": "IT-специалист"
-    },
-    "min_salary": 169183,
-    "avg_salary": 169183.0,
-    "max_salary": 169183
-  },
-  {
-    "_id": {
-      "city": "Фигерас",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 81985,
-    "avg_salary": 89907.5,
-    "max_salary": 97830
-  },
-  {
-    "_id": {
-      "city": "Гранада",
-      "job": "Строитель"
-    },
-    "min_salary": 89051,
-    "avg_salary": 114098.5,
-    "max_salary": 139146
-  },
-  {
-    "_id": {
-      "city": "Махадаонда",
-      "job": "Косметолог"
-    },
-    "min_salary": 87989,
-    "avg_salary": 87989.0,
-    "max_salary": 87989
-  },
-  {
-    "_id": {
-      "city": "Мурсия",
-      "job": "Программист"
-    },
-    "min_salary": 69275,
-    "avg_salary": 90063.5,
-    "max_salary": 110852
-  },
-  {
-    "_id": {
-      "city": "Хихон",
-      "job": "Архитектор"
-    },
-    "min_salary": 101490,
-    "avg_salary": 101490.0,
-    "max_salary": 101490
-  },
-  {
-    "_id": {
-      "city": "Малага",
-      "job": "Водитель"
-    },
-    "min_salary": 106721,
-    "avg_salary": 106721.0,
-    "max_salary": 106721
-  },
-  {
-    "_id": {
-      "city": "Вильнюс",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 89626,
-    "avg_salary": 142567.0,
-    "max_salary": 195508
-  },
-  {
-    "_id": {
-      "city": "Афины",
-      "job": "Архитектор"
-    },
-    "min_salary": 131306,
-    "avg_salary": 131306.0,
-    "max_salary": 131306
-  },
-  {
-    "_id": {
-      "city": "Бишкек",
-      "job": "IT-специалист"
-    },
-    "min_salary": 148990,
-    "avg_salary": 148990.0,
-    "max_salary": 148990
-  },
-  {
-    "_id": {
-      "city": "Гранада",
-      "job": "Учитель"
-    },
-    "min_salary": 80327,
-    "avg_salary": 80327.0,
-    "max_salary": 80327
-  },
-  {
-    "_id": {
-      "city": "Мурсия",
-      "job": "Продавец"
-    },
-    "min_salary": 114572,
-    "avg_salary": 114572.0,
-    "max_salary": 114572
-  },
-  {
-    "_id": {
-      "city": "Белград",
-      "job": "Строитель"
-    },
-    "min_salary": 97073,
-    "avg_salary": 97073.0,
-    "max_salary": 97073
-  },
-  {
-    "_id": {
-      "city": "Камбадос",
-      "job": "Врач"
-    },
-    "min_salary": 93178,
-    "avg_salary": 133173.5,
-    "max_salary": 173169
-  },
-  {
-    "_id": {
-      "city": "Будапешт",
-      "job": "Архитектор"
-    },
-    "min_salary": 85434,
-    "avg_salary": 139336.5,
-    "max_salary": 193239
-  },
-  {
-    "_id": {
-      "city": "Камбадос",
-      "job": "Водитель"
-    },
-    "min_salary": 91345,
-    "avg_salary": 91345.0,
-    "max_salary": 91345
-  },
-  {
-    "_id": {
-      "city": "Сьюдад-Реаль",
-      "job": "Учитель"
-    },
-    "min_salary": 64542,
-    "avg_salary": 64542.0,
-    "max_salary": 64542
-  },
-  {
-    "_id": {
-      "city": "Москва",
-      "job": "Психолог"
-    },
-    "min_salary": 90010,
-    "avg_salary": 90010.0,
-    "max_salary": 90010
-  },
-  {
-    "_id": {
-      "city": "Барселона",
-      "job": "Врач"
-    },
-    "min_salary": 156020,
-    "avg_salary": 156020.0,
-    "max_salary": 156020
-  },
-  {
-    "_id": {
-      "city": "Камбадос",
-      "job": "Психолог"
-    },
-    "min_salary": 153617,
-    "avg_salary": 153617.0,
-    "max_salary": 153617
-  },
-  {
-    "_id": {
-      "city": "Баку",
-      "job": "Косметолог"
-    },
-    "min_salary": 136425,
-    "avg_salary": 136425.0,
-    "max_salary": 136425
-  },
-  {
-    "_id": {
-      "city": "Эль-Пуэрто-де-Санта-Мария",
-      "job": "Менеджер"
-    },
-    "min_salary": 68517,
-    "avg_salary": 87010.5,
-    "max_salary": 105504
-  },
-  {
-    "_id": {
-      "city": "Эль-Пуэрто-де-Санта-Мария",
-      "job": "IT-специалист"
-    },
-    "min_salary": 51014,
-    "avg_salary": 51014.0,
-    "max_salary": 51014
-  },
-  {
-    "_id": {
-      "city": "Валенсия",
-      "job": "Повар"
-    },
-    "min_salary": 74453,
-    "avg_salary": 74453.0,
-    "max_salary": 74453
-  },
-  {
-    "_id": {
-      "city": "Касерес",
-      "job": "Медсестра"
-    },
-    "min_salary": 176169,
-    "avg_salary": 176169.0,
-    "max_salary": 176169
-  },
-  {
-    "_id": {
-      "city": "Куэнка",
-      "job": "Врач"
-    },
-    "min_salary": 119178,
-    "avg_salary": 138553.0,
-    "max_salary": 157928
-  },
-  {
-    "_id": {
-      "city": "Минск",
-      "job": "Инженер"
-    },
-    "min_salary": 147317,
-    "avg_salary": 147317.0,
-    "max_salary": 147317
-  },
-  {
-    "_id": {
-      "city": "Луарка",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 93088,
-    "avg_salary": 93088.0,
-    "max_salary": 93088
-  },
-  {
-    "_id": {
-      "city": "Загреб",
-      "job": "Повар"
-    },
-    "min_salary": 179353,
-    "avg_salary": 179353.0,
-    "max_salary": 179353
-  },
-  {
-    "_id": {
-      "city": "Таллин",
-      "job": "Программист"
-    },
-    "min_salary": 75773,
-    "avg_salary": 75773.0,
-    "max_salary": 75773
-  },
-  {
-    "_id": {
-      "city": "Касерес",
-      "job": "Программист"
-    },
-    "min_salary": 139885,
-    "avg_salary": 139885.0,
-    "max_salary": 139885
-  },
-  {
-    "_id": {
-      "city": "Хихон",
-      "job": "Повар"
-    },
-    "min_salary": 186871,
-    "avg_salary": 191674.5,
-    "max_salary": 196478
-  },
-  {
-    "_id": {
-      "city": "Любляна",
-      "job": "IT-специалист"
-    },
-    "min_salary": 95413,
-    "avg_salary": 95413.0,
-    "max_salary": 95413
-  },
-  {
-    "_id": {
-      "city": "Сеговия",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 157880,
-    "avg_salary": 157880.0,
-    "max_salary": 157880
-  },
-  {
-    "_id": {
-      "city": "Тбилиси",
-      "job": "Психолог"
-    },
-    "min_salary": 191462,
-    "avg_salary": 191462.0,
-    "max_salary": 191462
-  },
-  {
-    "_id": {
-      "city": "Куэнка",
-      "job": "Психолог"
-    },
-    "min_salary": 137198,
-    "avg_salary": 137198.0,
-    "max_salary": 137198
-  },
-  {
-    "_id": {
-      "city": "Льейда",
-      "job": "Продавец"
-    },
-    "min_salary": 143729,
-    "avg_salary": 143729.0,
-    "max_salary": 143729
-  },
-  {
-    "_id": {
-      "city": "Бургос",
-      "job": "Врач"
-    },
-    "min_salary": 188092,
-    "avg_salary": 188092.0,
-    "max_salary": 188092
-  },
-  {
-    "_id": {
-      "city": "Тирана",
-      "job": "Инженер"
-    },
-    "min_salary": 51507,
-    "avg_salary": 106127.0,
-    "max_salary": 160747
-  },
-  {
-    "_id": {
-      "city": "Рига",
-      "job": "Медсестра"
-    },
-    "min_salary": 90465,
-    "avg_salary": 90465.0,
-    "max_salary": 90465
-  },
-  {
-    "_id": {
-      "city": "Мерида",
-      "job": "Инженер"
-    },
-    "min_salary": 59448,
-    "avg_salary": 59448.0,
-    "max_salary": 59448
-  },
-  {
-    "_id": {
-      "city": "Ташкент",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 88385,
-    "avg_salary": 88385.0,
-    "max_salary": 88385
-  },
-  {
-    "_id": {
-      "city": "Сан-Себастьян",
-      "job": "IT-специалист"
-    },
-    "min_salary": 93571,
-    "avg_salary": 93571.0,
-    "max_salary": 93571
+    "min_salary": 117512,
+    "avg_salary": 117512.0,
+    "max_salary": 117512
   },
   {
     "_id": {
       "city": "Бланес",
-      "job": "Психолог"
-    },
-    "min_salary": 54140,
-    "avg_salary": 64803.5,
-    "max_salary": 75467
-  },
-  {
-    "_id": {
-      "city": "Камбадос",
-      "job": "Учитель"
-    },
-    "min_salary": 147294,
-    "avg_salary": 147294.0,
-    "max_salary": 147294
-  },
-  {
-    "_id": {
-      "city": "Семана",
-      "job": "Учитель"
-    },
-    "min_salary": 116292,
-    "avg_salary": 116292.0,
-    "max_salary": 116292
-  },
-  {
-    "_id": {
-      "city": "Монсон",
-      "job": "Продавец"
-    },
-    "min_salary": 98294,
-    "avg_salary": 108673.0,
-    "max_salary": 119052
-  },
-  {
-    "_id": {
-      "city": "Афины",
-      "job": "Продавец"
-    },
-    "min_salary": 172072,
-    "avg_salary": 172072.0,
-    "max_salary": 172072
-  },
-  {
-    "_id": {
-      "city": "Авилес",
-      "job": "Врач"
-    },
-    "min_salary": 120246,
-    "avg_salary": 120246.0,
-    "max_salary": 120246
-  },
-  {
-    "_id": {
-      "city": "Ташкент",
-      "job": "Инженер"
-    },
-    "min_salary": 143366,
-    "avg_salary": 143366.0,
-    "max_salary": 143366
-  },
-  {
-    "_id": {
-      "city": "Скопье",
-      "job": "Повар"
-    },
-    "min_salary": 80824,
-    "avg_salary": 142144.33333333334,
-    "max_salary": 187915
-  },
-  {
-    "_id": {
-      "city": "Семана",
-      "job": "Строитель"
-    },
-    "min_salary": 139564,
-    "avg_salary": 139564.0,
-    "max_salary": 139564
-  },
-  {
-    "_id": {
-      "city": "Баку",
       "job": "Оператор call-центра"
     },
-    "min_salary": 134450,
-    "avg_salary": 134450.0,
-    "max_salary": 134450
-  },
-  {
-    "_id": {
-      "city": "Алма-Ата",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 157488,
-    "avg_salary": 157488.0,
-    "max_salary": 157488
-  },
-  {
-    "_id": {
-      "city": "Овьедо",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 145695,
-    "avg_salary": 149205.0,
-    "max_salary": 152715
-  },
-  {
-    "_id": {
-      "city": "Кордова",
-      "job": "Психолог"
-    },
-    "min_salary": 106499,
-    "avg_salary": 106499.0,
-    "max_salary": 106499
-  },
-  {
-    "_id": {
-      "city": "Таллин",
-      "job": "Учитель"
-    },
-    "min_salary": 57286,
-    "avg_salary": 112035.0,
-    "max_salary": 166784
-  },
-  {
-    "_id": {
-      "city": "Малага",
-      "job": "Учитель"
-    },
-    "min_salary": 190975,
-    "avg_salary": 190975.0,
-    "max_salary": 190975
-  },
-  {
-    "_id": {
-      "city": "Вальядолид",
-      "job": "Продавец"
-    },
-    "min_salary": 188612,
-    "avg_salary": 188612.0,
-    "max_salary": 188612
-  },
-  {
-    "_id": {
-      "city": "Луго",
-      "job": "Косметолог"
-    },
-    "min_salary": 145176,
-    "avg_salary": 145176.0,
-    "max_salary": 145176
-  },
-  {
-    "_id": {
-      "city": "Рига",
-      "job": "Программист"
-    },
-    "min_salary": 58674,
-    "avg_salary": 82043.0,
-    "max_salary": 105412
-  },
-  {
-    "_id": {
-      "city": "Минск",
-      "job": "Менеджер"
-    },
-    "min_salary": 162415,
-    "avg_salary": 162415.0,
-    "max_salary": 162415
-  },
-  {
-    "_id": {
-      "city": "Луго",
-      "job": "Оператор call-центра"
-    },
-    "min_salary": 187353,
-    "avg_salary": 187353.0,
-    "max_salary": 187353
-  },
-  {
-    "_id": {
-      "city": "Лас-Росас",
-      "job": "Косметолог"
-    },
-    "min_salary": 61288,
-    "avg_salary": 91321.5,
-    "max_salary": 121355
-  },
-  {
-    "_id": {
-      "city": "Астана",
-      "job": "Программист"
-    },
-    "min_salary": 80968,
-    "avg_salary": 80968.0,
-    "max_salary": 80968
-  },
-  {
-    "_id": {
-      "city": "Тбилиси",
-      "job": "Строитель"
-    },
-    "min_salary": 128264,
-    "avg_salary": 128264.0,
-    "max_salary": 128264
-  },
-  {
-    "_id": {
-      "city": "Мартоса",
-      "job": "Повар"
-    },
-    "min_salary": 59532,
-    "avg_salary": 59532.0,
-    "max_salary": 59532
-  },
-  {
-    "_id": {
-      "city": "Виго",
-      "job": "Продавец"
-    },
-    "min_salary": 183599,
-    "avg_salary": 183599.0,
-    "max_salary": 183599
-  },
-  {
-    "_id": {
-      "city": "Бургос",
-      "job": "Водитель"
-    },
-    "min_salary": 143161,
-    "avg_salary": 143161.0,
-    "max_salary": 143161
-  },
-  {
-    "_id": {
-      "city": "Любляна",
-      "job": "Косметолог"
-    },
-    "min_salary": 130977,
-    "avg_salary": 146361.5,
-    "max_salary": 161746
-  },
-  {
-    "_id": {
-      "city": "Рига",
-      "job": "Менеджер"
-    },
-    "min_salary": 171406,
-    "avg_salary": 171406.0,
-    "max_salary": 171406
-  },
-  {
-    "_id": {
-      "city": "Картахена",
-      "job": "Строитель"
-    },
-    "min_salary": 98710,
-    "avg_salary": 98710.0,
-    "max_salary": 98710
-  },
-  {
-    "_id": {
-      "city": "Подгорица",
-      "job": "Инженер"
-    },
-    "min_salary": 184009,
-    "avg_salary": 184009.0,
-    "max_salary": 184009
-  },
-  {
-    "_id": {
-      "city": "Эль-Пуэрто-де-Санта-Мария",
-      "job": "Архитектор"
-    },
-    "min_salary": 151439,
-    "avg_salary": 151439.0,
-    "max_salary": 151439
-  },
-  {
-    "_id": {
-      "city": "Вильявисиоса",
-      "job": "Врач"
-    },
-    "min_salary": 108463,
-    "avg_salary": 108463.0,
-    "max_salary": 108463
-  },
-  {
-    "_id": {
-      "city": "Белград",
-      "job": "Бухгалтер"
-    },
-    "min_salary": 104571,
-    "avg_salary": 104571.0,
-    "max_salary": 104571
-  },
-  {
-    "_id": {
-      "city": "Мерида",
-      "job": "Продавец"
-    },
-    "min_salary": 181659,
-    "avg_salary": 187823.5,
-    "max_salary": 193988
-  },
-  {
-    "_id": {
-      "city": "Камбадос",
-      "job": "Продавец"
-    },
-    "min_salary": 57738,
-    "avg_salary": 57738.0,
-    "max_salary": 57738
-  },
-  {
-    "_id": {
-      "city": "Картахена",
-      "job": "Психолог"
-    },
-    "min_salary": 84050,
-    "avg_salary": 84050.0,
-    "max_salary": 84050
-  },
-  {
-    "_id": {
-      "city": "Сараево",
-      "job": "Инженер"
-    },
-    "min_salary": 109727,
-    "avg_salary": 109727.0,
-    "max_salary": 109727
-  },
-  {
-    "_id": {
-      "city": "Льейда",
-      "job": "IT-специалист"
-    },
-    "min_salary": 186300,
-    "avg_salary": 186300.0,
-    "max_salary": 186300
-  },
-  {
-    "_id": {
-      "city": "Валенсия",
-      "job": "Косметолог"
-    },
-    "min_salary": 92743,
-    "avg_salary": 92743.0,
-    "max_salary": 92743
-  },
-  {
-    "_id": {
-      "city": "Трухильо",
-      "job": "Строитель"
-    },
-    "min_salary": 155481,
-    "avg_salary": 155481.0,
-    "max_salary": 155481
-  },
-  {
-    "_id": {
-      "city": "Хельсинки",
-      "job": "Повар"
-    },
-    "min_salary": 120880,
-    "avg_salary": 120880.0,
-    "max_salary": 120880
-  },
-  {
-    "_id": {
-      "city": "Вильнюс",
-      "job": "Водитель"
-    },
-    "min_salary": 132212,
-    "avg_salary": 136076.0,
-    "max_salary": 139940
+    "min_salary": 93252,
+    "avg_salary": 100002.5,
+    "max_salary": 106753
   },
   {
     "_id": {
       "city": "София",
-      "job": "Косметолог"
+      "job": "Медсестра"
     },
-    "min_salary": 185442,
-    "avg_salary": 185442.0,
-    "max_salary": 185442
+    "min_salary": 171657,
+    "avg_salary": 171657.0,
+    "max_salary": 171657
   },
   {
     "_id": {
-      "city": "Малага",
-      "job": "Врач"
+      "city": "Эль-Пуэрто-де-Санта-Мария",
+      "job": "Строитель"
     },
-    "min_salary": 80403,
-    "avg_salary": 136222.33333333334,
-    "max_salary": 164967
+    "min_salary": 105641,
+    "avg_salary": 105641.0,
+    "max_salary": 105641
+  },
+  {
+    "_id": {
+      "city": "Осера",
+      "job": "Программист"
+    },
+    "min_salary": 123181,
+    "avg_salary": 126764.5,
+    "max_salary": 130348
+  },
+  {
+    "_id": {
+      "city": "Мартоса",
+      "job": "Инженер"
+    },
+    "min_salary": 77942,
+    "avg_salary": 77942.0,
+    "max_salary": 77942
+  },
+  {
+    "_id": {
+      "city": "Хихон",
+      "job": "Психолог"
+    },
+    "min_salary": 162316,
+    "avg_salary": 162316.0,
+    "max_salary": 162316
+  },
+  {
+    "_id": {
+      "city": "Фигерас",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 70482,
+    "avg_salary": 133200.5,
+    "max_salary": 195919
+  },
+  {
+    "_id": {
+      "city": "Душанбе",
+      "job": "Продавец"
+    },
+    "min_salary": 81855,
+    "avg_salary": 88044.0,
+    "max_salary": 94233
+  },
+  {
+    "_id": {
+      "city": "София",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 195072,
+    "avg_salary": 195072.0,
+    "max_salary": 195072
+  },
+  {
+    "_id": {
+      "city": "Прага",
+      "job": "Медсестра"
+    },
+    "min_salary": 58069,
+    "avg_salary": 58069.0,
+    "max_salary": 58069
+  },
+  {
+    "_id": {
+      "city": "Виго",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 199320,
+    "avg_salary": 199320.0,
+    "max_salary": 199320
+  },
+  {
+    "_id": {
+      "city": "Мурсия",
+      "job": "Водитель"
+    },
+    "min_salary": 186542,
+    "avg_salary": 186542.0,
+    "max_salary": 186542
+  },
+  {
+    "_id": {
+      "city": "Сория",
+      "job": "Строитель"
+    },
+    "min_salary": 129878,
+    "avg_salary": 129878.0,
+    "max_salary": 129878
+  },
+  {
+    "_id": {
+      "city": "Самора",
+      "job": "Архитектор"
+    },
+    "min_salary": 128172,
+    "avg_salary": 142007.5,
+    "max_salary": 155843
+  },
+  {
+    "_id": {
+      "city": "Фигерас",
+      "job": "Медсестра"
+    },
+    "min_salary": 112129,
+    "avg_salary": 112129.0,
+    "max_salary": 112129
+  },
+  {
+    "_id": {
+      "city": "Астана",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 115017,
+    "avg_salary": 115017.0,
+    "max_salary": 115017
+  },
+  {
+    "_id": {
+      "city": "Вильнюс",
+      "job": "Инженер"
+    },
+    "min_salary": 147800,
+    "avg_salary": 147800.0,
+    "max_salary": 147800
+  },
+  {
+    "_id": {
+      "city": "Белград",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 173454,
+    "avg_salary": 173454.0,
+    "max_salary": 173454
+  },
+  {
+    "_id": {
+      "city": "Фигерас",
+      "job": "IT-специалист"
+    },
+    "min_salary": 131697,
+    "avg_salary": 131697.0,
+    "max_salary": 131697
+  },
+  {
+    "_id": {
+      "city": "Камбадос",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 138339,
+    "avg_salary": 138339.0,
+    "max_salary": 138339
   },
   {
     "_id": {
       "city": "Сьюдад-Реаль",
+      "job": "Врач"
+    },
+    "min_salary": 123515,
+    "avg_salary": 123515.0,
+    "max_salary": 123515
+  },
+  {
+    "_id": {
+      "city": "Хихон",
+      "job": "Строитель"
+    },
+    "min_salary": 177558,
+    "avg_salary": 177558.0,
+    "max_salary": 177558
+  },
+  {
+    "_id": {
+      "city": "Льейда",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 59768,
+    "avg_salary": 59768.0,
+    "max_salary": 59768
+  },
+  {
+    "_id": {
+      "city": "Луарка",
+      "job": "Учитель"
+    },
+    "min_salary": 198315,
+    "avg_salary": 198315.0,
+    "max_salary": 198315
+  },
+  {
+    "_id": {
+      "city": "Барселона",
+      "job": "Учитель"
+    },
+    "min_salary": 172475,
+    "avg_salary": 172475.0,
+    "max_salary": 172475
+  },
+  {
+    "_id": {
+      "city": "Мадрид",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 60041,
+    "avg_salary": 60041.0,
+    "max_salary": 60041
+  },
+  {
+    "_id": {
+      "city": "Мерида",
+      "job": "Повар"
+    },
+    "min_salary": 83212,
+    "avg_salary": 83212.0,
+    "max_salary": 83212
+  },
+  {
+    "_id": {
+      "city": "Севилья",
+      "job": "Инженер"
+    },
+    "min_salary": 196469,
+    "avg_salary": 196469.0,
+    "max_salary": 196469
+  },
+  {
+    "_id": {
+      "city": "Самора",
+      "job": "Инженер"
+    },
+    "min_salary": 178717,
+    "avg_salary": 178717.0,
+    "max_salary": 178717
+  },
+  {
+    "_id": {
+      "city": "Малага",
+      "job": "Косметолог"
+    },
+    "min_salary": 167299,
+    "avg_salary": 167299.0,
+    "max_salary": 167299
+  },
+  {
+    "_id": {
+      "city": "Барселона",
+      "job": "Архитектор"
+    },
+    "min_salary": 51271,
+    "avg_salary": 51271.0,
+    "max_salary": 51271
+  },
+  {
+    "_id": {
+      "city": "Любляна",
+      "job": "Строитель"
+    },
+    "min_salary": 153670,
+    "avg_salary": 153670.0,
+    "max_salary": 153670
+  },
+  {
+    "_id": {
+      "city": "Санкт-Петербург",
+      "job": "Водитель"
+    },
+    "min_salary": 143799,
+    "avg_salary": 143799.0,
+    "max_salary": 143799
+  },
+  {
+    "_id": {
+      "city": "Пласенсия",
+      "job": "Врач"
+    },
+    "min_salary": 61037,
+    "avg_salary": 61037.0,
+    "max_salary": 61037
+  },
+  {
+    "_id": {
+      "city": "Лас-Росас",
+      "job": "Учитель"
+    },
+    "min_salary": 75498,
+    "avg_salary": 75498.0,
+    "max_salary": 75498
+  },
+  {
+    "_id": {
+      "city": "Астана",
+      "job": "Инженер"
+    },
+    "min_salary": 180287,
+    "avg_salary": 180287.0,
+    "max_salary": 180287
+  },
+  {
+    "_id": {
+      "city": "Тудела",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 158403,
+    "avg_salary": 158403.0,
+    "max_salary": 158403
+  },
+  {
+    "_id": {
+      "city": "Аликанте",
+      "job": "Врач"
+    },
+    "min_salary": 129655,
+    "avg_salary": 129655.0,
+    "max_salary": 129655
+  },
+  {
+    "_id": {
+      "city": "Любляна",
+      "job": "Инженер"
+    },
+    "min_salary": 199190,
+    "avg_salary": 199190.0,
+    "max_salary": 199190
+  },
+  {
+    "_id": {
+      "city": "Сьюдад-Реаль",
+      "job": "Оператор call-центра"
+    },
+    "min_salary": 50152,
+    "avg_salary": 76242.5,
+    "max_salary": 102333
+  },
+  {
+    "_id": {
+      "city": "Осера",
+      "job": "IT-специалист"
+    },
+    "min_salary": 87442,
+    "avg_salary": 92577.0,
+    "max_salary": 99608
+  },
+  {
+    "_id": {
+      "city": "Трухильо",
+      "job": "Программист"
+    },
+    "min_salary": 160621,
+    "avg_salary": 160621.0,
+    "max_salary": 160621
+  },
+  {
+    "_id": {
+      "city": "Мадрид",
+      "job": "Психолог"
+    },
+    "min_salary": 97036,
+    "avg_salary": 97036.0,
+    "max_salary": 97036
+  },
+  {
+    "_id": {
+      "city": "Эльче",
+      "job": "Архитектор"
+    },
+    "min_salary": 168331,
+    "avg_salary": 168331.0,
+    "max_salary": 168331
+  },
+  {
+    "_id": {
+      "city": "Навалькарнеро",
       "job": "Менеджер"
     },
-    "min_salary": 55745,
-    "avg_salary": 55745.0,
-    "max_salary": 55745
+    "min_salary": 195089,
+    "avg_salary": 195089.0,
+    "max_salary": 195089
+  },
+  {
+    "_id": {
+      "city": "Астана",
+      "job": "Строитель"
+    },
+    "min_salary": 57650,
+    "avg_salary": 69755.0,
+    "max_salary": 81860
+  },
+  {
+    "_id": {
+      "city": "Хихон",
+      "job": "Инженер"
+    },
+    "min_salary": 61950,
+    "avg_salary": 61950.0,
+    "max_salary": 61950
+  },
+  {
+    "_id": {
+      "city": "Сьюдад-Реаль",
+      "job": "Повар"
+    },
+    "min_salary": 164516,
+    "avg_salary": 164516.0,
+    "max_salary": 164516
+  },
+  {
+    "_id": {
+      "city": "Кадакес",
+      "job": "IT-специалист"
+    },
+    "min_salary": 130778,
+    "avg_salary": 130778.0,
+    "max_salary": 130778
+  },
+  {
+    "_id": {
+      "city": "Ереван",
+      "job": "Учитель"
+    },
+    "min_salary": 174254,
+    "avg_salary": 174254.0,
+    "max_salary": 174254
+  },
+  {
+    "_id": {
+      "city": "Овьедо",
+      "job": "Менеджер"
+    },
+    "min_salary": 136327,
+    "avg_salary": 136327.0,
+    "max_salary": 136327
+  },
+  {
+    "_id": {
+      "city": "Вильнюс",
+      "job": "Учитель"
+    },
+    "min_salary": 159789,
+    "avg_salary": 160762.5,
+    "max_salary": 161736
+  },
+  {
+    "_id": {
+      "city": "Скопье",
+      "job": "Менеджер"
+    },
+    "min_salary": 90957,
+    "avg_salary": 90957.0,
+    "max_salary": 90957
+  },
+  {
+    "_id": {
+      "city": "Санкт-Петербург",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 124938,
+    "avg_salary": 135946.5,
+    "max_salary": 146955
+  },
+  {
+    "_id": {
+      "city": "Тбилиси",
+      "job": "Архитектор"
+    },
+    "min_salary": 63632,
+    "avg_salary": 63632.0,
+    "max_salary": 63632
+  },
+  {
+    "_id": {
+      "city": "Махадаонда",
+      "job": "Менеджер"
+    },
+    "min_salary": 62411,
+    "avg_salary": 62411.0,
+    "max_salary": 62411
+  },
+  {
+    "_id": {
+      "city": "Сантьяго-де-Компостела",
+      "job": "Врач"
+    },
+    "min_salary": 109737,
+    "avg_salary": 109737.0,
+    "max_salary": 109737
+  },
+  {
+    "_id": {
+      "city": "Санхенхо",
+      "job": "Менеджер"
+    },
+    "min_salary": 184273,
+    "avg_salary": 191410.5,
+    "max_salary": 198548
+  },
+  {
+    "_id": {
+      "city": "Картахена",
+      "job": "Программист"
+    },
+    "min_salary": 183975,
+    "avg_salary": 183975.0,
+    "max_salary": 183975
+  },
+  {
+    "_id": {
+      "city": "Кадакес",
+      "job": "Архитектор"
+    },
+    "min_salary": 78528,
+    "avg_salary": 78528.0,
+    "max_salary": 78528
+  },
+  {
+    "_id": {
+      "city": "Сараево",
+      "job": "Архитектор"
+    },
+    "min_salary": 79103,
+    "avg_salary": 79103.0,
+    "max_salary": 79103
+  },
+  {
+    "_id": {
+      "city": "Вильнюс",
+      "job": "Продавец"
+    },
+    "min_salary": 140601,
+    "avg_salary": 140601.0,
+    "max_salary": 140601
+  },
+  {
+    "_id": {
+      "city": "Сьюдад-Реаль",
+      "job": "Косметолог"
+    },
+    "min_salary": 121983,
+    "avg_salary": 121983.0,
+    "max_salary": 121983
+  },
+  {
+    "_id": {
+      "city": "Любляна",
+      "job": "Водитель"
+    },
+    "min_salary": 69665,
+    "avg_salary": 69665.0,
+    "max_salary": 69665
+  },
+  {
+    "_id": {
+      "city": "Сантьяго-де-Компостела",
+      "job": "Бухгалтер"
+    },
+    "min_salary": 123573,
+    "avg_salary": 123573.0,
+    "max_salary": 123573
+  },
+  {
+    "_id": {
+      "city": "Сеговия",
+      "job": "Строитель"
+    },
+    "min_salary": 155921,
+    "avg_salary": 155921.0,
+    "max_salary": 155921
+  },
+  {
+    "_id": {
+      "city": "Вальядолид",
+      "job": "Водитель"
+    },
+    "min_salary": 99482,
+    "avg_salary": 99482.0,
+    "max_salary": 99482
+  },
+  {
+    "_id": {
+      "city": "Прага",
+      "job": "Менеджер"
+    },
+    "min_salary": 197579,
+    "avg_salary": 197579.0,
+    "max_salary": 197579
   }
 ]

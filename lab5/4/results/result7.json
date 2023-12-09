@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "WHITE NON HISP",
+    "count": 701
+  },
+  {
+    "_id": "WHITE NON HISPANIC",
+    "count": 5812
+  },
+  {
+    "_id": "ASIAN AND PACIFIC ISLANDER",
+    "count": 2795
+  },
+  {
+    "_id": "HISPANIC",
+    "count": 5180
+  },
+  {
+    "_id": "BLACK NON HISP",
+    "count": 353
+  },
+  {
+    "_id": "ASIAN AND PACI",
+    "count": 358
+  },
+  {
+    "_id": "BLACK NON HISPANIC",
+    "count": 2854
+  }
+]

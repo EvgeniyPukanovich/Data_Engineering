@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "ASIAN AND PACIFIC ISLANDER",
+    "min_count": 10,
+    "avg_count": 25.669051878354203,
+    "max_count": 220
+  },
+  {
+    "_id": "WHITE NON HISP",
+    "min_count": 10,
+    "avg_count": 38.0527817403709,
+    "max_count": 300
+  },
+  {
+    "_id": "WHITE NON HISPANIC",
+    "min_count": 10,
+    "avg_count": 37.0719201651755,
+    "max_count": 304
+  },
+  {
+    "_id": "BLACK NON HISP",
+    "min_count": 10,
+    "avg_count": 28.91784702549575,
+    "max_count": 171
+  },
+  {
+    "_id": "HISPANIC",
+    "min_count": 10,
+    "avg_count": 38.17548262548262,
+    "max_count": 426
+  },
+  {
+    "_id": "BLACK NON HISPANIC",
+    "min_count": 10,
+    "avg_count": 25.91625788367204,
+    "max_count": 184
+  },
+  {
+    "_id": "ASIAN AND PACI",
+    "min_count": 10,
+    "avg_count": 28.77094972067039,
+    "max_count": 197
+  }
+]

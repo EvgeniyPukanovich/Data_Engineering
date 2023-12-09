@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "65747d468f5036c77303de01",
+    "Year of Birth": 2016,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "Olivia",
+    "Count": 230,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303f3d1",
+    "Year of Birth": 2015,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "Emma",
+    "Count": 225,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303f5dd",
+    "Year of Birth": 2012,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE NON HISP",
+    "Child's First Name": "EMMA",
+    "Count": 228,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303dd39",
+    "Year of Birth": 2017,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "Esther",
+    "Count": 260,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303e42e",
+    "Year of Birth": 2013,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "Olivia",
+    "Count": 233,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303f529",
+    "Year of Birth": 2011,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "ESTHER",
+    "Count": 224,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c7730406a3",
+    "Year of Birth": 2018,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "Esther",
+    "Count": 246,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303f889",
+    "Year of Birth": 2019,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "Chaya",
+    "Count": 209,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303e6cf",
+    "Year of Birth": 2015,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "Olivia",
+    "Count": 225,
+    "Rank": 1
+  },
+  {
+    "_id": "65747d468f5036c77303e3b3",
+    "Year of Birth": 2014,
+    "Gender": "FEMALE",
+    "Ethnicity": "WHITE NON HISPANIC",
+    "Child's First Name": "Olivia",
+    "Count": 248,
+    "Rank": 1
+  }
+]

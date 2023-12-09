@@ -1,9 +1,7 @@
 import pickle
-import os
 import sys
 
 sys.path.append("..")
-from json_utils import insert_data
 from database_utils import connect_to_mongo
 
 with open("task_3_item.pkl", "rb") as f:
