@@ -61,14 +61,13 @@ def change_obj_to_cat(df: pd.DataFrame):
             df[column] = pd.to_numeric(df[column], downcast="float")
 
 
-def print_memory_stats(df: pd.DataFrame, file_name: str, output_file_name: str):
-    mem_stats = get_memory_stats(df, file_name)
+def print_memory_stats(file_stat: dict[str, int], mem_stat: dict, by_columns: pd.DataFrame, output_file_name: str):
 
     with open(output_file_name, "w", encoding="utf-8") as r_json:
         combined_json = {}
-        combined_json.update(mem_stats[0])
-        combined_json.update(mem_stats[1])
-        res = mem_stats[2].to_json(orient="index", default_handler=str)
+        combined_json.update(file_stat)
+        combined_json.update(mem_stat)
+        res = by_columns.to_json(orient="index", default_handler=str)
         parsed = json.loads(res)
         combined_json.update(parsed)
         json.dump(combined_json, r_json, indent=2, ensure_ascii=False, cls=NpEncoder)
