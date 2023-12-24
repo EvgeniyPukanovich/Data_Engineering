@@ -1,0 +1,148 @@
+{
+  "file_size_KB": 177515,
+  "file_in_memory_size_KB": 1133234,
+  "18": {
+    "column_name": "post_self_text",
+    "memory_abs": 580180,
+    "memory_per": 51.1969,
+    "dtype": "object"
+  },
+  "2": {
+    "column_name": "self_text",
+    "memory_abs": 202442,
+    "memory_per": 17.8641,
+    "dtype": "object"
+  },
+  "19": {
+    "column_name": "post_title",
+    "memory_abs": 70677,
+    "memory_per": 6.2368,
+    "dtype": "object"
+  },
+  "23": {
+    "column_name": "post_created_time",
+    "memory_abs": 34971,
+    "memory_per": 3.086,
+    "dtype": "object"
+  },
+  "4": {
+    "column_name": "created_time",
+    "memory_abs": 34971,
+    "memory_per": 3.086,
+    "dtype": "object"
+  },
+  "11": {
+    "column_name": "user_account_created_time",
+    "memory_abs": 34611,
+    "memory_per": 3.0543,
+    "dtype": "object"
+  },
+  "3": {
+    "column_name": "subreddit",
+    "memory_abs": 32043,
+    "memory_per": 2.8276,
+    "dtype": "object"
+  },
+  "6": {
+    "column_name": "author_name",
+    "memory_abs": 31735,
+    "memory_per": 2.8005,
+    "dtype": "object"
+  },
+  "0": {
+    "column_name": "comment_id",
+    "memory_abs": 28799,
+    "memory_per": 2.5414,
+    "dtype": "object"
+  },
+  "5": {
+    "column_name": "post_id",
+    "memory_abs": 28799,
+    "memory_per": 2.5414,
+    "dtype": "object"
+  },
+  "9": {
+    "column_name": "downs",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "int64"
+  },
+  "8": {
+    "column_name": "ups",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "int64"
+  },
+  "1": {
+    "column_name": "score",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "int64"
+  },
+  "13": {
+    "column_name": "user_awarder_karma",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "float64"
+  },
+  "14": {
+    "column_name": "user_link_karma",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "float64"
+  },
+  "15": {
+    "column_name": "user_comment_karma",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "float64"
+  },
+  "16": {
+    "column_name": "user_total_karma",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "float64"
+  },
+  "17": {
+    "column_name": "post_score",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "int64"
+  },
+  "7": {
+    "column_name": "controversiality",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "int64"
+  },
+  "20": {
+    "column_name": "post_upvote_ratio",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "float64"
+  },
+  "21": {
+    "column_name": "post_thumbs_ups",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "int64"
+  },
+  "22": {
+    "column_name": "post_total_awards_received",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "int64"
+  },
+  "12": {
+    "column_name": "user_awardee_karma",
+    "memory_abs": 4114,
+    "memory_per": 0.3631,
+    "dtype": "float64"
+  },
+  "10": {
+    "column_name": "user_is_verified",
+    "memory_abs": 514,
+    "memory_per": 0.0454,
+    "dtype": "bool"
+  }
+}
